@@ -1,7 +1,3 @@
----
-description: Pebble Tracker
----
-
 # Overview
 
 The IoTeX platform combines blockchain, decentralized identity, and **secure hardware** to enable trusted IoT devices and services that are owned by users, not corporations.

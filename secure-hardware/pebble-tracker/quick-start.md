@@ -1,7 +1,3 @@
----
-description: Pebble Tracker
----
-
 # Quick Start
 
 Congratulations on receiving your Pebble!
