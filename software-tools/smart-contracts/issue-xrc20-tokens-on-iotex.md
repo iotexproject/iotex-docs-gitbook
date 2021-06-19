@@ -10,7 +10,7 @@ In this example, we will use the ioPay Desktop wallet to deploy the contract. Do
 
 ![Select the &quot;Testnet&quot; endpoint in ioPay Desktop ](http://docs-old.iotex.io/img/developer/iopay-testnet.png)
 
-Finally, get some IOTX test tokens from any [IoTeX faucet](../get-started/iotx-faucets.md) and send them to your IoPay account address.
+Finally, get some IOTX test tokens from any [IoTeX faucet](../iotx-faucets.md) and send them to your IoPay account address.
 
 ### 2. Edit Solidity code in IoTeX Studio IDE
 

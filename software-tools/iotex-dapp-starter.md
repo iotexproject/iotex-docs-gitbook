@@ -31,5 +31,3 @@ yarn start
 
 See the demo app running on your local machine at [localhost:3000, ](http://localhost:3000/)and start building your great new idea!
 
-
-

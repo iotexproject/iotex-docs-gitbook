@@ -15,7 +15,7 @@ Whether you are an IoT enterprise, Dapp builder, or device manufacturer, come bu
 ### [Smart Contracts](software-tools/smart-contracts/)
 
 Exchange any asset or implement any logic in a transparent, decentralized fashion with IoTeX smart contracts.   
-[IoTeX Studio ](https://ide.iotex.io/)᛫[ ](https://ide.iotex.io/)[Issue Tokens](software-tools/smart-contracts/issue-xrc20-tokens-on-iotex.md) ᛫ [Faucets](software-tools/get-started/iotx-faucets.md)
+[IoTeX Studio ](https://ide.iotex.io/)᛫[ ](https://ide.iotex.io/)[Issue Tokens](software-tools/smart-contracts/issue-xrc20-tokens-on-iotex.md) ᛫ [Faucets](software-tools/iotx-faucets.md)
 
 ### [Exchanges & Wallets](more-resources/exchange-integration/general-guide.md)
 
