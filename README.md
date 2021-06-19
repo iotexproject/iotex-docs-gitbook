@@ -1,6 +1,14 @@
-# The Internet of Trusted Things
+---
+description: >-
+  IoTeX is more than just a blockchain: it is a full-stack platform to enable
+  trusted data from trusted devices, for use in trusted dApps.
+---
 
-IoTeX is a decentralized platform that combines blockchain, secure hardware, and confidential computing to empower privacy-focused devices, apps, and services. Whether you are an IoT enterprise, device manufacturer, or Dapp builder, come build the future on IoTeX.
+# Welcome
+
+IoTeX is a decentralized platform that combines blockchain, secure hardware, and confidential computing to empower privacy-focused devices, apps, and services.
+
+Whether you are an IoT enterprise, Dapp builder, or device manufacturer, come build the future on IoTeX.
 
 ## Build your IoTeX Integration
 
@@ -45,7 +53,7 @@ Connect to ioPay wallet, show balance and send tokens with our dApp sample out o
 
 ![](.gitbook/assets/image%20%286%29.png)
 
-ioctl is the IoTeX command line client to interact with a IoTeX Gateway Node. With ioctl you can send and query actions to the blockchain, manage accounts, transfer XRC20 tokens, deploy smart contracts, create a decentralized identity, and much more![  
+ioctl is the IoTeX command-line client to interact with an IoTeX Gateway Node. With ioctl you can send and query actions to the blockchain, manage accounts, transfer XRC20 tokens, deploy smart contracts, create a decentralized identity, and much more![  
 ](https://github.com/iotexproject/iotex-dapp-sample#iotex-dapp-sample)
 
 

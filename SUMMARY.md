@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The Internet of Trusted Things](README.md)
+* [Welcome](README.md)
 
 ## 🛠Software Tools
 
