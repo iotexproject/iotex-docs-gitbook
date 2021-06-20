@@ -26,7 +26,7 @@ A IoTeX account can be generated via [this algorithm](https://github.com/iotexpr
 If you have not installed the latest **ioctl Command line client**, please check out the installation [instructions](../../reference/ioctl-cli-reference/).
 {% endhint %}
 
-New accounts can be generated using ioctl command line client, which will provide the private key and corresponding public keys and IoTeX address. See [this example](../../software-tools/get-started/create-an-iotex-account.md) for more details about how to create a IoTeX account with ioctl.
+New accounts can be generated using ioctl command line client, which will provide the private key and corresponding public keys and IoTeX address. See [this example](../../get-started/command-line-client/create-an-iotex-account.md) for more details about how to create a IoTeX account with ioctl.
 
 {% hint style="warning" %}
 gRPC Core API does not support the creation of new accounts.
@@ -34,7 +34,7 @@ gRPC Core API does not support the creation of new accounts.
 
 ### Send IOTX <a id="send-iotx"></a>
 
-To send a signed action, the [/APIService/SendAction](../../reference/node-core-api-grpc.md#sendaction) gRPC endpoint can be used, or ioctl command line client can be used also: see [this example](../../software-tools/get-started/send-your-first-transaction.md) for more details on how to send a signed action using ioctl.
+To send a signed action, the [/APIService/SendAction](../../reference/node-core-api-grpc.md#sendaction) gRPC endpoint can be used, or ioctl command line client can be used also: see [this example]() for more details on how to send a signed action using ioctl.
 
 {% hint style="warning" %}
 For safety and auditing reasons, after a new action gets added to the blockchain \(whether it's a user deposit or a withdraw\) the exchange must retrieve the action data and verify the following:
