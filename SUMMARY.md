@@ -8,7 +8,6 @@
   * [Install ioctl cli](get-started/command-line-client/install-ioctl-cli.md)
   * [Create wallet account](get-started/command-line-client/create-an-iotex-account.md)
   * [Interact with the blockchain](get-started/command-line-client/interact-with-the-blockchain.md)
-* [IoTeX dApp Starter](get-started/iotex-dapp-starter.md)
 * [Obtain Test Tokens](get-started/iotx-faucets.md)
 * [dApp Development](get-started/ethereum-tools/README.md)
   * [Ethereum Copmpatibility](get-started/ethereum-tools/ethereum-copmpatibility/README.md)
@@ -40,6 +39,7 @@
       * [Interact with ioPay Desktop](get-started/ethereum-tools/iotex-antenna-sdk/reference-code/interact-with-iopay-desktop.md)
       * [Create a DID JWT](get-started/ethereum-tools/iotex-antenna-sdk/reference-code/create-a-did-jwt.md)
       * [Call any RPC method](get-started/ethereum-tools/iotex-antenna-sdk/reference-code/call-any-rpc-method.md)
+* [IoTeX dApp Starter](get-started/iotex-dapp-starter.md)
 
 ## 🧑‍💻Middleware <a id="middleware-1"></a>
 
