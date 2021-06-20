@@ -30,7 +30,7 @@ Give your users the ability to create and control their identity. IoTeX DID appl
 ### [ioTube Ethereum & BSC Bridge](https://tube.iotex.io)
 
 Extend the reach of your ERC20 or BEP20 Token to the IoTeX Blockchain to run transactions-intensive tasks  
-[Submit your Token](https://github.com/iotexproject/iotube/issues/new?body=%3C%21--%0APlease+only+use+this+template+for+submitting+new+ERC20+tokens+you+would+like+to+be+added+to+https%3A%2F%2Ftube.iotex.io%0A--%3E%0A%0A+**What%27s+the+ERC20+token+address%3F**%0A%0A**Additional+comments**%3A&title=New+ERC20+Token+Submission) ᛫ [ioTube App ](https://tube.iotex.io/)
+[Submit your Token](https://github.com/iotexproject/ioTube/issues/new?assignees=guo&labels=Token-Pending-Review&template=iotube-new-token-submission.md&title=) ᛫ [ioTube App ](https://tube.iotex.io/)
 
 ## Explore Developer Tools <a id="part2"></a>
 
