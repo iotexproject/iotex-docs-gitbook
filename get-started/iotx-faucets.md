@@ -6,7 +6,7 @@ For this reason, all blockchain developers use the IoTeX **testnet** as the deve
 
 One way to obtain test IOTX tokens is to request them on the IoTeX web faucet:
 
-* **Link**: [https://faucet.iotex.io/\(opens new window\)](https://faucet.iotex.io/)
+* **Link**: [https://faucet.iotex.io/](https://faucet.iotex.io/)
 * **Network**: Testnet
 * **Amount**: 1000 IOTX-T
 * **Sender address**: `io10t7juxazfteqzjsd6qjk7tkgmngj2tm7n4fvrd`
