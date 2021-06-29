@@ -4,16 +4,14 @@ description: Welcome to the IoTeX Documentation portal
 
 # Welcome
 
-IoTeX is more than just blockchain: it is a full-stack platform to enable **trusted data** from **trusted devices**, for use in **trusted dApps**. IoTeX combines blockchain, secure hardware, and confidential computing to empower **privacy-focused** devices, apps, and services.
-
-Whether you are an IoT enterprise, Dapp builder, or device manufacturer, come build the future on IoTeX.
+IoTeX is a full-stack platform to enable **trusted data** from **trusted devices**, for use in **trusted dApps**. IoTeX combines blockchain, secure hardware, and confidential computing to empower **privacy-focused** devices, apps, and services.
 
 ## Explore Developer Tools <a id="part2"></a>
 
 ### [SDKs](get-started/ethereum-tools/iotex-antenna-sdk/)
 
 Use your favorite Ethereum tools and libraries to build on IoTeX, port your existing dApps without any change to the code, or import the IoTeX native SDK for advanced features:  
-᛫ [Ethereum Compatibility](get-started/ethereum-tools/ethereum-copmpatibility/) ᛫ [Native SDK](get-started/ethereum-tools/iotex-antenna-sdk/) ᛫ [Tutorials](get-started/ethereum-tools/smart-contracts/)
+᛫ [Ethereum Development](get-started/ethereum-tools/ethereum-copmpatibility/) ᛫ [Native Development](get-started/ethereum-tools/iotex-antenna-sdk/) ᛫ [Tutorials](get-started/ethereum-tools/smart-contracts/)
 
 ### [Core API](reference/node-core-api-grpc.md)
 
