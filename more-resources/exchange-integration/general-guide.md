@@ -26,7 +26,7 @@ A IoTeX account can be generated via [this algorithm](https://github.com/iotexpr
 If you have not installed the latest **ioctl Command line client**, please check out the installation [instructions](../../reference/ioctl-cli-reference/).
 {% endhint %}
 
-New accounts can be generated using ioctl command line client, which will provide the private key and corresponding public keys and IoTeX address. See [this example](../../get-started/command-line-client/create-an-iotex-account.md) for more details about how to create a IoTeX account with ioctl.
+New accounts can be generated using ioctl command line client, which will provide the private key and corresponding public keys and IoTeX address. See [this example](../../get-started/iotex-wallets/command-line-client/create-an-iotex-account.md) for more details about how to create a IoTeX account with ioctl.
 
 {% hint style="warning" %}
 gRPC Core API does not support the creation of new accounts.

@@ -4,14 +4,16 @@
 
 ## 🛠Get Started
 
-* [Command line client](get-started/command-line-client/README.md)
-  * [Install ioctl cli](get-started/command-line-client/install-ioctl-cli.md)
-  * [Create wallet account](get-started/command-line-client/create-an-iotex-account.md)
-  * [Interact with the blockchain](get-started/command-line-client/interact-with-the-blockchain.md)
+* [IoTeX Wallets](get-started/iotex-wallets/README.md)
+  * [Official ioPay Wallet](get-started/iotex-wallets/official-iopay-wallet.md)
+  * [Metamask Wallet](get-started/iotex-wallets/metamask.md)
+  * [Command line client](get-started/iotex-wallets/command-line-client/README.md)
+    * [Install ioctl cli](get-started/iotex-wallets/command-line-client/install-ioctl-cli.md)
+    * [Create wallet account](get-started/iotex-wallets/command-line-client/create-an-iotex-account.md)
+    * [Interact with the blockchain](get-started/iotex-wallets/command-line-client/interact-with-the-blockchain.md)
 * [Obtain Test Tokens](get-started/iotx-faucets.md)
 * [dApp Development](get-started/ethereum-tools/README.md)
   * [Ethereum Development](get-started/ethereum-tools/ethereum-copmpatibility/README.md)
-    * [Metamask](get-started/ethereum-tools/ethereum-copmpatibility/metamask.md)
     * [Web3.js](get-started/ethereum-tools/ethereum-copmpatibility/web3.js.md)
     * [Remix](get-started/ethereum-tools/ethereum-copmpatibility/remix.md)
     * [Truffle](get-started/ethereum-tools/ethereum-copmpatibility/truffle.md)

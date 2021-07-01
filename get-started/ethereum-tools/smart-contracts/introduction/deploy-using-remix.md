@@ -6,7 +6,7 @@ The easiest way to deploy an XRC20 token on IoTeX is using the Remix IDE in conj
 
 Make sure you configured Metamask for use with the IoTeX Blockchain and that the IoTeX network, whether its mainnet or testnet, is actually selected in Metamask:
 
-{% page-ref page="../../ethereum-copmpatibility/metamask.md" %}
+{% page-ref page="../../../iotex-wallets/metamask.md" %}
 
 ## 2. Open Remix IDE and paste the code
 
