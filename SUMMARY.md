@@ -112,14 +112,11 @@
 
 ## 💡Basic Concepts
 
-* [Accounts](basic-concepts/accounts/README.md)
-  * [Owned Accounts](basic-concepts/accounts/owned-accounts.md)
-  * [Contract Accounts](basic-concepts/accounts/contract-accounts.md)
+* [Wallet Accounts](basic-concepts/accounts.md)
+* [Accounts cryptography](basic-concepts/accounts-cryptography.md)
+* [Blockchain Actions](basic-concepts/blockchain-actions.md)
 * [Address Conversion](basic-concepts/address-conversion.md)
-* [Wallet App](basic-concepts/wallet-app.md)
 * [Blockchain Nodes](basic-concepts/blockchain-nodes.md)
 * [IOTX Token](basic-concepts/iotx-token.md)
-* [Accounts cryptography](basic-concepts/accounts-cryptography.md)
 * [Chain ID](basic-concepts/chain-id.md)
-* [Blockchain Actions](basic-concepts/blockchain-actions.md)
 
