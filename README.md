@@ -8,10 +8,10 @@ IoTeX is a full-stack platform to enable **trusted data** from **trusted devices
 
 ## Explore Developer Tools <a id="part2"></a>
 
-### [SDKs](get-started/ethereum-tools/iotex-antenna-sdk/)
+### [SDKs](iotex-antenna-sdk/)
 
 Use your favorite Ethereum tools and libraries to build on IoTeX, port your existing dApps without any change to the code, or import the IoTeX native SDK for advanced features:  
-᛫ [Ethereum Development](get-started/ethereum-tools/ethereum-copmpatibility/) ᛫ [Native Development](get-started/ethereum-tools/iotex-antenna-sdk/) ᛫ [Tutorials](get-started/ethereum-tools/smart-contracts/)
+᛫ [Ethereum Development](ethereum-copmpatibility/) ᛫ [Native Development](iotex-antenna-sdk/) ᛫ [Tutorials](smart-contracts/)
 
 ### [Core API](reference/node-core-api-grpc.md)
 
@@ -25,10 +25,10 @@ Get started with a fully working example dApp using the most popular web develop
 
 ## Build your IoTeX Integration
 
-### [Smart Contracts](get-started/ethereum-tools/smart-contracts/)
+### [Smart Contracts](smart-contracts/)
 
 Exchange any asset or implement any logic in a transparent, decentralized fashion with IoTeX smart contracts.   
-᛫[ ](https://ide.iotex.io/)[Issue Tokens](get-started/ethereum-tools/smart-contracts/introduction/) ᛫ [Faucets](get-started/iotx-faucets.md)
+᛫[ ](https://ide.iotex.io/)[Issue Tokens](smart-contracts/introduction/) ᛫ [Faucets](get-started/iotx-faucets.md)
 
 ### [Exchanges & Wallets](more-resources/exchange-integration/general-guide.md)
 

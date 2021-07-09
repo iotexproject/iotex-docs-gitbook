@@ -8,7 +8,7 @@ description: >-
 
 ## Introduction
 
-Developing blockchain Apps with IoTeX has never been more easy. If you are a  familiar with **Solidity** and **Web3js** then you can start building on IoTeX straight away: grab your favorite [Ethereum Tool](../get-started/ethereum-tools/), point it to a [Babel Service](../reference/babel-web3-api.md) \(the Ethereum-Compatible IoTeX endpoint\) and deploy your app in seconds.
+Developing blockchain Apps with IoTeX has never been more easy. If you are a  familiar with **Solidity** and **Web3js** then you can start building on IoTeX straight away: grab your favorite [Ethereum Tool](), point it to a [Babel Service](../reference/babel-web3-api.md) \(the Ethereum-Compatible IoTeX endpoint\) and deploy your app in seconds.
 
 ## IoTeX Address format
 

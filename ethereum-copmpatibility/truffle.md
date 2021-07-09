@@ -4,7 +4,7 @@
 
 This guide describes how to configure Truffle when you want to deploy your smart contracts on the IoTeX Network.
 
-Let's assume that you already created a Truffle project and you want now use the `truffle migrate` command to deploy it on IoTeX. We will use `https://babel-api.testnet.iotex.io` as the [Babel endpoint](../../../reference/babel-web3-api.md) for IoTeX Testnet.
+Let's assume that you already created a Truffle project and you want now use the `truffle migrate` command to deploy it on IoTeX. We will use `https://babel-api.testnet.iotex.io` as the [Babel endpoint](../reference/babel-web3-api.md) for IoTeX Testnet.
 
 ## 1. Install the hdwallet-provider package
 

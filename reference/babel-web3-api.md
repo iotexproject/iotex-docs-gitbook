@@ -1,6 +1,6 @@
 # Babel - Web3 API
 
-Babel is the IoTeX service that wraps an Ethereum-node JSON-RPC API: you can point your web3 [Ethereum clients and tools](../get-started/ethereum-tools/) to a Babel endpoint, and have them work with the IoTeX blockchain with no changes. 
+Babel is the IoTeX service that wraps an Ethereum-node JSON-RPC API: you can point your web3 [Ethereum clients and tools]() to a Babel endpoint, and have them work with the IoTeX blockchain with no changes. 
 
 {% embed url="https://eth.wiki/json-rpc/API\#json-rpc-methods" caption="Official Ethereum JSON-RPC API Documentation" %}
 

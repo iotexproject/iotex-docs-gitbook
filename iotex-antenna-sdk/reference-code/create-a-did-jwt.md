@@ -6,7 +6,7 @@ Decentralized Identity \(DID\) is essentially an ID that is:
 2. resolve-able with high availability, and
 3. cryptographically verifiable.
 
-Please see more detailed specs in [IIP-7 ](https://github.com/iotexproject/iips/blob/master/iip-7.md)and you can learn more in the [DID documentation](../../../../reference/ioctl-cli-reference/decentralized-identity.md).
+Please see more detailed specs in [IIP-7 ](https://github.com/iotexproject/iips/blob/master/iip-7.md)and you can learn more in the [DID documentation](../../reference/ioctl-cli-reference/decentralized-identity.md).
 
 Given an IoTeX address `io1tpphshf0npzawfug7g4dhrzwkzepfkwgq5prm6`, we can derive its DID as `did:io:io1tpphshf0npzawfug7g4dhrzwkzepfkwgq5prm6`. And then you can create a DID JWT as in the following example:
 
