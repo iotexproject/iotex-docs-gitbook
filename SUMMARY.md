@@ -61,7 +61,7 @@
   * [Security Considerations](middleware-1/decentralized-identity/security-considerations.md)
   * [References](middleware-1/decentralized-identity/references.md)
 
-## 🔐Secure Hardware
+## 🔐Verifiable IoT Data <a id="secure-hardware"></a>
 
 * [Pebble Tracker](secure-hardware/pebble-tracker/README.md)
   * [Overview](secure-hardware/pebble-tracker/overview.md)
