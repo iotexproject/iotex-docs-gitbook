@@ -4,7 +4,7 @@
 
 While IoTeX fully supports the Ethereum API, allowing you to use Web3 tools for dApp development, the fact that IoTeX architecture is more complex than Ethereum's, makes Antenna the necessary choice when you want to make use of IoTeX unique features. For example, "Delegates," "Block Producers," "Staking Transactions," "Buckets," "Voting," etc., are concepts that find no correspondence in Ethereum. Therefore if you want to use these features in your dApp, you won't find them in, e.g., Web3js: in this case, you will have to use Antenna.
 
-[The reference implementation](reference-code/create-an-account.md) is included for each supported language.
+[The Example code](reference-code/create-an-account.md) section includes examples for each supported language.
 
 ### Supported Languages <a id="supported-languages"></a>
 
