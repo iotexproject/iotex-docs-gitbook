@@ -18,7 +18,7 @@ Use your favorite Ethereum tools and libraries to build on IoTeX, port your exis
 See all available gRPC API calls to interact with an IoTeX blockchain node.  
 ᛫ [Native API Reference](reference/node-core-api-grpc.md) ᛫ [gRPC proto files](https://github.com/iotexproject/iotex-proto) ᛫ [Ethereum API](reference/babel-web3-api.md)
 
-### [IoTeX Dapp Starter](get-started/iotex-dapp-starter.md)
+### [IoTeX Dapp Sample](get-started/iotex-dapp-starter.md)
 
 Get started with a fully working example dApp using the most popular web development stack: multi-wallet connection, cross-blockchain, and tokens management is all working out of the box in a sleek user interface.   
 ᛫ [Overview](get-started/iotex-dapp-starter.md) ᛫ [See on GitHub ](https://github.com/iotexproject/iotex-dapp-sample-v2)

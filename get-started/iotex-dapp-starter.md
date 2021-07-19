@@ -1,4 +1,4 @@
-# IoTeX dApp Starter
+# IoTeX dApp Sample
 
 ## Introduction 
 

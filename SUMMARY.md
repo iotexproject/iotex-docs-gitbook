@@ -12,7 +12,7 @@
     * [Create wallet account](get-started/iotex-wallets/command-line-client/create-an-iotex-account.md)
     * [Interact with the blockchain](get-started/iotex-wallets/command-line-client/interact-with-the-blockchain.md)
 * [Obtain Test Tokens](get-started/iotx-faucets.md)
-* [IoTeX dApp Starter](get-started/iotex-dapp-starter.md)
+* [IoTeX dApp Sample](get-started/iotex-dapp-starter.md)
 
 ## dApp Development
 
@@ -25,7 +25,7 @@
   * [Hardhat](ethereum-copmpatibility/hardhat.md)
   * [Subgraph](ethereum-copmpatibility/subgraph.md)
 * [Native Development](iotex-antenna-sdk/README.md)
-  * [Overview](iotex-antenna-sdk/antenna-overview.md)
+  * [Antenna SDK Overview](iotex-antenna-sdk/antenna-overview.md)
   * [Configure a local IoTeX Testnet](iotex-antenna-sdk/install-a-local-testnet.md)
   * [Import Antenna SDK](iotex-antenna-sdk/antenna-installation/README.md)
     * [Antenna JS](iotex-antenna-sdk/antenna-installation/install-antenna-js.md)
