@@ -38,7 +38,7 @@ Click the **`Save`** button and make sure **IoTeX** is selected as the active ne
 
 If you have IoTeX accounts already set up in [ioPay](https://iopay.iotex.io), you can easily import them into Metamask by simply importing their private keys:
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2866%29.png)
 
 {% hint style="warning" %}
 Please notice that Metamask will show your IoTeX wallet address in the **Web3** **format**, so you will see an address starting by`"0x.."`: as long as the private key is the same, that address represents the exact same blockchain account as in ioPay, they just use different formats for the public address representation. [Read more...](../../basic-concepts/address-conversion.md)
@@ -46,9 +46,9 @@ Please notice that Metamask will show your IoTeX wallet address in the **Web3** 
 
 In ioPay mobile, you can display the private key by tapping the little icon in the top right of the screen:
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2862%29.png)
 
-In ioPay Desktop, select "Export Keystore", then click "Show Private Key":
+In ioPay Desktop, select "**Export Keystore**", then click "**Show Private Key**":
 
 ![](../../.gitbook/assets/image%20%2864%29.png)
 
