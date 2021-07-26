@@ -36,7 +36,7 @@ Click the **`Save`** button and make sure **IoTeX** is selected as the active ne
 
 ## Import your ioPay wallets to Metamask
 
-If you have IoTeX accounts already set up in [ioPay](https://iopay.iotex.io), you can easily import them into Metamask by simply importing their private keys. Se the sections below to learn how to access the private key in ioPay.
+If you have IoTeX accounts already set up in [ioPay](https://iopay.iotex.io), you can easily import them into Metamask by simply importing their private keys. Ses the sections below to learn how to access the private key in ioPay.
 
 ![Import an account in Metamask by private key](../../.gitbook/assets/image%20%2866%29.png)
 
