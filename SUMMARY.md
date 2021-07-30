@@ -49,6 +49,9 @@
 
 ## 🧑‍💻Middleware <a id="middleware-1"></a>
 
+* [ioTube Cross-chain Bridge](middleware-1/cross-chain-bridge/README.md)
+  * [Submit your tokens](middleware-1/cross-chain-bridge/submit-your-tokens.md)
+  * [Join the Bridge consensus](middleware-1/cross-chain-bridge/join-the-bridge-consensus.md)
 * [Decentralized Identity](middleware-1/decentralized-identity/README.md)
   * [Overview](middleware-1/decentralized-identity/overview.md)
   * [Self-Managed Contract Interface](middleware-1/decentralized-identity/self-managed-contract-interface.md)

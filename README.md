@@ -40,9 +40,9 @@ Integrate your software with Payments, Deposits & Withdraws of IOTX coins and XR
 Give your users the ability to create and control their identities. IoTeX DID applies to individuals, enterprises, and devices!  
 ᛫ [Overview](https://docs.iotex.io/developer/did/overview.html) ᛫ [ioctl commands](https://docs.iotex.io/developer/ioctl/did.html)
 
-### [ioTube Ethereum & BSC Bridge](https://tube.iotex.io)
+### [ioTube Multi-Chain Bridge](https://tube.iotex.io)
 
-Extend the reach of your ERC20 or BEP20 Token to the IoTeX Blockchain to run transactions-intensive tasks  
+Extend the reach of your Ethereum, BSC, or Polygon Tokens to the IoTeX Blockchain, or make your Native IoTeX Dapp cross-chain   
 [Submit your Token](https://github.com/iotexproject/ioTube/issues/new?assignees=guo&labels=Token-Pending-Review&template=iotube-new-token-submission.md&title=) ᛫ [ioTube App ](https://tube.iotex.io/)
 
 ### [ioctl Command Line Client](reference/ioctl-cli-reference/)
