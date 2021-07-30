@@ -8,7 +8,12 @@ description: Web3 Development and Solidity support
 
 ### EVM support
 
-IoTeX is a 100% EVM-compatible smart-contract platform. IoTeX implements the EVM _**Istanbul**_ release, and can run any existing **Solidity** smart contract, and requires no change to the code. 
+IoTeX is a 100% EVM-compatible smart-contract platform. IoTeX can run any existing **Solidity** smart contract with no change to the code. IoTeX implements the EVM "**Istanbul"** release, which brings the following improvements over the previous version:
+
+* Align the costs of opcodes with their computational costs and improve denial-of-service attack resilience
+* Make layer 2 solutions based on SNARKs and STARKs more performant.
+* Enable interoperation with Zcash
+* Allow contracts to introduce more creative functions.
 
 ### Web3 Tools support
 

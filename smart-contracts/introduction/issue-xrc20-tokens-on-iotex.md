@@ -12,7 +12,15 @@ Finally, get some IOTX test tokens from any [IoTeX faucet](../../get-started/iot
 
 ### 2. Paste the contract code in IoTeX Studio IDE
 
-IoTeX Studio is the Web IDE to develop and deploy IoTeX Smart Contracts. In IoTeX Studio you can compile, deploy and interact with your smart contracts much like in Remix IDE for Ethereum. To deploy the [Simple Token](./#the-source-code) contract, open IoTeX Studio at [ide.iotex.io](https://ide.iotex.io/), delete any existing code in the editor, and paste the following code:
+{% hint style="success" %}
+Since full Web3 compatibility has been introduced in IoTeX 1.2 release, ****[**Remix IDE**](https://remix.ethereum.org/) is now the preferred tool if you are looking for a Web IDE to deploy contracts on IoTeX.
+{% endhint %}
+
+{% hint style="warning" %}
+**IoTeX Studio is in Beta**
+{% endhint %}
+
+**IoTeX Studio** is a Web IDE to develop and deploy IoTeX Smart Contracts. In IoTeX Studio you can compile, deploy and interact with your smart contracts much like in Remix IDE for Ethereum. To deploy a simple ERC20 token contract, open IoTeX Studio at [ide.iotex.io](https://ide.iotex.io/), delete any existing code in the editor, and paste the following code:
 
 ```cpp
 pragma solidity ^0.5.0;
@@ -39,7 +47,7 @@ contract SimpleToken is Context, ERC20, ERC20Detailed {
 
 ```
 
-This will create a token named _SimpleToken_, whose symbol will be _SIM_, plus it will have 18 decimals digits \(i.e. it can be fractioned down to 10−1810​−18​​\) and will be pre-mined: 10,000 SIM tokens will be assigned to the account that is deploying the token contract upon contract deployment to the blockchain. You can customize these values to anything else if you wish!
+This will create a token named _SimpleToken_, whose symbol will be **`SIM`**, it will have 18 decimals digits \(i.e. it can be fractioned down to 10​⁻¹⁸​\) and will be pre-mined: 10,000 SIM tokens will be assigned to the account that is deploying the token contract upon contract deployment to the blockchain. You can customize these values to anything else if you wish!
 
 ### 3. Build and Deploy
 

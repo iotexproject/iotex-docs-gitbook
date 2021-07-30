@@ -43,7 +43,7 @@
     * [Call any RPC method](iotex-antenna-sdk/reference-code/call-any-rpc-method.md)
 * [Tutorials](smart-contracts/README.md)
   * [Deploy an XRC20 Token](smart-contracts/introduction/README.md)
-    * [Deploy Using Remix](smart-contracts/introduction/deploy-using-remix.md)
+    * [Deploy Using Remix IDE](smart-contracts/introduction/deploy-using-remix.md)
     * [Deploy using IoTeX Studio](smart-contracts/introduction/issue-xrc20-tokens-on-iotex.md)
     * [Submit Token Metadata](smart-contracts/introduction/token-metadata.md)
 
