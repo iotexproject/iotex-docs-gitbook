@@ -59,10 +59,27 @@ ioctl is up-to-date now.
 
 `Usage: ioctl config set VARIABLE VALUE`
 
-```text
-➜  ioctl config set endpoint api.iotex.one:443
+{% tabs %}
+{% tab title="Mainnet" %}
+```bash
+➜  ioctl config set endpoint api.mainnet.iotex.one:443
 endpoint is set to api.iotex.one:443
+
+# If the endpoint does not implement SSL, use:
+# ioctl config set endpoint api.mainnet.iotex.one:80 --insecure
 ```
+{% endtab %}
+
+{% tab title="Testnet" %}
+```bash
+➜  ioctl config set endpoint api.testnet.iotex.one:443
+endpoint is set to api.iotex.one:443
+
+# If the endpoint does not implement SSL, use:
+# ioctl config set endpoint api.testnet.iotex.one:80 --insecure
+```
+{% endtab %}
+{% endtabs %}
 
 #### Get Config
 
