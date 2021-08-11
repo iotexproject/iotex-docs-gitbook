@@ -30,9 +30,13 @@ Both these addresses are nothing more than a different way of representing the s
 
 Depending on which tool you are using for interacting with the IoTeX blockchain, you may have to convert between the IoTeX representation and the Ethereum representation of the same account: Ethereum tools like Metamask or Truffle and libraries like Web3js as well as Solidity compilers expect addresses written the "_0x.._." Ethereum format. On the other hand, IoTeX tools like the ioPay wallet or the iotex-antenna native SDK expect addresses written in the "_io1..."_ IoTeX format or they may accept both formats for the address.
 
-{% hint style="warning" %}
-**Please notice:** You should not get confused between the actual _wallet account_ and its _address representation_: while you can represent its public address in different ways, a wallet account is uniquely identified with its **private key** and the actual **blockchain network you are interacting with your wallet or tool.**
+{% hint style="danger" %}
+**Please notice:** You should not get confused between the actual _wallet account_ and its _address representation_: while you can represent a wallet public **address** in different ways, a wallet **account** is uniquely identified with its **private key** and the actual **blockchain network** you are interacting with your wallet or tool. 
+
+So, as it's for any other Ethereum compatible chain, if your wallet is configured to interact with the IoTeX blockchain \(i.e., the RPC endpoint is set to IoTeX\), it doens't matter the address representation you use: you will always be sending tokens from an IoTeX blockchain account to another IoTeX Blockchain account.
 {% endhint %}
+
+
 
 ## Address conversion and tools
 
