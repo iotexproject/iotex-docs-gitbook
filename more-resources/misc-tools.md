@@ -2,6 +2,12 @@
 
 Action injector is a simulation tool to simulate action traffic by injecting random actions to the gateway node.
 
+You find the source code in the iotex-core GitHub repository, under the "tools" directory:
+
+{% embed url="https://github.com/iotexproject/iotex-core/tree/812b27f3b960074ecb49750b3be0850f641119e8/tools/actioninjector.v2" %}
+
+
+
 ```bash
 inject actions [options : -m] (default:random).
 
@@ -44,7 +50,7 @@ curl --silent https://raw.githubusercontent.com/iotexproject/iotex-core/master/i
 curl https://raw.githubusercontent.com/iotexproject/iotex-core/master/install-injector.sh | sh -s "unstable"
 ```
 
-Note that is you encounter issues such as "action is not found", check for following reasons:
+**Note:** if you encounter issues such as "action is not found", check for following reasons:
 
 1. incorrect nonce \(too small or too large\)
 2. too low gas price
