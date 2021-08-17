@@ -2,11 +2,37 @@
 
 Action injector is a simulation tool to simulate action traffic by injecting random actions to the gateway node.
 
+## Get the source code
+
 You find the source code in the iotex-core GitHub repository, under the "tools" directory:
 
 {% embed url="https://github.com/iotexproject/iotex-core/tree/812b27f3b960074ecb49750b3be0850f641119e8/tools/actioninjector.v2" %}
 
+## Build the injector
 
+Clone the iotex-core repository and build the tool like below:
+
+```bash
+git clone https://github.com/iotexproject/iotex-core.git
+cd iotex-core
+cd tools
+cd actioninjector.v2
+./build_injector.sh 
+```
+
+After the tool is built, the executable can be found in the `release/forlder`. Type the following to get the allowed options:
+
+{% tabs %}
+{% tab title="MacOS" %}
+`release/injector-darwin-amd64 inject --help`
+{% endtab %}
+
+{% tab title="Linux" %}
+`release/injector-linux-amd64 inject --help`
+{% endtab %}
+{% endtabs %}
+
+Output:
 
 ```bash
 inject actions [options : -m] (default:random).
@@ -38,22 +64,12 @@ Flags:
       --workers uint                  number of workers (default 10)
 ```
 
-### Install Release Build
+The file `gentsfaddrs.yaml` includes the list of accounts used by the tool
 
-```text
-curl --silent https://raw.githubusercontent.com/iotexproject/iotex-core/master/install-injector.sh | sh
-```
+**Note:** in case during the execution you come ove error messages such as "_action is not found_", check the following:
 
-### Install Latest/Unstable Build
-
-```text
-curl https://raw.githubusercontent.com/iotexproject/iotex-core/master/install-injector.sh | sh -s "unstable"
-```
-
-**Note:** if you encounter issues such as "action is not found", check for following reasons:
-
-1. incorrect nonce \(too small or too large\)
-2. too low gas price
-3. too small gas limit
-4. account balance insufficient \(amount + gas price \* gas limit\)
+1. Incorrect nonce \(too small or too large\)
+2. Too low gas price
+3. Too small gas limit
+4. Account balance not enough \(amount + gas price \* gas limit\)
 
