@@ -18,6 +18,7 @@
 
 ---
 
+* [Blockchain Specs](blockchain-specs.md)
 * [Ethereum Development](ethereum-copmpatibility/README.md)
   * [Web3.js](ethereum-copmpatibility/web3.js.md)
   * [Remix](ethereum-copmpatibility/remix.md)
