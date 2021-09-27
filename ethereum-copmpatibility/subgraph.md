@@ -31,5 +31,21 @@ Once you have your Indexer Node running, you can define and locally deploy your 
 
 {% embed url="https://thegraph.com/docs/quick-start\#local-development" %}
 
+## Official hosted service
 
+### Links
+
+* IPFS [https://graph.mainnet.iotex.io](https://graph.mainnet.iotex.io)
+* RPC [https://rpc.graph.mainnet.iotex.io](https://rpc.graph.mainnet.iotex.io/)
+
+### Common Subgraph
+
+* Blocks [https://graph.mainnet.iotex.io/subgraphs/name/common/blocks/graphql](https://graph.mainnet.iotex.io/subgraphs/name/common/blocks/graphql)
+
+### Deploy
+
+```text
+graph create common/blocks --node https://rpc.graph.mainnet.iotex.io/
+graph deploy --debug --ipfs https://graph.mainnet.iotex.io --node  https://rpc.graph.mainnet.iotex.io/ common/blocks subgraphs/blocks.yaml
+```
 
