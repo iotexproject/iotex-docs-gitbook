@@ -2,7 +2,7 @@
 
 Check out IoTeX DID Documentation at:
 
-{% page-ref page="../../middleware-1/decentralized-identity/" %}
+{% page-ref page="../../middleware/decentralized-identity/" %}
 
 Our address-based DID contract on **IoTeX testnet** is:
 

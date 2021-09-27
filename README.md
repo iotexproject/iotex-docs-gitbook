@@ -35,7 +35,7 @@ Exchange any asset or implement any logic in a transparent, decentralized fashio
 Integrate your software with Payments, Deposits & Withdraws of IOTX coins and XRC20 tokens.  
 ᛫ [Rosetta API](more-resources/exchange-integration/rosetta-api.md) ᛫ [General guide](more-resources/exchange-integration/)
 
-### [Decentralized Identity](middleware-1/decentralized-identity/)
+### [Decentralized Identity](middleware/decentralized-identity/)
 
 Give your users the ability to create and control their identities. IoTeX DID applies to individuals, enterprises, and devices!  
 ᛫ [Overview](https://docs.iotex.io/developer/did/overview.html) ᛫ [ioctl commands](https://docs.iotex.io/developer/ioctl/did.html)
