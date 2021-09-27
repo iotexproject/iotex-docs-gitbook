@@ -2,7 +2,7 @@
 description: Web3 Development and Solidity support
 ---
 
-# Ethereum Development
+# Web3 Development
 
 ![](../.gitbook/assets/image%20%2859%29.png)
 

@@ -8,10 +8,10 @@ IoTeX is a full-stack platform to enable **trusted data** from **trusted devices
 
 ## Explore Developer Tools <a id="part2"></a>
 
-### [SDKs](iotex-antenna-sdk/)
+### [SDKs](native-development/)
 
 Use your favorite Ethereum tools and libraries to build on IoTeX, port your existing dApps without any change to the code, or import the IoTeX native SDK for advanced features:  
-᛫ [Ethereum Development](ethereum-copmpatibility/) ᛫ [Native Development](iotex-antenna-sdk/) ᛫ [Tutorials](smart-contracts/)
+᛫ [Ethereum Development](web3-development/) ᛫ [Native Development](native-development/) ᛫ [Tutorials](smart-contracts/)
 
 ### [Core API](reference/node-core-api-grpc.md)
 
