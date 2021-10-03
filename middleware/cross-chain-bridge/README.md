@@ -4,7 +4,7 @@
 
 A blockchain is fundamentally a database, distributed over a certain number of nodes, constantly executing a "_consensus mechanism_" to decide which transactions should be added to that database, also called "_Ledger_". While the nodes of a certain blockchain are all connected to each other, **two different bockchains do not have any nodes in common:** in general, a blockchain is a network in its own right, isolated from all the other blockchains and, as a consequence, normally it is **not possible to transfer tokens from one blockchain to another blockchain**.
 
-## Cross-Chian Bridges
+## Cross-Chain Bridges
 
 Cross-Chain Bridges are a relatively new technology in the Blockchain space. A cross-chain bridge allows transferring of value and any arbitrary data from one blockchain to another. It is usually deployed as a set of smart contracts on two or more blockchains, and a set of off-chain services that monitor/trigger these contracts to lock/burn/mint tokens and data on the respective chains depending on the type of the transfer. 
 
