@@ -1,6 +1,6 @@
 # Submit Token Metadata
 
-Please refer to [» this document](../../cheatsheet/register-your-token-in-the-ecosystem.md).
+Please refer to [» this document](../../launch-dapp/register-your-token-in-the-ecosystem.md).
 
 
 
