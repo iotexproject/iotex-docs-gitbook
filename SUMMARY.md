@@ -42,7 +42,7 @@
     * [Interact with ioPay Desktop](native-development/reference-code/interact-with-iopay-desktop.md)
     * [Create a DID JWT](native-development/reference-code/create-a-did-jwt.md)
     * [Call any RPC method](native-development/reference-code/call-any-rpc-method.md)
-* [Dapp Development Guide](cheatsheet/README.md)
+* [Launch your Dapp](cheatsheet/README.md)
   * [Register your Token in the Ecosystem](cheatsheet/register-your-token-in-the-ecosystem.md)
   * [Make your token cross-chain](cheatsheet/make-your-token-cross-chain.md)
   * [Verify your smart-contract code](cheatsheet/verify-your-smart-contract-code.md)
