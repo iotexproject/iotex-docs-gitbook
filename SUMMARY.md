@@ -11,12 +11,14 @@
     * [Install ioctl cli](get-started/iotex-wallets/command-line-client/install-ioctl-cli.md)
     * [Create wallet account](get-started/iotex-wallets/command-line-client/create-an-iotex-account.md)
     * [Interact with the blockchain](get-started/iotex-wallets/command-line-client/interact-with-the-blockchain.md)
-* [Obtain Test Tokens](get-started/iotx-faucets.md)
+* [Obtain IOTX Tokens](get-started/iotx-faucets/README.md)
+  * [Testnet Tokens](get-started/iotx-faucets/testnet-tokens.md)
+  * [Mainnet Tokens](get-started/iotx-faucets/mainnet-tokens.md)
 * [IoTeX dApp Sample](get-started/iotex-dapp-starter.md)
 
 ## dApp Development
 
----
+***
 
 * [Blockchain Specs](blockchain-specs.md)
 * [Web3 Development](web3-development/README.md)
@@ -72,7 +74,7 @@
   * [Security Considerations](middleware/decentralized-identity/security-considerations.md)
   * [References](middleware/decentralized-identity/references.md)
 
-## 🔐Verifiable IoT Data <a id="verifiable-data"></a>
+## 🔐Verifiable IoT Data <a href="verifiable-data" id="verifiable-data"></a>
 
 * [Pebble Tracker](verifiable-data/pebble-tracker/README.md)
   * [Overview](verifiable-data/pebble-tracker/overview.md)
@@ -134,4 +136,3 @@
 * [Blockchain Nodes](basic-concepts/blockchain-nodes.md)
 * [IOTX Token](basic-concepts/iotx-token.md)
 * [Chain ID](basic-concepts/chain-id.md)
-

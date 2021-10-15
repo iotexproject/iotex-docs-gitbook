@@ -38,22 +38,20 @@ Join telegram channel [https://t.me/rugdocchat](https://t.me/rugdocchat) and sen
 
 ## iotexdefi
 
-[https://iotexdefi.com/](https://iotexdefi.com/)
+[https://iotexdefi.com/](https://iotexdefi.com)
 
-**Submit** here:   
+**Submit** here: \
 [https://github.com/iotexdefi/iotexdefi](https://github.com/iotexdefi/iotexdefi)
 
 ## IoTeX Governance Portal
 
-This is a governance portal for IoTeX and ecosystem projects. If you have governance for your dapp, you can also submit to [https://gov.iotex.io/](https://gov.iotex.io/)
+This is a governance portal for IoTeX and ecosystem projects. If you have governance for your dapp, you can also submit to [https://gov.iotex.io/](https://gov.iotex.io)
 
-**Submit** here:
+**Submit **here:
 
 [https://github.com/iotexproject/gov-iotex](https://github.com/iotexproject/gov-iotex) and 
 
 Example PR: [https://github.com/iotexproject/gov-iotex/pull/8/files](https://github.com/iotexproject/gov-iotex/pull/8/files)
-
-
 
 
 

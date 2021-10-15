@@ -1,5 +1,5 @@
 ---
-description: 'A short introduction to ioctl, the IoTeX command line client'
+description: A short introduction to ioctl, the IoTeX command line client
 ---
 
 # Install ioctl cli
@@ -43,7 +43,7 @@ curl https://raw.githubusercontent.com/iotexproject/iotex-core/master/install-cl
 
 {% tab title="Windows" %}
 {% hint style="danger" %}
-Currently, **ioctl**  is not supported on Windows systems.
+Currently, **ioctl ** is not supported on Windows systems.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -57,4 +57,3 @@ ioctl config set endpoint api.mainnet.iotex.one:443
 # Point ioctl to the IoTeX Testnet
 ioctl config set endpoint api.testnet.iotex.one:443
 ```
-

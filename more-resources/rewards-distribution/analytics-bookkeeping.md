@@ -3,7 +3,7 @@
 **Bookkeeping** is a GraphQL web interface for rewards distribution, which collects voting status and calculates corresponding voters' reward for a given delegate, within a certain epoch range.
 
 {% hint style="success" %}
-While we still keep the Bookkeeping tool for analytics purposes, we recommend delegates use the [Hermes ](http://hermes.to/)system for auto-distribute voters' rewards.
+While we still keep the Bookkeeping tool for analytics purposes, we recommend delegates use the [Hermes ](http://hermes.to)system for auto-distribute voters' rewards.
 {% endhint %}
 
 ## Get Voters' Rewards Given a Delegate Name
@@ -12,21 +12,23 @@ While we still keep the Bookkeeping tool for analytics purposes, we recommend de
 
 #### 1. Access the Analytics website
 
-{% embed url="https://analytics.iotexscan.io" caption="IoTeX Analytics website" %}
+{% embed url="https://analytics.iotexscan.io" %}
+IoTeX Analytics website
+{% endembed %}
 
 #### 2. Send the bookkeeping request
 
 The following request will generate rewards amounts for a specific delegate with the following options:
 
-**Delegate Name**: iotexlab \(must be your delegate unique name\)  
-**Epochs range**: \[ 17000, 17099 \]   
-**Epoch Bonus delegate fee**: 10%  
+**Delegate Name**: iotexlab (must be your delegate unique name)\
+**Epochs range**: \[ 17000, 17099 ] \
+**Epoch Bonus delegate fee**: 10%\
 **Foundation Bonus delegate fee**: 10% 
 
 Please notice that the bookkeeping Analytics request:
 
-* **does not allow** to compute a share of the Block Rewards, therefore the delegate fee for the block rewards will always result in 100% \(no block rewards shared with voters9
-* it either allows you to include the foundation bonus, or to exclude it. If you include it, then the shared amount of the foundation bonus **will always match** the same  amount chosen for the epoch rewards. In the example we share 90% of the epoch rewards \(i.e. delegate fee = 10%\) and include the foundation bonus, so also 90% of the foundation bonus will be computed in the share
+* **does not allow** to compute a share of the Block Rewards, therefore the delegate fee for the block rewards will always result in 100% (no block rewards shared with voters9
+* it either allows you to include the foundation bonus, or to exclude it. If you include it, then the shared amount of the foundation bonus **will always match** the same  amount chosen for the epoch rewards. In the example we share 90% of the epoch rewards (i.e. delegate fee = 10%) and include the foundation bonus, so also 90% of the foundation bonus will be computed in the share
 
 ```javascript
 {
@@ -46,7 +48,7 @@ You should also take into account pagination, considering that the server will n
 rewardDistribution(pagination:{ skip:100, first:100 }) {
 ```
 
-eventually, the request command will return a JSON object containing an array of `{ address, amount }` objects wher the `address` is the IoTeX native address of the voter, and `amount` is the total amount of rewards due to that user, for the specified epocs range, **accounting for all the buckets staked by that address.** 
+eventually, the request command will return a JSON object containing an array of `{ address, amount } `objects wher the `address` is the IoTeX native address of the voter, and `amount` is the total amount of rewards due to that user, for the specified epocs range, **accounting for all the buckets staked by that address. **
 
 ```javascript
 {
@@ -72,4 +74,3 @@ eventually, the request command will return a JSON object containing an array of
 ## Send Out Voters' Rewards
 
 The generated JSON can be used by to actually send out the voters' rewards with your own scripts in conjunction with the [ioctl client](../../reference/ioctl-cli-reference/), keeping in mind that the amount is represented in Rau, while ioctl expectes IOTX!
-

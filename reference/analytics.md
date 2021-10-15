@@ -6,7 +6,7 @@ Analytics is an application built upon IoTeX core API which extracts data from I
 
 ### Bookkeeping
 
-```text
+```
 Usage:
   Bookkeeping gives delegates an overview of the reward distributions to their voters within a range of epochs
 
@@ -31,7 +31,7 @@ Response:
 
 ### Productivity
 
-```text
+```
 Usage:
   Productivity gives block productivity of producers within a range of epochs
 
@@ -48,7 +48,7 @@ Response:
 
 ### Reward
 
-```text
+```
 Usage:
   Rewards provides reward detail information for candidates within a range of epochs
 
@@ -67,7 +67,7 @@ Response:
 
 ### BucketInfo
 
-```text
+```
 Usage:
   BucketInfo provides voting bucket detail information for candidates within a range of epochs
 
@@ -97,7 +97,7 @@ Response:
 
 ### Staking
 
-```text
+```
 Usage:
   Staking provides staking information for candidates within a range of epochs
 
@@ -116,7 +116,7 @@ Response:
 
 ### ProbationHistoricalRate
 
-```text
+```
 Usage:
   ProbationHistoricalRate provides the rate of probation for a given delegate
 
@@ -133,7 +133,7 @@ Response:
 
 Demo:
 
-```text
+```
 Sample Request:
 
 query{
@@ -292,7 +292,7 @@ Sample Response:
 
 ### MostRecentEpoch
 
-```text
+```
 Usage:
   MostRecentEpoch gives the latest epoch number
 
@@ -306,7 +306,7 @@ Response:
 
 ### MostRecentBlockHeight
 
-```text
+```
 Usage:
   MostRecentBlockHeight gives the latest block height
 
@@ -320,7 +320,7 @@ Response:
 
 ### MostRecentTPS
 
-```text
+```
 Usage:
   MostRecentTPS gives the latest transactions per second
 
@@ -333,7 +333,7 @@ Response:
 
 ### NumberOfActions
 
-```text
+```
 Usage:
   NumberOfActions gives the number of actions
 
@@ -350,7 +350,7 @@ Response:
 
 ### VotingResultMeta
 
-```text
+```
 Usage:
   VotingResultMeta gives the latest metadata of voting result
 
@@ -365,7 +365,7 @@ Response:
 
 ### TotalTransferredTokens
 
-```text
+```
 Usage:
   TotalTransferredTokens gives the amount of tokens transferred within a time frame
 
@@ -381,7 +381,7 @@ Response:
 
 Demo:
 
-```text
+```
 Sample Request:
 
 query{
@@ -419,7 +419,7 @@ Sample Response:
 
 ### VotingMeta
 
-```text
+```
 Usage:
   VotingMeta provides metadata of voting results
 
@@ -440,7 +440,7 @@ Reponse:
 
 ### CandidateInfo
 
-```text
+```
 Usage:
   CandidateInfo provides candidate information
 
@@ -463,7 +463,7 @@ Reponse:
 
 ### RewardSources
 
-```text
+```
 Usage:
   RewardSources provides reward sources for voters
 
@@ -482,7 +482,7 @@ Reponse:
 
 Demo:
 
-```text
+```
 Sample Request:
 
 query{
@@ -535,7 +535,7 @@ Sample Response:
 
 Demo:
 
-```text
+```
 Sample Request:
 
 query{
@@ -572,7 +572,7 @@ Sample Response:
 
 ### ActiveAccounts
 
-```text
+```
 Usage:
   ActiveAccounts lists most recently active accounts
 
@@ -585,7 +585,7 @@ Response:
 
 ### OperatorAddress
 
-```text
+```
 Usage:
   OperatorAddress finds the delegate's operator address given the delegate's alias name
 
@@ -599,7 +599,7 @@ Response:
 
 ### Alias
 
-```text
+```
 Usage:
   Alias finds the delegate's alias name given the delegate's operator address
 
@@ -614,7 +614,7 @@ Response:
 
 ### TotalNumberOfHolders
 
-```text
+```
 Usage:
   TotalNumberOfHolders returns total number of IOTX holders so far
 Request:
@@ -626,7 +626,7 @@ Response:
 
 ### TotalAccountSupply
 
-```text
+```
 Usage:
   TotalAccountSupply returns total amount of tokens held by IoTeX accounts
 Request:
@@ -638,7 +638,7 @@ Response:
 
 Demo:
 
-```text
+```
 Sample Request:
 
 query{
@@ -689,7 +689,7 @@ Sample Response:
 
 ### ByDates
 
-```text
+```
 Usage:
   ByDates finds actions by dates
 
@@ -717,7 +717,7 @@ Response:
 
 ### ByHash
 
-```text
+```
 Usage:
   ByHash finds the action by hash
 
@@ -742,7 +742,7 @@ Response:
 
 ### ByAddress
 
-```text
+```
 Usage:
   ByAddress finds actions by address
 
@@ -769,7 +769,7 @@ Response:
 
 ### EvmTransfersByAddress
 
-```text
+```
 Usage:
   EvmTransfersByAddress finds EVM transfers by address
 
@@ -794,7 +794,7 @@ Response:
 
 ### ByType
 
-```text
+```
 Usage:
   ByType finds actions by action type
 
@@ -820,7 +820,7 @@ Response:
 
 Demo:
 
-```text
+```
 Sample Request:
 
 query{
@@ -1020,7 +1020,7 @@ Sample Response:
 
 ### ByContractAddress
 
-```text
+```
 Usage:
   ByContractAddress returns Xrc20 actions given the Xrc20 contract address
 
@@ -1043,7 +1043,7 @@ Response:
 
 ### ByAddress
 
-```text
+```
 Usage:
   ByAddress returns Xrc20 actions given the sender address or recipient address
 
@@ -1066,7 +1066,7 @@ Response:
 
 ### ByPage
 
-```text
+```
 Usage:
   ByPage returns Xrc20 actions by pagination
 
@@ -1089,7 +1089,7 @@ Response:
 
 ### Xrc20Addresses
 
-```text
+```
 Usage:
   Xrc20Addresses returns Xrc20 contract addresses
 
@@ -1107,7 +1107,7 @@ Response:
 
 ### TokenHolderAddresses
 
-```text
+```
 Usage:
   TokenHolderAddresses returns Xrc20 token holder addresses given a Xrc20 contract address
 
@@ -1124,7 +1124,7 @@ Response:
 
 Demo:
 
-```text
+```
 Sample Request:
 query{
   xrc20{
@@ -1255,7 +1255,7 @@ Sample Response:
 
 ### ByContractAddress
 
-```text
+```
 Usage:
   ByContractAddress returns Xrc721 actions given the Xrc721 contract address
 
@@ -1279,7 +1279,7 @@ Response:
 
 ### ByAddress
 
-```text
+```
 Usage:
   ByAddress returns Xrc721 actions given the sender address or recipient address
 
@@ -1303,7 +1303,7 @@ Response:
 
 ### ByPage
 
-```text
+```
 Usage:
   ByPage returns Xrc721 actions by pagination
 
@@ -1326,7 +1326,7 @@ Response:
 
 ### Xrc721Addresses
 
-```text
+```
 Usage:
   Xrc721Addresses returns Xrc721 contract addresses
 
@@ -1344,7 +1344,7 @@ Response:
 
 ### TokenHolderAddresses
 
-```text
+```
 Usage:
   TokenHolderAddresses returns Xrc721 token holder addresses given a Xrc721 contract address
 
@@ -1363,9 +1363,9 @@ Response:
 **TODO**: When there are Xrc721 actions on the chain, add a demo here.
 {% endhint %}
 
-### TopHolders <a id="topholders"></a>
+### TopHolders <a href="topholders" id="topholders"></a>
 
-```text
+```
 Usage:
   TopHolders returns the top IOTX holders
 
@@ -1382,7 +1382,7 @@ Response:
 
 Demo:
 
-```text
+```
 Sample Request:
 
 query{
@@ -1422,12 +1422,12 @@ Sample Response:
 }
 ```
 
-  
+\
 
 
 ## Hermes
 
-```text
+```
 Usage:
   Hermes gives delegates who register the service of automatic reward distribution an overview of the reward distributions to their voters within a range of epochs
 
@@ -1453,7 +1453,7 @@ Response:
 
 Demo:
 
-```text
+```
 Sample Request:
 
 query{
@@ -1511,7 +1511,7 @@ Sample Reponse:
 
 ### HermesAverageStats
 
-```text
+```
 Usage:
   HermesAverageStats returns the Hermes average statistics
 
@@ -1530,7 +1530,7 @@ Response:
 
 Demo:
 
-```text
+```
 Sample Request:
 
 query{
@@ -1600,7 +1600,7 @@ Sample Response:
 
 ### ByDelegate
 
-```text
+```
 Usage:
   ByDelegate returns Hermes delegates' distribution history
 
@@ -1632,7 +1632,7 @@ Response:
 
 ### ByVoter
 
-```text
+```
 Usage:
   ByVoter returns Hermes voters' receiving history
 
@@ -1659,7 +1659,7 @@ Response:
 
 ### HermesMeta
 
-```text
+```
 Usage:
   HermesMeta provides Hermes platform metadata
 
@@ -1677,7 +1677,7 @@ Response:
 
 Demo:
 
-```text
+```
 Sample Request:
 
 query{
@@ -1792,4 +1792,3 @@ Sample Response:
   }
 }
 ```
-

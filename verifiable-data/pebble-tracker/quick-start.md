@@ -6,7 +6,7 @@ This quick start guide will help you quickly explore a small number of features 
 
 ## Hardware Setup
 
-Before start using your Pebble, you need three simple steps to hook up the device with a few components \(see the [Hardware Setup](hardware-setup.md) guide for more details\):
+Before start using your Pebble, you need three simple steps to hook up the device with a few components (see the [Hardware Setup](hardware-setup.md) guide for more details):
 
 * Insert the IoT SIM card into the SIM card slot
 * Connect the NB-IoT/LTE-M antenna
@@ -17,7 +17,7 @@ Check out the [on-board RGB led](technical-specification.md#onboard-rgb-led) to 
 
 ## Dashboard Setup
 
-The default firmware installed on Pebble will connect the device to [trypebble.io](https://trypebble.io/), the **IoTeX free Pebble Backend Service** built using open-source software including [hmq](https://github.com/fhmq/hmq), [MinIO ](https://min.io/)and [Thingsboard](https://thingsboard.io/).
+The default firmware installed on Pebble will connect the device to [trypebble.io](https://trypebble.io), the **IoTeX free Pebble Backend Service** built using open-source software including [hmq](https://github.com/fhmq/hmq), [MinIO ](https://min.io)and [Thingsboard](https://thingsboard.io).
 
 {% hint style="warning" %}
 The IoTeX hosted backend solely aims for the initial validation of Pebble functionalities: **all the dashboards and data are accessible by all Pebble users**. As a result, we do encourage users to deploy their own backend service: check out [Deploy your own backend service](setup-modes/development-mode/) for instructions on how to deploy your own backend, and [Configure AWS IoT Core](setup-modes/production-mode/) for instructions on how to deploy a backend for production.
@@ -27,8 +27,8 @@ The IoTeX hosted backend solely aims for the initial validation of Pebble functi
 
 To setup your dashboard, you can login into Thingsboard at http://trypebble.io:8080/login using the following credentials:
 
-`Username: tenant@thingsboard.org`  
-`Passworld: tenant`  
+`Username: tenant@thingsboard.org`\
+`Passworld: tenant`\
 
 
 **Please Note that the login credentials are shared by all Pebble users, so please do not change them!**
@@ -39,7 +39,7 @@ Before creating a dashboard for your Pebble, you need to ensure that the data fr
 
 ![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig1.png)
 
-In the **Devices** window, you can check whether your device IMEI number occurs in the list of device names, \(your device name will look like `nrf-XXXXXXXXXXXX` where `XX..X` stands for the unique 15-digit IMEI number of your Pebble, which can be found printed on a label inside the Pebble box\).
+In the **Devices** window, you can check whether your device IMEI number occurs in the list of device names, (your device name will look like `nrf-XXXXXXXXXXXX` where `XX..X` stands for the unique 15-digit IMEI number of your Pebble, which can be found printed on a label inside the Pebble box).
 
 ![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig2.png)
 
@@ -51,7 +51,7 @@ In the **Dashboards** window, you can click `+`on the top right corner and selec
 
 ![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig4.png)
 
-Download the [IoTeX's dashboard template ](https://raw.githubusercontent.com/iotexproject/pebble-backend/master/example/dashboard/pebble_template.json)\(right-click and save the file\) and drop the file into the pop-up window.
+Download the [IoTeX's dashboard template ](https://raw.githubusercontent.com/iotexproject/pebble-backend/master/example/dashboard/pebble_template.json)(right-click and save the file) and drop the file into the pop-up window.
 
 ![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig5.png)
 
@@ -90,7 +90,7 @@ As shown in your dashboard, the default firmware on Pebble sends all the followi
 * 3-Axis Accelerometer
 * 3-Axis Gyroscope
 * Light Intensity
-* Signal-to-Noise Ratio \(SNR\)
+* Signal-to-Noise Ratio (SNR)
 * Battery
 
 If you would like to stop updating some sensor/GPS data on the dashboard, you can use the **CONFIG ME** button as follows:
@@ -110,11 +110,11 @@ If you would like to stop updating some sensor/GPS data on the dashboard, you ca
 
 ![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig13.png)
 
-For selecting/deselecting certain sensors/GPS data, you can set '1'/'0' in the corresponding position as shown in the figure below and convert the resulting binary string to the corresponding decimal value that is then assigned to the **data\_channel** field in the above JSON configuration.
+For selecting/deselecting certain sensors/GPS data, you can set '1'/'0' in the corresponding position as shown in the figure below and convert the resulting binary string to the corresponding decimal value that is then assigned to the **data_channel** field in the above JSON configuration.
 
 ![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig14.png)
 
-In the above example, we set **data\_channel** to be `7895` \(corresponding to `1111011010111` in binary representation\). As a result, the temperature will not be updated on the dashboard after Pebble receives this configuration.
+In the above example, we set **data_channel** to be `7895` (corresponding to `1111011010111` in binary representation). As a result, the temperature will not be updated on the dashboard after Pebble receives this configuration.
 
 1. After applying the changes and returning to the main dashboard, you can click the **CONFIG ME** button to send the new configuration to your Pebble;
 2. The new configuration will take effect shortly and the selected sensor/GPS data will not be updated any longer.
@@ -133,5 +133,4 @@ For testing the buzzer on your Pebble, you can use the **BEEP ME** button and fo
 
 ![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig16.png)
 
-After saving and clicking the **BEEP ME** button on the card the buzzer of your Pebble will beep for 2000ms \(as soon as the configuration is received\).
-
+After saving and clicking the **BEEP ME** button on the card the buzzer of your Pebble will beep for 2000ms (as soon as the configuration is received).

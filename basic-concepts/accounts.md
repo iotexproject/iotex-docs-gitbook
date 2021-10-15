@@ -2,7 +2,7 @@
 
 ## Introduction
 
-An **Account** uniquely identifies any entity actively participating in the IoTeX network, that can be a user, a device, an enterprise, or even software on the blockchain itself \(a so-called _smart contract_\). Each IoTeX account has a **private key** and a corresponding **public key** associated with it. 
+An **Account** uniquely identifies any entity actively participating in the IoTeX network, that can be a user, a device, an enterprise, or even software on the blockchain itself (a so-called _smart contract_). Each IoTeX account has a **private key** and a corresponding **public key** associated with it. 
 
 ## Account Address
 
@@ -20,19 +20,17 @@ Nonetheless, if you convert that public key using the Ethereum address format sp
 
 `0x147e805c858840099190e208d7A04A74F2A0AAC8`
 
-Both the IoTeX address and the Ethereum address representations above **refer to the same blockchain account** because they represent the same public key. Check out the section [Address Conversion](address-conversion.md) to learn more about IoTeX and Ethereum address representations.
+Both the IoTeX address and the Ethereum address representations above **refer to the same blockchain account **because they represent the same public key. Check out the section [Address Conversion](address-conversion.md) to learn more about IoTeX and Ethereum address representations.
 
 ## Address types
 
 IoTeX is an Ethereum-compatible smart contract platform, so in the same way as Ethereum two types of accounts are defined: 
 
-**Externally** **owned** **accounts**: have a known **private key** associated with them \(typically owned by people, enterprises, or IoT devices\) and can **initiate** actions such as token transfers or contract calls
+**Externally** **owned** **accounts**: have a known **private key** associated with them (typically owned by people, enterprises, or IoT devices) and can **initiate** actions such as token transfers or contract calls
 
 **Smart contract** **accounts:** have no known private key associated, hence they cannot initiate actions, but they have "code" associated with them. The code of a smart-contract account is run each time a "contract call" action is sent to the smart-contract address by either an externally owned account or another smart contract.
 
 Learn more about smart-contract accounts in the official Ethereum documentation:
 
-{% embed url="https://ethdocs.org/en/latest/contracts-and-transactions/account-types-gas-and-transactions.html\#contract-accounts" %}
-
-
+{% embed url="https://ethdocs.org/en/latest/contracts-and-transactions/account-types-gas-and-transactions.html#contract-accounts" %}
 

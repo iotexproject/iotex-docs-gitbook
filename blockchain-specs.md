@@ -12,13 +12,12 @@
 
 ### Action Finality
 
-**1-Block finality** for all blockchain actions.
+**1-Block finality **for all blockchain actions.
 
 ### Transaction Validation
 
-Randomized Delegated Proof of Stake \([Roll-DPoS](https://files.iotex.io/publications/Academic_Paper_Yellow_Paper.pdf)\) 
+Randomized Delegated Proof of Stake ([Roll-DPoS](https://files.iotex.io/publications/Academic_Paper_Yellow_Paper.pdf)) 
 
 ### Consensus Algorithm
 
-Practical Byzantine Fault Tolerant \(PBFT\)
-
+Practical Byzantine Fault Tolerant (PBFT)

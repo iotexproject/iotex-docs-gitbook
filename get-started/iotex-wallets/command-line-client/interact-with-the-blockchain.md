@@ -4,7 +4,7 @@ Now that you have ioctl pointing to an IoTeX gateway and a wallet account config
 
 Check the blockchain current epoch, height, and other network-related meta-information with the command `ioctl bc info`:
 
-```text
+```
 $ ioctl bc info
 
 Blockchain Node: localhost:14014
@@ -19,15 +19,15 @@ Blockchain Node: localhost:14014
 
 Verify the balance of your account with the command `ioctl account balance`:
 
-```text
+```
 $ ioctl account balance dev-acc
 
 io1a8r9fvu6e3vthfaqvnxlhc6eavsm6t8a2cwtud: 100000000000000000000000000000000000 IOTX
 ```
 
-Send **10 IOTX** from your _dev-acc_ account to the recipient address **io1mflp9m6hcgm2qcghchsdqj3z3eccrnekx9p0ms with the command** `ioctl account transfer:`
+Send **10 IOTX** from your _dev-acc_ account to the recipient address **io1mflp9m6hcgm2qcghchsdqj3z3eccrnekx9p0ms with the command **`ioctl account transfer:`
 
-```text
+```
 ioctl action transfer io1mflp9m6hcgm2qcghchsdqj3z3eccrnekx9p0ms 10 -s dev-acc
 ```
 
@@ -35,7 +35,6 @@ ioctl action transfer io1mflp9m6hcgm2qcghchsdqj3z3eccrnekx9p0ms 10 -s dev-acc
 
 Finally, check the status of a transaction by its hash with the command `ioctl action hash`:
 
-```text
+```
 ioctl action hash bc84a8e6531b7ccacb317cbf9f53a59ee9b0e14db44f6ca940546a4ab5dfd1e6
 ```
-

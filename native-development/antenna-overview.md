@@ -6,35 +6,34 @@ While IoTeX fully supports the Ethereum API, allowing you to use Web3 tools for 
 
 [The Example code](reference-code/create-an-account.md) section includes examples for each supported language.
 
-### Supported Languages <a id="supported-languages"></a>
+### Supported Languages <a href="supported-languages" id="supported-languages"></a>
 
-**antenna-js \(Javascript\):** [**Installation**](antenna-installation/install-antenna-js.md) **\|** [**GitHub**](https://github.com/iotexproject/iotex-antenna)\*\*\*\*
+**antenna-js (Javascript): **[**Installation**](antenna-installation/install-antenna-js.md)** | **[**GitHub**](https://github.com/iotexproject/iotex-antenna)****
 
-**antenna-java \(java\):** [**Installation**](antenna-installation/antenna-java.md) **\|** [**GitHub**](https://github.com/iotexproject/iotex-antenna-java)\*\*\*\*
+**antenna-java (java): **[**Installation**](antenna-installation/antenna-java.md)** | **[**GitHub**](https://github.com/iotexproject/iotex-antenna-java)****
 
-**antenna-go \(go lang\):** [**Installation**](antenna-installation/antenna-go.md) **\|** [**GitHub**](https://github.com/iotexproject/iotex-antenna-go)\*\*\*\*
+**antenna-go (go lang): **[**Installation**](antenna-installation/antenna-go.md)** | **[**GitHub**](https://github.com/iotexproject/iotex-antenna-go)****
 
-**antenna-swift \(iOS\):** [**Installation**](antenna-installation/antenna-swift.md) **\|** [**GitHub**](https://github.com/iotexproject/iotex-antenna-swift)\*\*\*\*
+**antenna-swift (iOS): **[**Installation**](antenna-installation/antenna-swift.md)** | **[**GitHub**](https://github.com/iotexproject/iotex-antenna-swift)****
 
-**antenna-embedded \(C\):** [**Installation**](antenna-installation/antenna-embedded.md) **\|** [**GitHub**](https://github.com/iotexproject/iotex-antenna-embedded)\*\*\*\*
+**antenna-embedded (C): **[**Installation**](antenna-installation/antenna-embedded.md)** | **[**GitHub**](https://github.com/iotexproject/iotex-antenna-embedded)****
 
-### Features <a id="features"></a>
+### Features <a href="features" id="features"></a>
 
-**Crypto**  
+**Crypto**\
 This module provides crypto functions to generate public/private keys, sign transactions and data, and other cryptographic utility functions.
 
-**RPC-Methods**  
+**RPC-Methods**\
 This module allows calling any RPC-Method provided by an IoTeX Blockchain Gateway.
 
-**Account**  
+**Account**\
 This Class provides functions to create and manage blockchain accounts.
 
-**Action**  
+**Action**\
 This module allows to create and manage blockchain actions.
 
-**Contract**  
+**Contract**\
 This class allows interaction with contracts deployed on the IoTeX Blockchain, given the contract address and the ABI.
 
-**XRC20**  
+**XRC20**\
 This module allows to send, receive and query wallets for XRC20 tokens deployed on the IoTeX Blockchain.
-
