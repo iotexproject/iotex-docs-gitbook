@@ -49,7 +49,7 @@
   * [Make your token cross-chain](launch-dapp/make-your-token-cross-chain.md)
   * [Verify your smart-contract code](launch-dapp/verify-your-smart-contract-code.md)
   * [Have your contract audited](launch-dapp/have-your-contract-audited.md)
-  * [Submit your Project to Dapp Portals](launch-dapp/submit-your-project-to-dapp-portals.md)
+  * [Submit Your Project to Dapp Portals](launch-dapp/submit-your-project-to-dapp-portals.md)
 * [Tutorials](smart-contracts/README.md)
   * [Deploy an XRC20 Token](smart-contracts/introduction/README.md)
     * [Deploy Using Remix IDE](smart-contracts/introduction/deploy-using-remix.md)

@@ -1,57 +1,61 @@
-# Submit your Project to Dapp Portals
+# Submit Your Project to Dapp Portals
 
-There are quite a few places to list your project to attract users
+Once your project is launched, please submit it to all partners' portals below to make sure IoTeX community is informed about your project.
 
-## DappRadar 
+## DappRadar&#x20;
 
 [https://dappradar.com/rankings/protocol/iotex](https://dappradar.com/rankings/protocol/iotex)
 
-a well known website to list all dapps. 
+**DappRadar provides information and insights about all the existing dapps!**
 
-**Submit** here: [https://dappradar.com/dashboard/submit-dapp](https://dappradar.com/dashboard/submit-dapp)
+Submit [https://dappradar.com/dashboard/submit-dapp](https://dappradar.com/dashboard/submit-dapp)
 
 ## VFat
 
 [https://vfat.tools/iotex/](https://vfat.tools/iotex/)
 
- a handy tools for yield farmers
+**The handy tools for yield farmers**
 
-**Submit** here: [https://github.com/vfat-tools/vfat-tools](https://github.com/vfat-tools/vfat-tools)
+Submit [https://github.com/vfat-tools/vfat-tools](https://github.com/vfat-tools/vfat-tools)
 
 ## DefiLima
 
 [https://defillama.com/chain/IoTeX](https://defillama.com/chain/IoTeX)
 
-a website to list all DeFi projects with stats. 
+**The website lists all popular DeFi projects with users/TVL stats. **
 
-**Submit** here: [https://github.com/DefiLlama/DefiLlama-Adapters/](https://github.com/DefiLlama/DefiLlama-Adapters/)
+Submit [https://github.com/DefiLlama/DefiLlama-Adapters/](https://github.com/DefiLlama/DefiLlama-Adapters/)
 
-## Rugdoc 
+## Rugdoc&#x20;
 
 [https://rugdoc.io/chain/iotex/](https://rugdoc.io/chain/iotex/)
 
-Get your smart contract reviewed and also list on rugdoc's website to get attraction. 
+**Get your smart contract reviewed and listed on rugdoc!**
 
-**Submit** here: 
+Submit by joining telegram channel [https://t.me/rugdocchat](https://t.me/rugdocchat) and sending a command "`*request`" to get started.
 
-Join telegram channel [https://t.me/rugdocchat](https://t.me/rugdocchat) and send a command "`*request`" to get started.
-
-## iotexdefi
+## iotexdefi.com
 
 [https://iotexdefi.com/](https://iotexdefi.com)
 
-**Submit** here: \
-[https://github.com/iotexdefi/iotexdefi](https://github.com/iotexdefi/iotexdefi)
+**The collection of DeFi projects and tools.**
+
+Submit: [https://github.com/iotexdefi/iotexdefi](https://github.com/iotexdefi/iotexdefi)
+
+## iotexprojects.com
+
+[https://iotexprojects.com/\
+](https://iotexprojects.com)**The aggregation of all IoTeX ecosystem projects**
+
+Submit: [https://iotexprojects.com/submit](https://iotexprojects.com/submit)
 
 ## IoTeX Governance Portal
 
-This is a governance portal for IoTeX and ecosystem projects. If you have governance for your dapp, you can also submit to [https://gov.iotex.io/](https://gov.iotex.io)
+[https://gov.iotex.io/](https://gov.iotex.io)
 
-**Submit **here:
+**The governance portal for IoTeX and ecosystem projects.**
 
-[https://github.com/iotexproject/gov-iotex](https://github.com/iotexproject/gov-iotex) and 
-
-Example PR: [https://github.com/iotexproject/gov-iotex/pull/8/files](https://github.com/iotexproject/gov-iotex/pull/8/files)
+Submit: [https://github.com/iotexproject/gov-iotex](https://github.com/iotexproject/gov-iotex) (e.g.,  [https://github.com/iotexproject/gov-iotex/pull/8/files](https://github.com/iotexproject/gov-iotex/pull/8/files))
 
 
 
