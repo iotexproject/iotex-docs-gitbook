@@ -2,6 +2,17 @@
 
 * [Welcome](README.md)
 
+## 💡Basic Concepts
+
+* [The IoTeX Network](https://onboard.iotex.io/platform/platform-overview)
+* [Blockchain Specs](basic-concepts/blockchain-specs.md)
+* [Wallet Accounts](basic-concepts/accounts.md)
+* [Accounts cryptography](basic-concepts/accounts-cryptography.md)
+* [Blockchain Actions](basic-concepts/blockchain-actions.md)
+* [Address Conversion](basic-concepts/address-conversion.md)
+* [Blockchain Nodes](basic-concepts/blockchain-nodes.md)
+* [IOTX Token](basic-concepts/iotx-token.md)
+
 ## 🛠Get Started
 
 * [IoTeX Wallets](get-started/iotex-wallets/README.md)
@@ -20,7 +31,6 @@
 
 ***
 
-* [Blockchain Specs](blockchain-specs.md)
 * [Web3 Development](web3-development/README.md)
   * [Web3.js](web3-development/web3.js.md)
   * [Remix](web3-development/remix.md)
@@ -126,13 +136,3 @@
 * [Rewards distribution](more-resources/rewards-distribution/README.md)
   * [Hermes](more-resources/rewards-distribution/hermes.md)
   * [Analytics Bookkeeping](more-resources/rewards-distribution/analytics-bookkeeping.md)
-
-## 💡Basic Concepts
-
-* [Wallet Accounts](basic-concepts/accounts.md)
-* [Accounts cryptography](basic-concepts/accounts-cryptography.md)
-* [Blockchain Actions](basic-concepts/blockchain-actions.md)
-* [Address Conversion](basic-concepts/address-conversion.md)
-* [Blockchain Nodes](basic-concepts/blockchain-nodes.md)
-* [IOTX Token](basic-concepts/iotx-token.md)
-* [Chain ID](basic-concepts/chain-id.md)
