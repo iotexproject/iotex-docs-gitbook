@@ -2,17 +2,6 @@
 
 * [Welcome](README.md)
 
-## 💡Basic Concepts
-
-* [The IoTeX Network](https://onboard.iotex.io/platform/platform-overview)
-* [Blockchain Specs](basic-concepts/blockchain-specs.md)
-* [Wallet Accounts](basic-concepts/accounts.md)
-* [Accounts cryptography](basic-concepts/accounts-cryptography.md)
-* [Blockchain Actions](basic-concepts/blockchain-actions.md)
-* [Address Conversion](basic-concepts/address-conversion.md)
-* [Blockchain Nodes](basic-concepts/blockchain-nodes.md)
-* [IOTX Token](basic-concepts/iotx-token.md)
-
 ## 🛠Get Started
 
 * [IoTeX Wallets](get-started/iotex-wallets/README.md)
@@ -123,6 +112,17 @@
   * [XRC20 Tokens](reference/ioctl-cli-reference/xrc20-tokens.md)
   * [Decentralized Identity](reference/ioctl-cli-reference/decentralized-identity.md)
   * [JWT Tokens](reference/ioctl-cli-reference/jwt-tokens.md)
+
+## 💡Basic Concepts
+
+* [The IoTeX Network](https://onboard.iotex.io/platform/platform-overview)
+* [Blockchain Specs](basic-concepts/blockchain-specs.md)
+* [Wallet Accounts](basic-concepts/accounts.md)
+* [Accounts cryptography](basic-concepts/accounts-cryptography.md)
+* [Blockchain Actions](basic-concepts/blockchain-actions.md)
+* [Address Conversion](basic-concepts/address-conversion.md)
+* [Blockchain Nodes](basic-concepts/blockchain-nodes.md)
+* [IOTX Token](basic-concepts/iotx-token.md)
 
 ## ⚙️MORE RESOURCES
 
