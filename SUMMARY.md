@@ -14,7 +14,7 @@
 * [Obtain IOTX Tokens](get-started/iotx-faucets/README.md)
   * [Testnet Tokens](get-started/iotx-faucets/testnet-tokens.md)
   * [Mainnet Tokens](get-started/iotx-faucets/mainnet-tokens.md)
-* [IoTeX dApp Sample](get-started/iotex-dapp-starter.md)
+* [IoTeX Dapp Sample](get-started/iotex-dapp-starter.md)
 
 ## dApp Development
 
@@ -43,7 +43,7 @@
     * [Interact with ioPay Desktop](native-development/reference-code/interact-with-iopay-desktop.md)
     * [Create a DID JWT](native-development/reference-code/create-a-did-jwt.md)
     * [Call any RPC method](native-development/reference-code/call-any-rpc-method.md)
-* [Launching your Dapp](launch-dapp/README.md)
+* [Launch your Dapp](launch-dapp/README.md)
   * [Register your Token](launch-dapp/register-your-token-in-the-ecosystem.md)
   * [Make it cross-chain](launch-dapp/make-your-token-cross-chain.md)
   * [Verify your smartcontract](launch-dapp/verify-your-smart-contract-code.md)
