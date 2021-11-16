@@ -76,7 +76,7 @@
   * [Security Considerations](middleware/decentralized-identity/security-considerations.md)
   * [References](middleware/decentralized-identity/references.md)
 
-## 🔐Verifiable IoT Data <a href="verifiable-data" id="verifiable-data"></a>
+## 🔐Embedded Development <a href="verifiable-data" id="verifiable-data"></a>
 
 * [Pebble Tracker](verifiable-data/pebble-tracker/README.md)
   * [Overview](verifiable-data/pebble-tracker/overview.md)
@@ -97,6 +97,9 @@
   * [Flashing the firmware](verifiable-data/pebble-tracker/flashing-the-firmware/README.md)
     * [Application firmware](verifiable-data/pebble-tracker/flashing-the-firmware/application-firmware.md)
     * [Bootloader firmware](verifiable-data/pebble-tracker/flashing-the-firmware/bootloader-firmware.md)
+* [Arduino & More](verifiable-data/arduino-and-more/README.md)
+  * [Quick Start](verifiable-data/arduino-and-more/quick-start.md)
+  * [Tutorials](verifiable-data/arduino-and-more/tutorials.md)
 
 ## 📕Reference
 
@@ -115,6 +118,7 @@
   * [XRC20 Tokens](reference/ioctl-cli-reference/xrc20-tokens.md)
   * [Decentralized Identity](reference/ioctl-cli-reference/decentralized-identity.md)
   * [JWT Tokens](reference/ioctl-cli-reference/jwt-tokens.md)
+* [Arduino SDK - C++ API](reference/arduino-sdk-c++-api.md)
 
 ## 💡Basic Concepts
 
