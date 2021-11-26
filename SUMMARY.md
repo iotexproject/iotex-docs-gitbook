@@ -98,7 +98,10 @@
     * [Application firmware](verifiable-data/pebble-tracker/flashing-the-firmware/application-firmware.md)
     * [Bootloader firmware](verifiable-data/pebble-tracker/flashing-the-firmware/bootloader-firmware.md)
 * [Arduino & More](verifiable-data/arduino-and-more/README.md)
-  * [Quick Start](verifiable-data/arduino-and-more/quick-start.md)
+  * [Quick Start](verifiable-data/arduino-and-more/quick-start/README.md)
+    * [Arduino IDE](verifiable-data/arduino-and-more/quick-start/arduino-ide.md)
+    * [Linux](verifiable-data/arduino-and-more/quick-start/linux.md)
+  * [Examples](verifiable-data/arduino-and-more/examples.md)
   * [Tutorials](verifiable-data/arduino-and-more/tutorials.md)
 
 ## 📕Reference

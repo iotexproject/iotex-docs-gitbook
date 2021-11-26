@@ -1,5 +1,3 @@
 # Arduino SDK - C++ API
 
-{% hint style="warning" %}
-This section is work in progress
-{% endhint %}
+[https://iotexproject.github.io/iotex-arduino](https://iotexproject.github.io/iotex-arduino)
