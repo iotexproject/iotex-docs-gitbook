@@ -1,6 +1,6 @@
 # IOTX Token
 
-IoTeX defines a _native token _represented by the symbol `IOTX` . This token is an integral part of the blockchain **protocol** to **reward** **block-producers** for keeping the network running and **reward stakeholders **for keeping the network secure by voting for delegates and locking their stakes. `IOTX` Tokens are also required to pay a "GAS fee" when a valid action is sent to the network, and this fee contributes to the rewarding pool for block-producers.
+IoTeX defines a _native token_ represented by the symbol `IOTX` . This token is an integral part of the blockchain **protocol** to **reward** **block-producers** for keeping the network running and **reward stakeholders** for keeping the network secure by voting for delegates and locking their stakes. `IOTX` Tokens are also required to pay a "GAS fee" when a valid action is sent to the network, and this fee contributes to the rewarding pool for block-producers.
 
 ## IOTX Fractions
 

@@ -13,7 +13,7 @@ Finally, get some IOTX test tokens from any [IoTeX faucet](../../get-started/iot
 ### 2. Paste the contract code in IoTeX Studio IDE
 
 {% hint style="success" %}
-Since full Web3 compatibility has been introduced in IoTeX 1.2 release,** **[**Remix IDE**](https://remix.ethereum.org) is now the preferred tool if you are looking for a Web IDE to deploy contracts on IoTeX.
+Since full Web3 compatibility has been introduced in IoTeX 1.2 release, **** [**Remix IDE**](https://remix.ethereum.org) is now the preferred tool if you are looking for a Web IDE to deploy contracts on IoTeX.
 {% endhint %}
 
 {% hint style="warning" %}

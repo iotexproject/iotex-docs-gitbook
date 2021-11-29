@@ -6,11 +6,13 @@ description: Running the IoTeX SDK in Arduino IDE
 
 ## Installing the library
 
-In Arduino IDE, go to Tools->Manage libraries...
+In Arduino IDE, go to `Tools`->`Manage libraries...`
 
-On the window that pops up, search for IoTeX-blockchain-client.
+![](<../../../.gitbook/assets/image (83).png>)
 
-Click install to install the latest version.
+In the Library Manager dialog, search for `IoTeX-blockchain-client` and click `install`&#x20;
+
+![](<../../../.gitbook/assets/image (81).png>)
 
 ## Dependencies
 
@@ -23,7 +25,9 @@ Using the Arduino IDE built-in Library Manager, also install the following libra
 
 Go to Sketch->Include library and select IoTeX-blockchain-client.
 
-Alternatively, paste the following code on top of your sketch.
+![](<../../../.gitbook/assets/image (82).png>)
+
+Alternatively, paste the following code `at the` beginning of your sketch:
 
 `#include "IoTeX-blockchain-client.h"`
 
@@ -31,10 +35,11 @@ Alternatively, paste the following code on top of your sketch.
 
 Create the `Connection` object, passing the connection details:
 
-```
+```cpp
 const char ip[] = "gateway.iotexlab.io";
 const char baseUrl[] = "iotexapi.APIService";
 const int port = 10000;
+
 Connection<Api> connection(ip, port, baseUrl);
 ```
 

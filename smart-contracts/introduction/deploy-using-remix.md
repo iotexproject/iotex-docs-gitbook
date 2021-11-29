@@ -1,6 +1,6 @@
 # Deploy Using Remix IDE
 
-The easiest way to deploy an XRC20 token on IoTeX is using the Remix IDE in conjunction with Metamask. We will deploy the reference implementation from Openzeppelin of a [preset ERC20 token with fixed supply and burnable](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.2/contracts/token/ERC20/presets/ERC20PresetMinterPauser.sol). 
+The easiest way to deploy an XRC20 token on IoTeX is using the Remix IDE in conjunction with Metamask. We will deploy the reference implementation from Openzeppelin of a [preset ERC20 token with fixed supply and burnable](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.2/contracts/token/ERC20/presets/ERC20PresetMinterPauser.sol).&#x20;
 
 ## 1. Configure Metamask
 
@@ -65,18 +65,18 @@ Move to the "_Solidity Compiler"_ tab in the left navigator, select the correct 
 
 Switch to the "_Deploy & Run Transactions_" tab, select "_Injected Web3_" as the environment to make Remix use your Metamask account as a signer.
 
- Next to the "_Deploy_" button, you must fill in the required constructor arguments which are:
+&#x20;Next to the "_Deploy_" button, you must fill in the required constructor arguments which are:
 
 * **Token name**: "Simple Token"
 * **Token symbol**: "SIM"
-* **Total Supply **(in [Rau](../../basic-concepts/iotx-token.md#iotx-fractions)): 1000000000000000000000000 (1 Million tokens)
+* **Total Supply** (in [Rau](../../basic-concepts/iotx-token.md#iotx-fractions)): 1000000000000000000000000 (1 Million tokens)
 * **Address**: the contract owner address, which will also receive the whole supply upon deployment
 
 So this is how your Deploy arguments field should look like:
 
 ![](<../../.gitbook/assets/image (74).png>)
 
-Finally, hit "_Deploy_" and confirm the deployment transaction in Metamask (make sure [you have some IOTX](../../get-started/iotx-faucets/) to pay for gas in your Metamask wallet! 
+Finally, hit "_Deploy_" and confirm the deployment transaction in Metamask (make sure [you have some IOTX](../../get-started/iotx-faucets/) to pay for gas in your Metamask wallet!&#x20;
 
 ## Interact with the Contract
 

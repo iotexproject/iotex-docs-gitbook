@@ -6,29 +6,29 @@ In IoTeX, the accounts Private Key is generated as 64 random hex characters, e.g
 
 `90bf89cd944df5c6d8281b132783277c1760537809c534fc54dda34c4edfb4f4`
 
-And the corresponding **Public Key **is derived from the private key using ECDSA with the secp256k1 curve, which is the same as Ethereum.
+And the corresponding **Public Key** is derived from the private key using ECDSA with the secp256k1 curve, which is the same as Ethereum.
 
 {% hint style="success" %}
-Given a signed message, you can recover the public key of the signing account using [Ecrecover](https://github.com/ethereum/go-ethereum/blob/master/crypto/signature_cgo.go#L36), also defined in [solidity](https://docs.soliditylang.org/en/latest/solidity-by-example.html?highlight=ecrecover#recovering-the-message-signer-in-solidity) for signature verification in smart contracts.
+Given a signed message, you can recover the public key of the signing account using [Ecrecover](https://github.com/ethereum/go-ethereum/blob/master/crypto/signature\_cgo.go#L36), also defined in [solidity](https://docs.soliditylang.org/en/latest/solidity-by-example.html?highlight=ecrecover#recovering-the-message-signer-in-solidity) for signature verification in smart contracts.
 {% endhint %}
 
 ## Address Construction
 
 An IoTeX native representation of an account address like:
 
- `io1nyjs526mnqcsx4twa7nptkg08eclsw5c2dywp4` 
+&#x20;`io1nyjs526mnqcsx4twa7nptkg08eclsw5c2dywp4`&#x20;
 
 can be constructed using the following steps:
 
 #### 1. Generate a random private key as 64 random hex characters
 
-`privKey = `
+`privKey =`&#x20;
 
 `0700898c9dcae0279c88318003ee210e1ee2514121d292d2f03739498ce95f4e`
 
 #### 2. Calculate the corresponding public key using secp256k1 elliptic curve
 
-`pubKey := keccak256k1(privKey) = `
+`pubKey := keccak256k1(privKey) =`&#x20;
 
 `046748ee7f4b573f1fb17517005499003385da75788b2052b18bbb05fd0dcf50597ffc54a22a02ca7343ed2654212022c1f4a0c3755dbdb81a2e70c7c0805520dc`
 

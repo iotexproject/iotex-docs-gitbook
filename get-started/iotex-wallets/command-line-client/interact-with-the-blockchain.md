@@ -25,7 +25,7 @@ $ ioctl account balance dev-acc
 io1a8r9fvu6e3vthfaqvnxlhc6eavsm6t8a2cwtud: 100000000000000000000000000000000000 IOTX
 ```
 
-Send **10 IOTX** from your _dev-acc_ account to the recipient address **io1mflp9m6hcgm2qcghchsdqj3z3eccrnekx9p0ms with the command **`ioctl account transfer:`
+Send **10 IOTX** from your _dev-acc_ account to the recipient address **io1mflp9m6hcgm2qcghchsdqj3z3eccrnekx9p0ms with the command** `ioctl account transfer:`
 
 ```
 ioctl action transfer io1mflp9m6hcgm2qcghchsdqj3z3eccrnekx9p0ms 10 -s dev-acc

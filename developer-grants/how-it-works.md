@@ -19,7 +19,7 @@ The IoTeX Halo Grants Program fuels software and hardware development, as well a
 
 The Halo [Grants Program section](https://community.iotex.io/c/halo-grants/61) is intended to introduce users to the program, its rules, and its instructions. Please notice that **you cannot create posts in this category**, however, this is where you can see the list of all submitted proposals, their status, and browse grant categories.
 
-![](<../.gitbook/assets/image (81).png>)
+![](<../.gitbook/assets/image (81) (1).png>)
 
 ### Pinned posts
 
@@ -30,7 +30,7 @@ The Halo [Grants Program section](https://community.iotex.io/c/halo-grants/61) i
 
 ## Exploring proposals
 
-The grants and their current states can be found in the Halo Grants main section._** Forum Categories **_categorize proposals, and _**Forum Tags**_ track the status of each proposal.
+The grants and their current states can be found in the Halo Grants main section. _**Forum Categories**_ categorize proposals, and _**Forum Tags**_ track the status of each proposal.
 
 Users can use the filter bar to filter the list of proposals by category and status:
 

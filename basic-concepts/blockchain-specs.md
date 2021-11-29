@@ -12,7 +12,7 @@
 
 ### Action Finality
 
-**1-Block finality **for all blockchain actions.
+**1-Block finality** for all blockchain actions.
 
 ### Transaction Validation
 

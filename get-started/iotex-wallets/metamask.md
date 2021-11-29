@@ -8,7 +8,7 @@ description: >-
 
 **MetaMask** is a browser extension and a mobile app that handles blockchain account management and helps users securely interact with web dApps. It’s supported in Chrome, Brave, and Safari browsers, as well as it is available for Android and iOS devices.
 
-Connecting **Metamask** to the** IoTeX blockchain** is as easy as adding a new network in Metamask, and configure it using the IoTeX testnet or mainnet **Babel** endpoints. 
+Connecting **Metamask** to the **IoTeX blockchain** is as easy as adding a new network in Metamask, and configure it using the IoTeX testnet or mainnet **Babel** endpoints.&#x20;
 
 In the following, we assume you have Metamask installed. If you don't, then you can get it from the[ official website](https://metamask.io/index.html), install it, and [import or create a new wallet](https://metamask.zendesk.com/hc/en-us/articles/360015489531-Getting-Started-With-MetaMask).
 

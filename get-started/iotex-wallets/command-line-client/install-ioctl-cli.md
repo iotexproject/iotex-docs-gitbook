@@ -43,7 +43,7 @@ curl https://raw.githubusercontent.com/iotexproject/iotex-core/master/install-cl
 
 {% tab title="Windows" %}
 {% hint style="danger" %}
-Currently, **ioctl ** is not supported on Windows systems.
+Currently, **ioctl** is not supported on Windows systems.
 {% endhint %}
 {% endtab %}
 {% endtabs %}

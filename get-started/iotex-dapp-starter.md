@@ -1,10 +1,10 @@
-# IoTeX dApp Sample
+# IoTeX Dapp Sample
 
-## Introduction 
+## Introduction&#x20;
 
-The **IoTeX dApp Sample** is a comfortable environment for **learning IoTeX **development and is the best way to build **a new dApp**.
+The **IoTeX dApp Sample** is a comfortable environment for **learning IoTeX** development and is the best way to build **a new dApp**.
 
-It sets up a basic working example that is cross-blockchain, multi-asset and supports the most popular wallet apps  (including [Metamask](https://metamask.io)) out of the box. The example utilizes the latest JavaScript features, provides a nice developer experience and optimizes your app for production. You’ll need to have [Node>=10.17.0](https://nodejs.org/en/). 
+It sets up a basic working example that is cross-blockchain, multi-asset and supports the most popular wallet apps  (including [Metamask](https://metamask.io)) out of the box. The example utilizes the latest JavaScript features, provides a nice developer experience and optimizes your app for production. You’ll need to have [Node>=10.17.0](https://nodejs.org/en/).&#x20;
 
 ![IoTeX dApp Starter](<../.gitbook/assets/image (55).png>)
 
@@ -12,14 +12,14 @@ This sample dApp supports Typescript as includes [Vite](https://vitejs.dev/guide
 
 ## Get Started
 
-To start your **IoTeX dApp,** you can fork the dApp Sample repository: 
+To start your **IoTeX dApp,** you can fork the dApp Sample repository:&#x20;
 
 1. **Open the repository on GitHub:** [https://github.com/iotexproject/iotex-dapp-sample-v2](https://github.com/iotexproject/iotex-dapp-sample-v2).
 2. Click the "**Use this template**" button:
 
 ![](<../.gitbook/assets/image (56).png>)
 
-   3\. Clone your new repository: 
+&#x20;  3\. Clone your new repository:&#x20;
 
 ```
 git clone https://github.com/<your-github-username>/iotex-dapp-sample-v2.git

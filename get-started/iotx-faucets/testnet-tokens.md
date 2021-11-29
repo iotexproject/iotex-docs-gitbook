@@ -18,7 +18,7 @@ The IoTeX team provides this faucet: if you like our project, please [**star iot
 
 Another option to get some test IOTX tokens is to join our [Discord Server](https://iotex.io/devdiscord) and ask an admin in the **`#developers-chat`** channel:
 
-* **Simone \[IoTeX]#7906 **(Admin)
-* **Jeremi Rynkiewicz#6988 **(Admin)
+* **Simone \[IoTeX]#7906** (Admin)
+* **Jeremi Rynkiewicz#6988** (Admin)
 
 {% embed url="https://iotex.io/devdiscord" %}

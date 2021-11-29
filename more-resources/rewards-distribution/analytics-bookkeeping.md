@@ -23,7 +23,7 @@ The following request will generate rewards amounts for a specific delegate with
 **Delegate Name**: iotexlab (must be your delegate unique name)\
 **Epochs range**: \[ 17000, 17099 ] \
 **Epoch Bonus delegate fee**: 10%\
-**Foundation Bonus delegate fee**: 10% 
+**Foundation Bonus delegate fee**: 10%&#x20;
 
 Please notice that the bookkeeping Analytics request:
 
@@ -48,7 +48,7 @@ You should also take into account pagination, considering that the server will n
 rewardDistribution(pagination:{ skip:100, first:100 }) {
 ```
 
-eventually, the request command will return a JSON object containing an array of `{ address, amount } `objects wher the `address` is the IoTeX native address of the voter, and `amount` is the total amount of rewards due to that user, for the specified epocs range, **accounting for all the buckets staked by that address. **
+eventually, the request command will return a JSON object containing an array of `{ address, amount }` objects wher the `address` is the IoTeX native address of the voter, and `amount` is the total amount of rewards due to that user, for the specified epocs range, **accounting for all the buckets staked by that address.**&#x20;
 
 ```javascript
 {
