@@ -6,7 +6,7 @@ description: Running the IoTeX SDK in Linux
 
 ## Get the source code
 
-```
+```bash
 git clone https://github.com/iotexproject/arduino-sdk
 cd arduino-sdk
 ```
@@ -17,7 +17,7 @@ Requires cmake 3.1.0 or higher.
 
 Refer to [https://cmake.org/install/](https://cmake.org/install/) for instrutions on how to install cmake.
 
-```
+```bash
 mkdir build && cd build
 cmake ..
 make
@@ -29,7 +29,7 @@ If successful, build files are placed in the `build` directory.
 
 ### Building the tests
 
-```
+```bash
 mkdir build && cd build
 cmake -DUNIT_TEST=ON ..
 make
@@ -39,7 +39,7 @@ Unit tests build files are placed in `build/tests.`
 
 ### Running the tests
 
-```
+```bash
 cd build
 ./tests/iotex_unit_tests
 ```
@@ -52,7 +52,7 @@ Include the IoTeX-Client main header in your program as below:
 
 Create the `Connection` object, passing the connection details:
 
-```
+```cpp
 const char ip[] = "gateway.iotexlab.io";
 const char baseUrl[] = "iotexapi.APIService";
 const int port = 10000;
@@ -116,4 +116,3 @@ Simply call the following method on the `IotexHelpers` global object:\
 Eg. This will set the log level globally to `DEBUG`:\
 `IotexHelpers.setGlobalLogLevel(IotexLogLevel::DEBUG);`
 
-##
