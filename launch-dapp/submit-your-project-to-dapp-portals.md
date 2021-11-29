@@ -1,4 +1,4 @@
-# Submit Your Project to Dapp Portals
+# Submit to Dapp Portals
 
 Once your project is launched, please submit it to all partners' portals below to make sure IoTeX community is informed about your project.
 
@@ -62,13 +62,4 @@ This website aggregates all IoTeX ecosystem projects
 
 {% embed url="https://gov.iotex.io" %}
 
-The governance portal for IoTeX and ecosystem projects: you can propose your own governance page to be included in the IoTeX space.
-
-**Submit**: [https://github.com/iotexproject/gov-iotex](https://github.com/iotexproject/gov-iotex)
-
-See this [submission](https://github.com/iotexproject/gov-iotex/pull/8/files) as an example.
-
-
-
-
-
+The governance portal for IoTeX and ecosystem projects: when creating your space on the Snapshot platform,  you can select "IoTeX Network" as your governance network to get your logo show up in the IoTeX Governance page on Snapshot.
