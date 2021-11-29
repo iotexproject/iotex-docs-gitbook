@@ -2,7 +2,7 @@
 
 ## GetAccountMetadata()
 
-Gets the account details for an IoTeX address
+Gets the account metadata for an IoTeX address.
 
 ```
 AccountMeta accountMeta;
@@ -11,51 +11,45 @@ ResultCode result = connection.api.wallets.getAccount("io1xkx7y9ygsa3dlmvzzyvv8z
 
 If result is `SUCCESS` then the account metadata is be stored in `accountMeta` The account metadata contains the following fields:
 
-* address: the IoTeX address
-* balance: the balance in RAU
-* nonce: the account nonce
-* pendingNonce: the account's pending nonce
-* isContract: true if the address is a contract
-
-
+* **address**: the IoTeX address
+* **balance**: the balance in RAU
+* **nonce**: the account nonce
+* **pendingNonce**: the account's pending nonce
+* **isContract**: true if the address is a contract
 
 ## GetTransactionByHash()
 
-Gets the data for a transfer given the transaction hash
+Gets the data for a transfer given the transaction hash.
 
 ```
 ActionInfo_Transfer data;
-    ResultCode result = connection.api.wallets.getTransactionByHash("5444318f1a460c74d3e86918b640272d93d0b30e2bf2dc329dfd3faa636e52ec", data);
+ResultCode result = connection.api.wallets.getTransactionByHash("5444318f1a460c74d3e86918b640272d93d0b30e2bf2dc329dfd3faa636e52ec", data);
 ```
 
 If result is `SUCCESS` then the action data is stored in `data`. The  transfer action data contains the following fields:
 
-
-
-* actHash
-* blkHash
-* timestamp
-* blkHeight
-* sender
-* gasFee
-* action
-  * senderPublicKey
-  * signature
-  * core
-    * version
-    * nonce
-    * gasLimit
-    * gasPrice
-    * execution
-      * amount
-      * contract
-      * data
-
-
+* **actHash**
+* **blkHash**
+* **timestamp**
+* **blkHeight**
+* **sender**
+* **gasFee**
+* **action**
+  * **senderPublicKey**
+  * **signature**
+  * **core**
+    * **version**
+    * **nonce**
+    * **gasLimit**
+    * **gasPrice**
+    * **execution**
+      * **amount**
+      * **contract**
+      * **data**
 
 ## Creating an account
 
-We can create an account in the device from an existing private key, or generating a new private key
+We can create an account in the device from an existing private key, or generating a new private key.
 
 ### From an existing private key
 
@@ -108,7 +102,7 @@ First create the account object:
 // Private key of the origin address
 const char pkString[] = <private_key>;
 
-// Recipient IoTeX address
+// Destination IoTeX address
 char destinationAddr[IOTEX_ADDRESS_C_STRING_SIZE] = <destination_address>;
 
 // Convert the private key and address hex strings to byte arrays
@@ -145,7 +139,7 @@ result = originAccount.sendTokenTransferAction(connection, nonce, 20000000, "100
 
 ## Signing a message
 
-Signs a message
+Signs a message.
 
 First convert the private key to a byte array:
 
@@ -164,11 +158,11 @@ uint8_t signature[IOTEX_SIGNATURE_SIZE] = {0};
 signer.signMessage(message, sizeof(message), pkBytes, signature);
 ```
 
-The signature is stored as a byte array in `signature`
+The signature is stored as a byte array in `signature.`
 
 ## Storing the private key to persistent memory in the device
 
-You can store the private key in the EEPROM or flash memory of your Arduino device, or in a text file in Linux
+You can store the private key in the EEPROM or flash memory of your Arduino device, or in a text file in Linux.
 
 First convert the private key to a byte array:
 
@@ -192,7 +186,8 @@ Now store the private key:
 
 ```
 // Specify any address number between 0 and (eepromSize - IOTEX_PRIVATE_KEY_SIZE). 
-// This is the EEPROM address where the private key is stored. There needs to be suficcient space between eepromAddress and eepromSize to store the whole private key (at least IOTEX_PRIVATE_KEY_SIZE bytes)
+// This is the EEPROM address where the private key is stored. 
+// There needs to be suficcient space between eepromAddress and eepromSize to store the whole private key (at least IOTEX_PRIVATE_KEY_SIZE bytes)
 const uint32_t eepromAddress = 0;
 ResultCode result = storage.savePrivateKey(eepromAddress, pkBytes);
 ```
@@ -213,7 +208,7 @@ uint8_t pkBytes[IOTEX_PRIVATE_KEY_SIZE];
 signer.str2hex(pkString, pkBytes, IOTEX_SIGNATURE_SIZE);
 ```
 
-Also convert the destinationn address to a byte array:
+Similarly, convert the destination address to a byte array:
 
 ```
 const char destAddrString[] = "0x5840bf8e5d3f5b66EE52B9b933bDAC9682E386D0";
@@ -252,11 +247,9 @@ uint8_t hash[IOTEX_HASH_SIZE] = {0};
 ResultCode result = originAccount.sendExecutionAction(connection, atoi(accMeta.pendingNonce.c_str()), 20000000, "1000000000000", "0", tokenAddress, callData, hash);
 ```
 
-
-
 ## Calling a contract function
 
-This example shows how to call a contract funcion using the addData function of the contract **io1n49gavyahsukdvvxxandkxephdx93n3atcrqur** as an example. You can find the contract abi at https://github.com/iotexproject/arduino-sdk/blob/main/examples/ContractAddData/addDataAbi.h
+This example shows how to call a contract function using the addData function of the contract with address **io1n49gavyahsukdvvxxandkxephdx93n3atcrqur** as an example. You can find the contract abi [here](https://github.com/iotexproject/arduino-sdk/blob/main/examples/ContractAddData/addDataAbi.h).
 
 First convert the private key to a byte array:
 

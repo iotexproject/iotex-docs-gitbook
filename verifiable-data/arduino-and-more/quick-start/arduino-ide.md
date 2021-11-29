@@ -6,24 +6,24 @@ description: Running the IoTeX SDK in Arduino IDE
 
 ## Installing the library
 
-In Arduino IDE, go to Tools->Manage librariies...
+In Arduino IDE, go to Tools->Manage libraries...
 
-On the window that pops up, search for IoTeX-blockchain-client
+On the window that pops up, search for IoTeX-blockchain-client.
 
-Click install to install the latest version
+Click install to install the latest version.
 
 ## Dependencies
 
-Using the Arduino IDEs built-in Library Manager, also install the following libraries:
+Using the Arduino IDE built-in Library Manager, also install the following libraries:
 
 * [WiFiNINA](https://github.com/arduino-libraries/WiFiNINA) : used for WiFi functionality in Nano 33 IoT
 * [FlashStorage](https://github.com/cmaglie/FlashStorage) : used for EEPROM storage emulation in Nano 33 IoT
 
 ## Including the library in your sketch
 
-Go to Sketch->Include library and select IoTeX-blockchain-client
+Go to Sketch->Include library and select IoTeX-blockchain-client.
 
-Alternatively, paste the following code on top of yout sketch
+Alternatively, paste the following code on top of your sketch.
 
 `#include "IoTeX-blockchain-client.h"`
 
@@ -38,17 +38,17 @@ const int port = 10000;
 Connection<Api> connection(ip, port, baseUrl);
 ```
 
-Now you are ready to call any of the API methods
+Now you are ready to call any of the API methods.
 
-You can find examples of most of the API methods under the [examples](https://github.com/iotexproject/arduino-sdk/e) directory
+You can find examples of most of the API methods under the [examples](https://github.com/iotexproject/arduino-sdk/tree/main/examples) directory.
 
 ## Debug logs
 
-Debug logs level is set to NONE by default. The log level can be changed at runtime or at compile time
+Debug log level is set to NONE by default. The log level can be changed at runtime or at compile time.
 
-Logs are printed to the `Serial` serial port by default. You need to initialize the serial port in your sketch by calling `Serial.begin(<baud rate>)`
+Logs are printed to the `Serial` serial port by default. You need to initialize the serial port in your sketch by calling `Serial.begin(<baud rate>).`
 
-The log level can be set per module, and also globally. A log statement is printed if it's level is higher than the log level configured for it's module, and higher than the global log level
+The log level can be set per module, and also globally. A log statement is printed if it's level is higher than the log level configured for it's module, and higher than the global log level.
 
 ### Setting debug log level at run time
 

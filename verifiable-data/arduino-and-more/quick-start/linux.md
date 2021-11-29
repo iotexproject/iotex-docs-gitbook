@@ -13,9 +13,9 @@ cd arduino-sdk
 
 ## Building the library
 
-Requires cmake 3.1.0 or higher
+Requires cmake 3.1.0 or higher.
 
-Refer to [https://cmake.org/install/](https://cmake.org/install/) for cmake installation instructions
+Refer to [https://cmake.org/install/](https://cmake.org/install/) for instrutions on how to install cmake.
 
 ```
 mkdir build && cd build
@@ -23,7 +23,7 @@ cmake ..
 make
 ```
 
-If successful, build files are placed in the `build` directory
+If successful, build files are placed in the `build` directory.
 
 ## Building and running the tests
 
@@ -35,7 +35,7 @@ cmake -DUNIT_TEST=ON ..
 make
 ```
 
-Unit tests build files are placed in `build/tests`
+Unit tests build files are placed in `build/tests.`
 
 ### Running the tests
 
@@ -59,19 +59,19 @@ const int port = 10000;
 Connection<Api> connection(ip, port, baseUrl);
 ```
 
-Now you are ready to call any of the API methods
+Now you are ready to call any of the API methods.
 
-You can find examples of most of the library methods under the [examples](https://github.com/iotexproject/arduino-sdk/examples) directory
+You can find examples of most of the library methods under the [examples](https://github.com/iotexproject/arduino-sdk/tree/main/examples) directory.
 
 ## Debug logs
 
-Debug logs are disabled by default. They can be enabled at runtime or at compile time
+Debug logs are disabled by default. They can be enabled at runtime or at compile time.
 
-Follow the instructions below in order to enable them and set the log level
+Follow the instructions below in order to enable them and set the log level.
 
-The log level can be set per module, and also globally. A log statement is printed if it's level is higher than the log level configured for it's module, and higher than the global log level
+The log level can be set per module, and also globally. A log statement is printed if it's level is higher than the log level configured for it's module, and higher than the global log level.
 
-The library prints logs to stdout using `printf()`
+The library prints logs to stdout using `printf().`
 
 ### Setting debug log level at compile time
 

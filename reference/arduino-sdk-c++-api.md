@@ -1,3 +1,3 @@
 # Arduino SDK - C++ API
 
-[https://iotexproject.github.io/iotex-arduino](https://iotexproject.github.io/iotex-arduino)
+The full API reference can be found [here](https://iotexproject.github.io/iotex-arduino)&#x20;
