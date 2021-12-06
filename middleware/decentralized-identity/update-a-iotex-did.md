@@ -25,4 +25,3 @@ function updateURI(string did, string uri) public onlyDIDOwner(did) {
 ```
 
 Similar to the case of DID registration, did argument is optional for the update functions as well because the contract would use caller's address to derive the DID string.
-

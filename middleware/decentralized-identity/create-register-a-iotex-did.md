@@ -35,4 +35,3 @@ createDID("0x5576E95935366Ebd2637D9171E4C92e60598be10", "8806157fdcbcea265623576
 ```
 
 Note that id argument is optional because the contract will use the caller's address anyway. Once a DID is registered, the provided DID document hash and URI would be stored in the contract along the unique DID string.
-

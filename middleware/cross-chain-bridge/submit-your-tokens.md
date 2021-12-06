@@ -13,11 +13,11 @@ You can currently use ioTube to bridge tokens from the following blockchains to 
 * Ethereum
 * Binance Smart Chain
 * Polygon
-* Huobi Eco Chain 
+* Huobi Eco Chain&#x20;
 
 {% hint style="info" %}
 While ioTube allows bridging IoTeX tokens to other blockchains, submission of custom tokens is not publicly open yet: stay tuned to our official update channels below to get notified on when you will be able to join!\
 \
-[Discord](https://iotex.io/devdiscord)[ ](https://twitter.com/iotex_dev)(developers) • [Twitter](https://twitter.com/iotex_dev) (developers) • [Twitter](https://iotex.io/iotex_io) (community)
+[Discord](https://iotex.io/devdiscord)[ ](https://twitter.com/iotex\_dev)(developers) • [Twitter](https://twitter.com/iotex\_dev) (developers) • [Twitter](https://iotex.io/iotex\_io) (community)
 {% endhint %}
 

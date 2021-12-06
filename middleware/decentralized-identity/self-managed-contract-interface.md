@@ -19,12 +19,12 @@ The following part of this document specifies the IoTeX implementation of the Se
 
 We use the `iotex` to be our method name and a formal DID using this method need begin with following prefix: `did:io` . Furthermore, all the characters in the prefix need to be in lowercase. The string after prefix is the unique IoTeX account address of the registered user/device.
 
-### Generate a unique ID string <a id="generate-a-unique-id-string"></a>
+### Generate a unique ID string <a href="#generate-a-unique-id-string" id="generate-a-unique-id-string"></a>
 
 Every user or device needs to register its own DID by uploading its UUID under a namespace, DID document hash, and DID document URI. Then a unique `idstring` is created as follows:
 
 1. Construct the `iotex` method prefix, i.e. `did:io`.
-2. Append the UUID \(IoTeX account address\) to the prefix. The UUID must match caller's address.
+2. Append the UUID (IoTeX account address) to the prefix. The UUID must match caller's address.
 3. The provided DID document hash and URI would be stored in the contract along the unique `idstring`.
 
 The DID structure looks like follows:
@@ -44,4 +44,3 @@ An example IoTeX DID:
 ```javascript
 did:io:0x5576E95935366Ebd2637D9171E4C92e60598be10
 ```
-

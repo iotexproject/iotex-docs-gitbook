@@ -16,5 +16,3 @@ function getURI(string did) public view returns (string) {
 }
 ```
 
-
-

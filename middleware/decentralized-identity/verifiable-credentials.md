@@ -35,4 +35,3 @@ Here is a draft IoTeX verifiable credentials example:
     }
 }
 ```
-
