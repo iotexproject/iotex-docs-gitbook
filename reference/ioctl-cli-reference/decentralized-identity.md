@@ -2,7 +2,9 @@
 
 Check out IoTeX DID Documentation at:
 
-{% page-ref page="../../middleware/decentralized-identity/" %}
+{% content-ref url="../decentralized-identity/" %}
+[decentralized-identity](../decentralized-identity/)
+{% endcontent-ref %}
 
 Our address-based DID contract on **IoTeX testnet** is:
 
@@ -12,11 +14,11 @@ Our address-based DID contract on **IoTeX mainnet** is:
 
 `TBD`
 
-### Generate a DID Doc Template <a id="generate-a-did-doc-template"></a>
+### Generate a DID Doc Template <a href="#generate-a-did-doc-template" id="generate-a-did-doc-template"></a>
 
 Generate DID document template using an account from ioctl. The produced template can be modified as needed with its hash to be recalculated.
 
-```text
+```
 ioctl did generate [-s SIGNER] [flags]
 
 ```
@@ -49,7 +51,7 @@ If you plan to use IPFS, you can either set up your own IPFS node or use service
 
 Exmaple:
 
-```text
+```
 https://gateway.pinata.cloud/ipfs/QmNNhWHyi5tRH78QqcTYHwfyNc3bbuLZTTvmk3UhWdAWjG
 ```
 
@@ -86,61 +88,61 @@ func main() {
 }
 ```
 
-### Register a DID <a id="register-did"></a>
+### Register a DID <a href="#register-did" id="register-did"></a>
 
 Register a new DID with the corresponding doc to IoTeX.
 
-```text
+```
 ioctl did register (CONTRACT_ADDRESS|ALIAS) hash uri [flags]
 
 ```
 
 Example:
 
-```text
+```
 ioctl did register io1m3wjevwhz2s58sasq0wj4luxrnqt047s687zw8 21e575fd6fd75591465481404986fac73de766446c793ff67adfa171d51adf85 https://gateway.pinata.cloud/ipfs/QmNNhWHyi5tRH78QqcTYHwfyNc3bbuLZTTvmk3UhWdAWjG -s test1
 
 ```
 
-### Resovle DID <a id="resovle-did"></a>
+### Resovle DID <a href="#resovle-did" id="resovle-did"></a>
 
 Resovle an IoTeX DID with our web resovler.
 
-```text
+```
 http://did.testnet.iotex.one/1.0/identifiers/<DID>
 ```
 
 Exmaple:
 
-```text
+```
 http://did.testnet.iotex.one/1.0/identifiers/did:io:0x476c81C27036D05cB5ebfe30ae58C23351a61C4A
 ```
 
-### Update DID <a id="update-did"></a>
+### Update DID <a href="#update-did" id="update-did"></a>
 
 Update an existent DID.
 
-```text
+```
 ioctl did update (CONTRACT_ADDRESS|ALIAS) hash uri [flags]
 ```
 
 Example:
 
-```text
+```
 ioctl did update io1m3wjevwhz2s58sasq0wj4luxrnqt047s687zw8 21e575fd6fd75591465481404986fac73de766446c793ff67adfa171d51adf85 https://gateway.pinata.cloud/ipfs/QmNNhWHyi5tRH78QqcTYHwfyNc3bbuLZTTvmk3UhWdAWjG -s test1
 ```
 
-### Deregister DID <a id="deregister-did"></a>
+### Deregister DID <a href="#deregister-did" id="deregister-did"></a>
 
 Deregister an existent DID.
 
-```text
+```
 ioctl did deregister (CONTRACT_ADDRESS|ALIAS) [flags]
 ```
 
 Example:
 
-```text
+```
  ioctl did deregister io1m3wjevwhz2s58sasq0wj4luxrnqt047s687zw8 -s test1
 ```
 
@@ -148,42 +150,41 @@ Example:
 
 Get the hash of an existent DID doc.
 
-```text
+```
 ioctl did gethash (CONTRACT_ADDRESS|ALIAS) DID [flags]
 ```
 
 Example:
 
-```text
+```
  ioctl did gethash io1m3wjevwhz2s58sasq0wj4luxrnqt047s687zw8 did:io:0x8601CAb8A22bA1DB04ce909E4Ec1deE5555Bf3B0
 
 ```
 
-### Get DID URI <a id="get-did-uri"></a>
+### Get DID URI <a href="#get-did-uri" id="get-did-uri"></a>
 
 Get the URI of an existent DID doc.
 
-```text
+```
 ioctl did geturi (CONTRACT_ADDRESS|ALIAS) DID [flags]
 ```
 
 Example:
 
-```text
+```
  ioctl did geturi io1m3wjevwhz2s58sasq0wj4luxrnqt047s687zw8 did:io:0x8601CAb8A22bA1DB04ce909E4Ec1deE5555Bf3B0
 ```
 
-### Deploy DID contract with ioctl and solc <a id="deploy-did-contract-with-ioctl-and-solc"></a>
+### Deploy DID contract with ioctl and solc <a href="#deploy-did-contract-with-ioctl-and-solc" id="deploy-did-contract-with-ioctl-and-solc"></a>
 
 Deploy DID contract with ioctl and solc.First install ioctl and solc,and then prepare the DID contract files.
 
-```text
+```
 ioctl contract deploy sol CONTRACT_NAME [CODE_FILES...] [--with-arguments INIT_INPUT] [flags]
 ```
 
 Example:
 
-```text
+```
  ioctl contract deploy sol IoTeXDID.sol
 ```
-

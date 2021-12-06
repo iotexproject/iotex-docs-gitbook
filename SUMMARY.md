@@ -59,24 +59,15 @@
     * [Submit Token Metadata](smart-contracts/introduction/token-metadata.md)
 * [Dev Tools](dev-tools.md)
 
-## 🧑‍💻Middleware
+## 🧑‍💻Offchain Components <a href="#layer2" id="layer2"></a>
 
-* [ioTube Cross-chain Bridge](middleware/cross-chain-bridge/README.md)
-  * [Submit your tokens](middleware/cross-chain-bridge/submit-your-tokens.md)
-  * [Join the Bridge consensus](middleware/cross-chain-bridge/join-the-bridge-consensus.md)
-* [Decentralized Identity](middleware/decentralized-identity/README.md)
-  * [Overview](middleware/decentralized-identity/overview.md)
-  * [Self-Managed Contract Interface](middleware/decentralized-identity/self-managed-contract-interface.md)
-  * [Create/Register a IoTeX DID](middleware/decentralized-identity/create-register-a-iotex-did.md)
-  * [Query a IoTeX DID](middleware/decentralized-identity/query-a-iotex-did.md)
-  * [Update a IoTeX DID](middleware/decentralized-identity/update-a-iotex-did.md)
-  * [Delete a IoTeX DID](middleware/decentralized-identity/delete-a-iotex-did.md)
-  * [Resolve a IoTeX DID Document](middleware/decentralized-identity/resolve-a-iotex-did-document.md)
-  * [Verifiable Credentials](middleware/decentralized-identity/verifiable-credentials.md)
-  * [Security Considerations](middleware/decentralized-identity/security-considerations.md)
-  * [References](middleware/decentralized-identity/references.md)
+* [ioTube Cross-chain Bridge](layer2/cross-chain-bridge/README.md)
+  * [Submit your tokens](layer2/cross-chain-bridge/submit-your-tokens.md)
+  * [Join the Bridge consensus](layer2/cross-chain-bridge/join-the-bridge-consensus.md)
+* [TruStream](layer2/trustream/README.md)
+  * [Overview](layer2/trustream/overview.md)
 
-## 🔐Embedded Development <a href="verifiable-data" id="verifiable-data"></a>
+## 🔐Open Hardware <a href="#verifiable-data" id="verifiable-data"></a>
 
 * [Pebble Tracker](verifiable-data/pebble-tracker/README.md)
   * [Overview](verifiable-data/pebble-tracker/overview.md)
@@ -122,6 +113,17 @@
   * [Decentralized Identity](reference/ioctl-cli-reference/decentralized-identity.md)
   * [JWT Tokens](reference/ioctl-cli-reference/jwt-tokens.md)
 * [Arduino SDK - C++ API](reference/arduino-sdk-c++-api.md)
+* [Decentralized Identity](reference/decentralized-identity/README.md)
+  * [Overview](reference/decentralized-identity/overview.md)
+  * [Self-Managed Contract Interface](reference/decentralized-identity/self-managed-contract-interface.md)
+  * [Create/Register a IoTeX DID](reference/decentralized-identity/create-register-a-iotex-did.md)
+  * [Query a IoTeX DID](reference/decentralized-identity/query-a-iotex-did.md)
+  * [Update a IoTeX DID](reference/decentralized-identity/update-a-iotex-did.md)
+  * [Delete a IoTeX DID](reference/decentralized-identity/delete-a-iotex-did.md)
+  * [Resolve a IoTeX DID Document](reference/decentralized-identity/resolve-a-iotex-did-document.md)
+  * [Verifiable Credentials](reference/decentralized-identity/verifiable-credentials.md)
+  * [Security Considerations](reference/decentralized-identity/security-considerations.md)
+  * [References](reference/decentralized-identity/references.md)
 
 ## 💡Basic Concepts
 
