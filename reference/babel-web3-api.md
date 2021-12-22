@@ -12,19 +12,11 @@ You can deploy your own Babel service [available on GitHub](https://github.com/i
 
 #### Mainnet
 
-| Parameter    | Value                                                                      |
-| ------------ | -------------------------------------------------------------------------- |
-| RPC URL      | [`https://babel-api.mainnet.iotex.io`](https://babel-api.mainnet.iotex.io) |
-| Chain ID     | `4689`                                                                     |
-| Explorer URL | [`https://iotexscan.io`](https://iotexscan.io)                             |
+<table><thead><tr><th>Endpoint</th><th data-type="number">Chain ID</th><th>Explorer URL</th></tr></thead><tbody><tr><td>https://babel-api.mainnet.iotex.io</td><td>4689</td><td>https://iotexscan.io</td></tr></tbody></table>
 
 **Testnet**
 
-| **Parameter** | Value                                                                      |
-| ------------- | -------------------------------------------------------------------------- |
-| RPC URL       | [`https://babel-api.testnet.iotex.io`](https://babel-api.testnet.iotex.io) |
-| Chain ID      | `4690`                                                                     |
-| Explorer URL  | [`https://testnet.iotex.io`](https://testnet.iotex.io)                     |
+<table><thead><tr><th>Endpoint</th><th data-type="number">Chain ID</th><th>Explorer URL</th></tr></thead><tbody><tr><td>https://babel-api.testnet.iotex.io</td><td>4690</td><td>https://testnet.iotexscan.io</td></tr></tbody></table>
 
 **Example**
 
