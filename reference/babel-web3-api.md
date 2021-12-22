@@ -12,7 +12,7 @@ You can deploy your own Babel service [available on GitHub](https://github.com/i
 
 #### Mainnet
 
-<table><thead><tr><th>Endpoint</th><th data-type="number">Chain ID</th><th>Explorer URL</th></tr></thead><tbody><tr><td>https://babel-api.mainnet.iotex.io</td><td>4689</td><td>https://iotexscan.io</td></tr></tbody></table>
+<table><thead><tr><th>Endpoint</th><th data-type="number">Chain ID</th><th>Explorer URL</th></tr></thead><tbody><tr><td>https://babel-api.mainnet.iotex.io</td><td>4689</td><td>https://iotexscan.io</td></tr><tr><td>https://babel-api.mainnet.iotex.one</td><td>4689</td><td>https://iotexscan.io</td></tr></tbody></table>
 
 **Testnet**
 
