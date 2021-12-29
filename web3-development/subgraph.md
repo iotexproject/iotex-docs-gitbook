@@ -2,11 +2,11 @@
 
 ## Introduction
 
-[The Graph](https://thegraph.com/docs/introduction#what-the-graph-is) is a decentralized protocol for indexing and querying data from blockchains, making it possible to query data that is difficult to query directly. In the Graph architexture, [Indexers](https://thegraph.com/docs/introduction#how-the-graph-works) are the primary service provider for data queries: they store and index data, and provide the indexed data as a P2P pay-per-call API service. 
+[The Graph](https://thegraph.com/docs/introduction#what-the-graph-is) is a decentralized protocol for indexing and querying data from blockchains, making it possible to query data that is difficult to query directly. In the Graph architexture, [Indexers](https://thegraph.com/docs/introduction#how-the-graph-works) are the primary service provider for data queries: they store and index data, and provide the indexed data as a P2P pay-per-call API service.&#x20;
 
 To learn more about how The Graph works, we refer yo to the official documentation website:
 
-{% embed url="https://thegraph.com/docs/introduction\#how-the-graph-works" %}
+{% embed url="https://thegraph.com/docs/introduction#how-the-graph-works" %}
 
 ## Run an IoTeX Indexer Node
 
@@ -23,20 +23,20 @@ You can set  `ethereum: testnet:https://babel-api.testnet.iotex.io` if you want 
 
 For more information about how to run a Graph Indexer node, please refer to the official documentation at:
 
-{% embed url="https://thegraph.com/docs/network\#infrastructure" %}
+{% embed url="https://thegraph.com/docs/network#infrastructure" %}
 
 ## Deploy a Subgraph
 
 Once you have your Indexer Node running, you can define and locally deploy your Subgraphs as usual. Please refer to the official Subgraph quick start guide at:
 
-{% embed url="https://thegraph.com/docs/quick-start\#local-development" %}
+{% embed url="https://thegraph.com/docs/quick-start#local-development" %}
 
 ## Official hosted service
 
 ### Links
 
-* IPFS [https://graph.mainnet.iotex.io](https://graph.mainnet.iotex.io)
-* RPC [https://rpc.graph.mainnet.iotex.io](https://rpc.graph.mainnet.iotex.io/)
+* IPFS [https://ipfs.mainnet.iotex.io](https://graph.mainnet.iotex.io)
+* RPC [https://rpc.graph.mainnet.iotex.io](https://rpc.graph.mainnet.iotex.io)
 
 ### Common Subgraph
 
@@ -44,8 +44,7 @@ Once you have your Indexer Node running, you can define and locally deploy your 
 
 ### Deploy
 
-```text
-graph create common/blocks --node https://rpc.graph.mainnet.iotex.io/
-graph deploy --debug --ipfs https://graph.mainnet.iotex.io --node  https://rpc.graph.mainnet.iotex.io/ common/blocks subgraphs/blocks.yaml
 ```
-
+graph create common/blocks --node https://rpc.graph.mainnet.iotex.io/
+graph deploy --debug --ipfs https://ipfs.mainnet.iotex.io --node  https://rpc.graph.mainnet.iotex.io/ common/blocks subgraphs/blocks.yaml
+```
