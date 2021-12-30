@@ -8,7 +8,7 @@ This quick start guide will help you with power on your device and connecting it
 
 Before start using the Pebble, let's take a look at what's in the box:
 
-![](<../../.gitbook/assets/image (82).png>)
+![](../../.gitbook/assets/image.jpg)
 
 ### SIM Card
 
@@ -18,7 +18,7 @@ Pebble Tracker connectivity is based on the new low-bandwidth cellular protocols
 **The SIM card is not included with Pebble Tracker; you will have to buy one.**
 {% endhint %}
 
-If you have issues finding a working SIM card that supports NB-IoT or LTE-M in your Country, you can buy one from our SIM cards portal at  \[simcards.iotex.io].&#x20;
+If you have issues finding a working SIM card that supports NB-IoT or LTE-M in your Country, you can buy one from our SIM cards portal at  \[`coming soon`].&#x20;
 
 See the list of supported Countries below:
 
@@ -31,14 +31,12 @@ Please notice Pebble tracker does not support the GSM, 3G, or 4G bands:\
 
 Once you have a SIM card, use a paperclip or the provided SIM card tool to open the SIM slot and push the card inside:
 
-![](<../../.gitbook/assets/image (83).png>)
+![](../../.gitbook/assets/simcard.jpg)
 
 
 
 ### Power On
 
-Press and keep pressing the power/confirm button on the right side of Pebble until you see the IoTeX logo on the screen. Wait until the cellular connection is estabilished and Pebble Tracker starts communicating with the TruStream network:
+Press and keep pressing the power/confirm button on the right side of Pebble until you see the IoTeX logo on the screen. Wait until the cellular connection is established and Pebble Tracker starts communicating with the TruStream network:
 
-![](<../../.gitbook/assets/image (85).png>)
-
-###
+![](../../.gitbook/assets/poweron.jpg)
