@@ -2,135 +2,43 @@
 
 Congratulations on receiving your Pebble!
 
-This quick start guide will help you quickly explore a small number of features of your Pebble.
+This quick start guide will help you with power on your device and connecting it to the IoTeX [MachineFi portal](https://porta.machinefi.com).
 
-## Hardware Setup
+### Unboxing
 
-Before start using your Pebble, you need three simple steps to hook up the device with a few components (see the [Hardware Setup](hardware-setup.md) guide for more details):
+Before start using the Pebble, let's take a look at what's in the box:
 
-* Insert the IoT SIM card into the SIM card slot
-* Connect the NB-IoT/LTE-M antenna
-* Connect the rechargeable Lithium Polymer Ion battery pack
-* Press the [Power Button](hardware-setup.md#inserting-a-sim-card) for 2 seconds to Power on
+![](<../../.gitbook/assets/image (82).png>)
 
-Check out the [on-board RGB led](technical-specification.md#onboard-rgb-led) to monitor the status of your Pebble.
+### SIM Card
 
-## Dashboard Setup
-
-The default firmware installed on Pebble will connect the device to [trypebble.io](https://trypebble.io), the **IoTeX free Pebble Backend Service** built using open-source software including [hmq](https://github.com/fhmq/hmq), [MinIO ](https://min.io)and [Thingsboard](https://thingsboard.io).
+Pebble Tracker connectivity is based on the new low-bandwidth cellular protocols NB-IoT and LTE-M; therefore, **you need a valid SIM card to have it connected to the internet**. NB-IoT and LTE-M bands are optimized for Internet of Things applications like smart metering, industrial controls, residential security, etc... They consume less power, extend the device battery life, and reduce data plan costs while still improving the range.
 
 {% hint style="warning" %}
-The IoTeX hosted backend solely aims for the initial validation of Pebble functionalities: **all the dashboards and data are accessible by all Pebble users**. As a result, we do encourage users to deploy their own backend service: check out [Deploy your own backend service](setup-modes/development-mode/) for instructions on how to deploy your own backend, and [Configure AWS IoT Core](setup-modes/production-mode/) for instructions on how to deploy a backend for production.
+**The SIM card is not included with Pebble Tracker; you will have to buy one.**
 {% endhint %}
 
-### Login to the Dashboard
+If you have issues finding a working SIM card that supports NB-IoT or LTE-M in your Country, you can buy one from our SIM cards portal at  \[simcards.iotex.io].&#x20;
 
-To setup your dashboard, you can login into Thingsboard at http://trypebble.io:8080/login using the following credentials:
+See the list of supported Countries below:
 
-`Username: tenant@thingsboard.org`\
-`Passworld: tenant`\
+{% embed url="https://1nce.com/en/coverage" %}
+
+{% hint style="warning" %}
+Please notice Pebble tracker does not support the GSM, 3G, or 4G bands:\
+**make sure your SIM card provider supports NB-IoT or LTE-M or both in your country.**
+{% endhint %}
+
+Once you have a SIM card, use a paperclip or the provided SIM card tool to open the SIM slot and push the card inside:
+
+![](<../../.gitbook/assets/image (83).png>)
 
 
-**Please Note that the login credentials are shared by all Pebble users, so please do not change them!**
 
-### Create Your Dashboard
+### Power On
 
-Before creating a dashboard for your Pebble, you need to ensure that the data from your device has been successfully filtered out by Thingsboard. To this end, you can click the **DEVICES** icon on the Thingsboard console:
+Press and keep pressing the power/confirm button on the right side of Pebble until you see the IoTeX logo on the screen. Wait until the cellular connection is estabilished and Pebble Tracker starts communicating with the TruStream network:
 
-![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig1.png)
+![](<../../.gitbook/assets/image (85).png>)
 
-In the **Devices** window, you can check whether your device IMEI number occurs in the list of device names, (your device name will look like `nrf-XXXXXXXXXXXX` where `XX..X` stands for the unique 15-digit IMEI number of your Pebble, which can be found printed on a label inside the Pebble box).
-
-![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig2.png)
-
-Once you located your Pebble's IMEI in the list, you can move on and click **DASHBOARDS** on the left menu. If you can't find your device in the list, [check out the status Led](technical-specification.md#onboard-rgb-led) on your board to make sure it's connected to the cellular network, otherwise you may need to [reconfigure and flash a new firmware](flashing-the-firmware/) for your Pebble to support a different standard for the cellular network available in your country.
-
-![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig3.png)
-
-In the **Dashboards** window, you can click `+`on the top right corner and select **import dashboard**
-
-![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig4.png)
-
-Download the [IoTeX's dashboard template ](https://raw.githubusercontent.com/iotexproject/pebble-backend/master/example/dashboard/pebble_template.json)(right-click and save the file) and drop the file into the pop-up window.
-
-![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig5.png)
-
-After clicking **IMPORT**, you will notice that a new dashboard named `pebble-1` showed up at the top of the list in the **Dashboards** window. You can then click the **Open dashboard** button to open your dashboard.
-
-![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig6.png)
-
-Once your dashboard is launched, you need to enter **edit mode** by clicking the orange edit button on the bottom right corner of your dashboard.
-
-![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig7.png)
-
-The first thing is to change is the title of the dashboard: rename it from `pebble-1` to your device name `nrf-xxxxxxxxxxxxxxx`, to differentiate your dashboard from those of other users.
-
-![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig8.png)
-
-Then you need to click **Entity aliases** button to set up the data source for your dashboard: in the **Entity aliases** window, you should first change the **Alias name** from `pebble-1` to your device name `**nrf-xxxxxxxxxxxxxxx**` and then click the **Edit alias** button on the right:
-
-![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig9.png)
-
-In the **Edit alias** window, you need to click the line labeled **Device**, and choose your device from the drop-down list.
-
-![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig10.png)
-
-Saving your changes in the dialog boxes, then click the orange **Apply changes** button at the bottom right of the screen: the data stream from your Pebble will show in the dashboard.
-
-![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig11.png)
-
-## Configure Your Pebble
-
-As shown in your dashboard, the default firmware on Pebble sends all the following sensor/GPS data to the backend periodically:
-
-* Temperature
-* Air Pressure
-* Humidity
-* Gas
-* 3-Axis Accelerometer
-* 3-Axis Gyroscope
-* Light Intensity
-* Signal-to-Noise Ratio (SNR)
-* Battery
-
-If you would like to stop updating some sensor/GPS data on the dashboard, you can use the **CONFIG ME** button as follows:
-
-1. Click the orange **Edit** button on the bottom right corner of your dashboard;
-2. Click the 'Edit widget' button on the 'Config data collection' panel;
-
-![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig12.png)
-
-1. Click **ADVANCED** in the pop-up window **CONFIG DATA COLLECTION**, select **Shared attribute** for the **Device attribute scope**, and copy the following JSON configuration into the **Device attribute parameters** field:
-
-```javascript
-{
-  "data_channel": "7895"
-}
-```
-
-![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig13.png)
-
-For selecting/deselecting certain sensors/GPS data, you can set '1'/'0' in the corresponding position as shown in the figure below and convert the resulting binary string to the corresponding decimal value that is then assigned to the **data_channel** field in the above JSON configuration.
-
-![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig14.png)
-
-In the above example, we set **data_channel** to be `7895` (corresponding to `1111011010111` in binary representation). As a result, the temperature will not be updated on the dashboard after Pebble receives this configuration.
-
-1. After applying the changes and returning to the main dashboard, you can click the **CONFIG ME** button to send the new configuration to your Pebble;
-2. The new configuration will take effect shortly and the selected sensor/GPS data will not be updated any longer.
-
-![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig15.png)
-
-## Beep Your Pebble
-
-For testing the buzzer on your Pebble, you can use the **BEEP ME** button and follow the same steps used in the above section **configuring your Pebble**. The only difference is the JSON configuration in the **Device attribute parameters** field, that now becomes:
-
-```javascript
-{
-  "beep": "2000"
-}
-```
-
-![](http://docs-old.iotex.io/img/developer/pebble-quickstart/pebble_quick_start_guide_fig16.png)
-
-After saving and clicking the **BEEP ME** button on the card the buzzer of your Pebble will beep for 2000ms (as soon as the configuration is received).
+###
