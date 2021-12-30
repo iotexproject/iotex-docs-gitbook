@@ -92,6 +92,7 @@
   * [Quick Start](verifiable-data/arduino-and-more/quick-start/README.md)
     * [Arduino IDE](verifiable-data/arduino-and-more/quick-start/arduino-ide.md)
     * [Linux](verifiable-data/arduino-and-more/quick-start/linux.md)
+    * [PlatformIO](verifiable-data/arduino-and-more/quick-start/platformio.md)
   * [Examples](verifiable-data/arduino-and-more/examples.md)
   * [Tutorials](verifiable-data/arduino-and-more/tutorials.md)
 
