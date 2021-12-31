@@ -89,13 +89,26 @@ We can now switch to the "**Devices**" tab of the portal, which lists all the de
 
 ![](../../.gitbook/assets/add-device.jpg)
 
-Click the "Add Device" button, then select "Pebble" to register and add a new Pebble Tracker with your MachineFi account:
+In the device dialog, click the "**Add Device**" button, then select "**Pebble**" to register and add a new Pebble Tracker to your MachineFi account:
 
+![](<../../.gitbook/assets/addpebble1 (4).jpg>)
 
+Follow the registration screens up to your wallet address and device IMEI number confirmation:
 
-![](../../.gitbook/assets/addpebble1.jpg)
+![](../../.gitbook/assets/addpebble2.jpg)
+
+Next, verify that you see your Metamask wallet address on the Pebble display and confirm the transaction in Metamask to confirm the association of Pebble Tracker with your MachineFi account:
 
 {% hint style="success" %}
 Make sure your Pebble is powered on and [prompting for device registration](quick-start.md#power-on).
 {% endhint %}
 
+![](../../.gitbook/assets/addpebble3.jpg)
+
+Finally, we complete the registration on the device side by pressing the power/confirm button and waiting for Pebble to complete the registration:
+
+![](../../.gitbook/assets/addpebble4.jpg)
+
+The "**Devices**" page should now show the Pebble we just registered as a "**Confirmed**" device:
+
+![](../../.gitbook/assets/addpebble5.jpg)
