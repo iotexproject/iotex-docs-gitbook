@@ -40,3 +40,6 @@ Once you have a SIM card, use a paperclip or the provided SIM card tool to open 
 Press and keep pressing the power/confirm button on the right side of Pebble until you see the IoTeX logo on the screen. Wait until the cellular connection is established and Pebble Tracker starts communicating with the TruStream network:
 
 ![](../../.gitbook/assets/poweron.jpg)
+
+If this is the first time you power on your Pebble Tracker, it will prompt you for adding the device to your account on the [MachineFi portal](https://portal.machinefi.com).
+
