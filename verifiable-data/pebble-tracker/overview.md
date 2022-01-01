@@ -22,7 +22,9 @@ Pebble is a breakthrough blockchain-powered device that captures physical world 
 
 ### Just received your Pebble? <a href="#just-received-your-pebble" id="just-received-your-pebble"></a>
 
-Check out the [Quick Start Guide](quick-start.md) the get started in a few minutes.
+Check out the [Quick Start Guide](quick-start.md) the get started in a few minutes
+
+![](https://i.ibb.co/jRygb80/quickstart.jpg)
 
 ### Interested in firmware development? <a href="#interested-in-tech-specs" id="interested-in-tech-specs"></a>
 
