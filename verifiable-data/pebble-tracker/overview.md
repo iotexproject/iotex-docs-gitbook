@@ -16,13 +16,11 @@ Pebble is a breakthrough blockchain-powered device that captures physical world 
 
 **Blockchain users** who own Pebble Trackers can register their devices to the IoTeX [MachineFi Portal](https://portal.machinefi), fund their accounts, and start joining the new world of MachineFi Dapps and games to regain ownership of their data and start earning from providing it to third-party.
 
-**IoT developers** who want to prototype Blockchain-based solutions, can develop their custom firmware for Pebble Tracker and take advantage of a decentralized network that can receive, verify and archive the IoT data, ready to be used with Blockchain.&#x20;
+**Blockchain Developers** can use trusted data from Pebble devices in their smart contracts to build innovative _MachineFi_ decentralized applications (DApps), or to enforce business logic in a trusted way, extending verifiability from data to code (smart contracts).
 
 **Supply Chain developers** can use Pebble to establish a higher standard of **trust** for supply chain and transportation & logistics use cases with verifiable GPS, climate, motion, and light data. Pebble can serve as an **unbiased third party** in consortium scenarios where absolute trust is needed.
 
-**Blockchain Developers** can use trusted data from Pebble devices in their smart contracts to build innovative _MachineFi_ decentralized applications (DApps), or to enforce business logic in a trusted way, extending verifiability from data to code (smart contracts).
-
-
+**IoT developers** who want to prototype Blockchain-based solutions, can develop their custom firmware for Pebble Tracker and take advantage of a decentralized network to receive, verify, and archive device data, ready to be used in Blockchain applications.&#x20;
 
 ## Interested in firmware development? <a href="#interested-in-tech-specs" id="interested-in-tech-specs"></a>
 
