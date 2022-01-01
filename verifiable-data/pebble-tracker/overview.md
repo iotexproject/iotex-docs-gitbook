@@ -1,6 +1,6 @@
 # Overview
 
-> **Just received your Pebble?** Check out the [Quick Start Guide](quick-start.md) the get started in a few minutes.
+> **Just received your Pebble?** Check out the [Quick Start Guide](quick-start.md) to get started in a few minutes.
 
 ## Take Control of Your Data with Pebble!
 
