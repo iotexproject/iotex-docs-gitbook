@@ -112,3 +112,18 @@ Finally, we complete the registration on the device side by pressing the power/c
 The "**Devices**" page should now show the Pebble we just registered as a "**Confirmed**" device:
 
 ![](../../.gitbook/assets/addpebble5.jpg)
+
+### Congratulations!
+
+Your Pebble is ready to send IoT data to IoTeX Dapps and fuel the _MachineFi_ blockchain revolution!
+
+Here is how your Pebble screen should look like:
+
+![Pebble Display Details](../../.gitbook/assets/pebble-display-icons.jpg)
+
+The factory Firmware will collect all Pebble sensors data, and send one data message every 5 minutes to the IoTeX TruStream network.
+
+{% hint style="info" %}
+**Please notice**: the factory firmware rounds the GPS location by a 500m error.
+{% endhint %}
+
