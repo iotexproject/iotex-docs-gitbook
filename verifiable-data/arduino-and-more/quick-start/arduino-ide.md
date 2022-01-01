@@ -12,7 +12,7 @@ In Arduino IDE, go to `Tools`->`Manage libraries...`
 
 In the Library Manager dialog, search for `IoTeX-blockchain-client` and click `install`&#x20;
 
-![](<../../../.gitbook/assets/image (81) (1).png>)
+![](<../../../.gitbook/assets/image (81) (1) (1).png>)
 
 ## Dependencies
 

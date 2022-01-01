@@ -6,7 +6,9 @@ Pebble is equipped with high-quality **GPS**, **climate**, **motion**, and **lig
 
 Pebble utilizes a **secure element** (nRF9160) to cryptographically sign all data, providing unparalleled verifiability and traceability for asset tracking, supply chain, and other applications.
 
-### Processor <a href="#processor" id="processor"></a>
+![Firmware Development Kit](<../../../.gitbook/assets/image (90).png>)
+
+### CPU <a href="#processor" id="processor"></a>
 
 Pebble is powered by a 64 MHz Arm® Cortex®-M33, 1 MB Flash and 256 KB RAM, with automated power and clock management, Arm TrustZone, and Arm CryptoCell 310
 
