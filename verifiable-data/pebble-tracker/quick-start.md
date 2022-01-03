@@ -20,9 +20,11 @@ Pebble Tracker connectivity is based on the new _low-bandwidth_ cellular protoco
 You can verify NB-IoT / LTE-M networks coverage for your Country on the [GSMA website](https://www.gsma.com/iot/deployment-map/). Once you know which bands are supported, please find a provider where you can buy a SIM card that supports NB-T or LTE-M in your Country.&#x20;
 {% endhint %}
 
-If you have issues finding a working SIM card, you can buy one from the IoTeX SIM card portal (**coming soon**). You can find the list of supported Countries below:
+If you have issues finding a working SIM card, you will be able to buy one from the _IoTeX SIM card portal_ **soon**. You can find the list of currently supported Countries below:
 
 {% embed url="https://1nce.com/en/coverage" %}
+Countries supported by the IoTeX SIM card
+{% endembed %}
 
 {% hint style="warning" %}
 Please notice that Pebble tracker does not support the GSM, 3G, or 4G bands:\
@@ -35,19 +37,17 @@ Once you have a SIM card, use a paperclip or the provided SIM card tool to open 
 
 ![](../../.gitbook/assets/simcard.jpg)
 
-
-
 ### Powering On
 
-Press and keep pressing the power/confirm button on the right side of Pebble until you see the IoTeX logo on the screen. Wait until the cellular connection is established and Pebble Tracker starts communicating with the TruStream network:
+Press and keep pressing the **power**/**confirm** button on the right side of Pebble until you see the IoTeX logo on the screen. Wait until the cellular connection is established and Pebble Tracker starts communicating with the TruStream network:
 
 ![](<../../.gitbook/assets/first-boot (1).jpg>)
 
-If this is the first time you power on your Pebble Tracker, it will prompt you for adding the device to your account on the [MachineFi portal](https://portal.machinefi.com).
+If this Pebble Tracker has not been registered already, it will prompt you for adding the device to your account on the [MachineFi portal](https://portal.machinefi.com).
 
 ### Creating a MachineFi Account
 
-Before we can register Pebble on the IoTeX network, we need a MachineFi portal account that will _own_ our devices.&#x20;
+Before we can register a Pebble on the IoTeX network, we need a MachineFi **portal** **account** that will _own_ our devices.&#x20;
 
 {% hint style="info" %}
 ✅ **Prerequisites**:
