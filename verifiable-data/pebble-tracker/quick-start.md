@@ -1,18 +1,18 @@
 # Quick Start
 
-Congratulations on receiving your Pebble!
+Congratulations on receiving your Pebble Tracker!
 
-This quick start guide will help you with power on your device and connecting it to the IoTeX [MachineFi portal](https://porta.machinefi.com).
+This quick start guide will help you with power on your device and connect it to the IoTeX [MachineFi portal](https://portal.machinefi.com).
 
 ### Unboxing
 
-Before start using the Pebble, let's take a look at what's in the box:
+Before turning on Pebble Tracker, let's take a look at what's in the box:
 
 ![](../../.gitbook/assets/image.jpg)
 
 ### SIM Card
 
-Pebble Tracker connectivity is based on the new low-bandwidth cellular protocols NB-IoT and LTE-M; therefore, **you need a valid SIM card to have it connected to the internet**. NB-IoT and LTE-M bands are optimized for Internet of Things applications like smart metering, industrial controls, residential security, etc... They consume less power, extend the device battery life, and reduce data plan costs while still improving the range.
+Pebble Tracker connectivity is based on the new _low-bandwidth_ cellular protocols "NB-IoT" and "LTE-M": **you need a valid SIM card to allow Pebble connected to the internet**. NB-IoT and LTE-M bands are optimized for Internet of Things applications like smart metering, industrial controls, residential security, etc... They consume less power, extend the device battery life, and reduce data plan costs while still improving the range.
 
 {% hint style="warning" %}
 **The SIM card is not included with Pebble Tracker; you will have to buy one.**
