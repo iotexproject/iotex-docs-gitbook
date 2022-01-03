@@ -14,7 +14,7 @@ Pebble is a breakthrough blockchain-powered device that captures physical world 
 
 ## Who is Pebble for? <a href="#who-is-pebble-for" id="who-is-pebble-for"></a>
 
-**Blockchain users** who own Pebble Trackers can register their devices to the IoTeX [MachineFi Portal](https://portal.machinefi), fund their accounts, and start joining the new world of MachineFi Dapps and games to regain ownership of their data and start earning from providing it to third-party.
+**Blockchain users** who own Pebble Trackers can register their devices to the IoTeX[ MachineFi Portal](http://portal.machinefi.com), fund their accounts, and start joining the new world of MachineFi Dapps and games to regain ownership of their data and start earning from providing it to third-party.
 
 **Blockchain Developers** can use trusted data from Pebble devices in their smart contracts to build innovative _MachineFi_ decentralized applications (DApps), or to enforce business logic in a trusted way, extending verifiability from data to code (smart contracts).
 
