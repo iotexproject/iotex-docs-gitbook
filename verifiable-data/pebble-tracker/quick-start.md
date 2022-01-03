@@ -17,7 +17,7 @@ Pebble Tracker connectivity is based on the new _low-bandwidth_ cellular protoco
 {% hint style="warning" %}
 **The SIM card is not included with Pebble Tracker.**
 
-You can verify NB-IoT / LTE-M networks coverage for your Country on the [GSMA website](https://www.gsma.com/iot/deployment-map/). Then you should find a provider where you can buy a SIM card that supports NB-T or LTE-M in your Country.&#x20;
+You can verify NB-IoT / LTE-M networks coverage for your Country on the [GSMA website](https://www.gsma.com/iot/deployment-map/). Once you know which bands are supported, please find a provider where you can buy a SIM card that supports NB-T or LTE-M in your Country.&#x20;
 {% endhint %}
 
 If you have issues finding a working SIM card, you can buy one from the IoTeX SIM card portal (**coming soon**). You can find the list of supported Countries below:
