@@ -61,7 +61,8 @@
 
 ## 🧑‍💻Offchain Components <a href="#layer2" id="layer2"></a>
 
-* [ioTube Cross-chain Bridge](middleware/cross-chain-bridge/README.md)
+* [Cross-chain Bridge](middleware/cross-chain-bridge/README.md)
+  * [iotube: the IoTeX Bridge](layer2/cross-chain-bridge/iotube-the-iotex-bridge.md)
   * [Submit your tokens](middleware/cross-chain-bridge/submit-your-tokens.md)
   * [Join the Bridge consensus](middleware/cross-chain-bridge/join-the-bridge-consensus.md)
 * [TruStream](layer2/trustream/README.md)
