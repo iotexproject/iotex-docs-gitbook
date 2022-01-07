@@ -26,7 +26,7 @@ NB-IoT and LTE-M bands are optimized for Internet of Things applications like sm
 Please check if either NB-IoT or LTE-M is available in your Country. Once you know which technology is supported, please find a local or international provider where you can buy a SIM card that supports the correct technology for your country.
 {% endhint %}
 
-If you have any issues finding a working SIM card, you will soon be able to buy one from the _IoTeX SIM card portal_. You can find the list of currently supported Countries below:
+If you have any issues finding a working SIM card, you will soon be able to buy one from the _IoTeX SIM card portal_. You can find the list of currently supported Countries below (_**please notice that you cannot buy a SIM card from 1NCE directly unless you are a business - please stay tuned for the IoTeX SIM card portal to launch**_):
 
 {% embed url="https://1nce.com/en/coverage" %}
 Countries supported by the IoTeX SIM card
