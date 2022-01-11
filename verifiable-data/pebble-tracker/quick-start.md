@@ -57,7 +57,7 @@ Press the Power/Confirm button once, to start the registration process on the Pe
 
 ### Creating a MachineFi Account
 
-Before we can register a Pebble on the IoTeX MachneFi portal, we need a blockchain account: we will associate all our devices with this account, which becomes the "_owner account_" for those devices:
+Before we can register a Pebble on the IoTeX MachineFi portal, we need a blockchain account: we will associate all our devices with this account, which becomes the "_owner account_" for those devices:
 
 {% hint style="success" %}
 **Prerequisites**:
