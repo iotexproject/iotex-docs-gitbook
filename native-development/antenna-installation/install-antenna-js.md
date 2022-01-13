@@ -14,7 +14,7 @@ or add the following line to your html.
 
 A few useful links:
 
-* [AntennaUtils](https://github.com/iotexproject/iotex-dapp-sample/blob/master/src/common/utils/antanna.ts): a TypeScript library with ready-made utility functions
+* [AntennaUtils](https://github.com/iotexproject/iotex-dapp-sample-old/blob/master/src/common/utils/antanna.ts): a TypeScript library with ready-made utility functions
 * **Reference Code**: the docs section with reference implementation for most common blockchain requirements.
 * **Integrate IoPay Wallet**: the docs section explaining how to integrate your web client with [IoPay Wallet](https://iopay.iotex.io/)
 * [Antenna-JS Reference](https://iotexproject.github.io/iotex-antenna/): the API reference documentation for Antenna-JS
