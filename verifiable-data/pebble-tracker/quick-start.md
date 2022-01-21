@@ -12,30 +12,38 @@ Before turning on Pebble Tracker, let's take a look at what's in the box:
 
 ### Finding a SIM Card
 
-Pebble Tracker connectivity is based on the new _low-bandwidth_ cellular technologies "`NB-IoT`" and/or "`LTE-M`":&#x20;
+Pebble Tracker connectivity is based on the new [_Narrowband-IoT_](https://en.wikipedia.org/wiki/Narrowband\_IoT) cellular technology, which provides radio bands that are optimized for Internet of Things applications like smart metering, industrial controls, residential security, etc.
 
 {% hint style="info" %}
-**You need a SIM card that supports at least NB-IoT or LTE-M in your country, to allow Pebble to connect to the internet**.&#x20;
-{% endhint %}
-
-NB-IoT and LTE-M bands are optimized for Internet of Things applications like smart metering, industrial controls, residential security, etc... They consume less power, extend the device battery life, and reduce data plan costs, while still improving the connection range.
-
-{% hint style="warning" %}
 **The SIM card is not included with Pebble Tracker.**
-
-Please check if either NB-IoT or LTE-M is available in your Country. Once you know which technology is supported, please find a local or international provider where you can buy a SIM card that supports the correct technology for your country.
 {% endhint %}
 
-If you have any issues finding a working SIM card, you will soon be able to buy one from the _IoTeX SIM card portal_. You can find the list of currently supported Countries below (_**please notice that you cannot buy a SIM card from 1NCE directly unless you are a business - please stay tuned for the IoTeX SIM card portal to launch**_):
+IoTeX has partnered with [1NCE](https://1nce.com), an IoT SIM cards provider that covers 100 countries and regions globally, providing a convenient data plan: [if your country is covered](https://1nce.com/wp-content/2022-1NCE-Coverage.pdf), you can buy a Pebble-ready SIM card on the dedicated IoTeX "**Autobahn.earth**" portal:
 
-{% embed url="https://1nce.com/en/coverage" %}
-Countries supported by the IoTeX SIM card
-{% endembed %}
+{% embed url="https://autobahn.earth" %}
 
-{% hint style="warning" %}
+If your country is not currently covered by the 1NCE network, below are some useful information for you to find a working SIM card for your Pebble Tracker:
+
+
+
+{% hint style="info" %}
+**Is your country covered by the Narrowband-IoT network?**
+
+Please check if either NB-IoT or LTE-M is available in your Country [on the gsma website](https://www.gsma.com/iot/deployment-map/).  Once you know which technology is supported, please find a local or international provider where you can buy a SIM card that supports the correct technology for your country.
+{% endhint %}
+
+
+
+{% hint style="info" %}
+**Make sure the IoT SIM card you buy supports either NB-IoT or LTE-M**
+
 Please notice that Pebble tracker does not support GSM, 3G, or 4G bands:\
 make sure your SIM card provider supports either **NB-IoT** or **LTE-M** or both in your country.
 {% endhint %}
+
+If you have issues finding a working SIM card, please join this forum discussion where other community members share their experiences with different SIM card providers in their country:
+
+{% embed url="https://community.iotex.io/t/sim-cards-known-to-work/6062/15" %}
 
 ### Installing the SIM card
 
