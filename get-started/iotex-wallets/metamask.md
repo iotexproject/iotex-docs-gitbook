@@ -6,9 +6,9 @@ description: >-
 
 # Metamask Wallet
 
-**MetaMask** is a browser extension and a mobile app that handles blockchain account management and helps users securely interact with web dApps. It’s supported in Chrome, Brave, and Safari browsers, as well as it is available for Android and iOS devices.
+**MetaMask** is a browser extension and a mobile app that handles blockchain account management and helps users securely interact with web Dapps. It’s supported in Chrome, Brave, and Safari browsers, as well as it is available for Android and iOS devices.
 
-Connecting **Metamask** to the **IoTeX blockchain** is as easy as adding a new network in Metamask, and configure it using the IoTeX testnet or mainnet **Babel** endpoints.&#x20;
+Connecting **Metamask** to the **IoTeX blockchain** is as easy as adding a new network in Metamask, and configuring it using the IoTeX testnet or mainnet **Babel** endpoints.&#x20;
 
 In the following, we assume you have Metamask installed. If you don't, then you can get it from the[ official website](https://metamask.io/index.html), install it, and [import or create a new wallet](https://metamask.zendesk.com/hc/en-us/articles/360015489531-Getting-Started-With-MetaMask).
 
@@ -24,7 +24,15 @@ In the Metamask browser extension, open the "**Networks**" drop-down menu at the
 
 ### 2. Mainnet and Testnet network configuration
 
-Input the respective network values for IoTeX Mainnet or IoTeX Testnet (see how to  [Access the Babel API](../../reference/babel-web3-api.md#access-the-babel-api) doc for the actual Network parameters):
+Input the respective network values for IoTeX Mainnet or IoTeX Testnet:
+
+| Parameter          | Mainnet                                                        | Testnet                                                         |
+| ------------------ | -------------------------------------------------------------- | --------------------------------------------------------------- |
+| **`Network Name`** | _"IoTeX Mainnet"_                                              | _"IoTeX Testnet"_                                               |
+| **`RPC URL`**      | See [Babel API Endpoints »](../../reference/babel-web3-api.md) | See  [Babel API Endpoints »](../../reference/babel-web3-api.md) |
+| **`Chain ID`**     | 4689                                                           | 4690                                                            |
+| **`Symbol`**       | IOTX                                                           | IOTX                                                            |
+| **`Explorer URL`** | [https://iotexscan.io](https://iotexscan.io)                   | [https://testnet.iotexscan.io](https://testnet.iotexscan.io)    |
 
 ![](<../../.gitbook/assets/image (52).png>)
 

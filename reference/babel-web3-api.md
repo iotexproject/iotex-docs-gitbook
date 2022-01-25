@@ -1,22 +1,39 @@
-# Babel - Web3 API
+# Babel - Ethereum API
 
-Babel is the IoTeX service that wraps an Ethereum-node JSON-RPC API: you can point your web3 [Ethereum libraries and tools](../web3-development/) to a Babel endpoint, and have them work with the IoTeX blockchain with no changes.&#x20;
+Babel is the IoTeX service that wraps an Ethereum-node JSON-RPC API: you can point your [Ethereum libraries and tools](../web3-development/) to a Babel endpoint, and have them work with the IoTeX blockchain with no changes.&#x20;
 
 {% embed url="https://eth.wiki/json-rpc/API#json-rpc-methods" %}
 Official Ethereum JSON-RPC API Documentation
 {% endembed %}
 
-## Access the Babel API
+You can either deploy a _Babel_ service ([available on GitHub](https://github.com/iotexproject/babel-api)) and point it to your own [IoTeX Gateway node](https://github.com/iotexproject/iotex-bootstrap), or you can use the publicly accessible endpoints [listed below](babel-web3-api.md#babel-api-endpoints).&#x20;
 
-You can deploy your own Babel service [available on GitHub](https://github.com/iotexproject/babel-api), or you can use the publicly accessible endpoints  below:
+## Chain ID
+
+The `chainID` chain identifier was introduced in [`EIP-155`](https://eips.ethereum.org/EIPS/eip-155#list-of-chain-ids) **to prevent replay attacks between Ethereum-compatible chains**, it is a way to tell chains apart. Subsequent to `EIP-155`, Ethereum was assigned a `chainID` of 1.&#x20;
+
+In respect of this `EIP`, IoTeX `chainIDs` have been picked as follow:
+
+| Network       | chainID |
+| ------------- | ------- |
+| IoTeX Mainnet | `4689`  |
+| IoTeX Testnet | `4690`  |
+
+## Babel API endpoints
 
 #### Mainnet
 
-<table><thead><tr><th>Endpoint</th><th data-type="number">Chain ID</th><th>Explorer URL</th></tr></thead><tbody><tr><td>https://babel-api.mainnet.iotex.io</td><td>4689</td><td>https://iotexscan.io</td></tr><tr><td>https://babel-api.mainnet.iotex.one</td><td>4689</td><td>https://iotexscan.io</td></tr></tbody></table>
+| Endpoint                            | Provider         | More                                                                                   |
+| ----------------------------------- | ---------------- | -------------------------------------------------------------------------------------- |
+| https://babel-api.mainnet.iotex.io  | IoTeX Foundation | [https://iotex.io](https://iotex.io)                                                   |
+| https://babel-api.mainnet.iotex.one | IoTeX Foundation | [https://iotex.io](https://iotex.io)                                                   |
+| https://rpc.ankr.com/iotex          | Ankr             | [https://ankr.com/protocol/public/iotex/](https://www.ankr.com/protocol/public/iotex/) |
 
 **Testnet**
 
-<table><thead><tr><th>Endpoint</th><th data-type="number">Chain ID</th><th>Explorer URL</th></tr></thead><tbody><tr><td>https://babel-api.testnet.iotex.io</td><td>4690</td><td>https://testnet.iotexscan.io</td></tr></tbody></table>
+| Endpoint                           | Text             | More                                 |
+| ---------------------------------- | ---------------- | ------------------------------------ |
+| https://babel-api.testnet.iotex.io | IoTeX Foundation | [https://iotex.io](https://iotex.io) |
 
 **Example**
 

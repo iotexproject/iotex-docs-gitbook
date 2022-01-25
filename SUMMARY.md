@@ -100,7 +100,7 @@
 
 ## 📕Reference
 
-* [Babel - Web3 API](reference/babel-web3-api.md)
+* [Babel - Ethereum API](reference/babel-web3-api.md)
 * [iotex-core - gRPC API](reference/node-core-api-grpc.md)
 * [Analytics - GraphQL API](reference/analytics.md)
 * [ioctl cli - Reference](reference/ioctl-cli-reference/README.md)

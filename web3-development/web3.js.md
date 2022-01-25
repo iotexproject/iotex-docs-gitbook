@@ -1,8 +1,8 @@
 # Web3.js
 
-[web3.js](https://web3js.readthedocs.io/en/v1.2.11/) is a collection of libraries that allow you to interact with a local or remote Ethereum node using HTTP, IPC, or WebSocket. This guide describes how to configure Web3.js when developing dApps using Web3 with the IoTeX Network.
+[web3.js](https://web3js.readthedocs.io/en/v1.2.11/) is a collection of libraries that allow you to interact with a local or remote Ethereum node using HTTP, IPC, or WebSocket. This guide describes how to configure Web3.js when developing Dapps using Web3 with the IoTeX Network.
 
-### Connect to the IoTeX network <a id="connect-to-bsc-network"></a>
+### Connect to the IoTeX network <a href="#connect-to-bsc-network" id="connect-to-bsc-network"></a>
 
 ```javascript
 // mainnet 
@@ -11,7 +11,7 @@ const web3 = new Web3('https://babel-api.mainnet.iotex.io');
 const web3 = new Web3('https://babel-api.testnet.iotex.io');
 ```
 
-### Create an account <a id="set-up-account"></a>
+### Create blockchain account <a href="#set-up-account" id="set-up-account"></a>
 
 If the installation and instantiation of web3 were successful, the following should successfully return a random account:
 
@@ -19,7 +19,7 @@ If the installation and instantiation of web3 were successful, the following sho
 const account = web3.eth.accounts.create();
 ```
 
-### Import a private key <a id="recover-account"></a>
+### Import a private key <a href="#recover-account" id="recover-account"></a>
 
 If you have backup the private key of your account, you can restore your account.
 
@@ -27,7 +27,7 @@ If you have backup the private key of your account, you can restore your account
 const account = web3.eth.accounts.privateKeyToAccount(privateKey)
 ```
 
-### Example: Get Balance <a id="full-example"></a>
+### Example: Get Balance <a href="#full-example" id="full-example"></a>
 
 Initialize a new nodejs app:
 
@@ -69,7 +69,7 @@ Run the example:
 node index.js
 ```
 
-### Example: Send an IOTX transfer
+### Example: Transfer IOTX tokens
 
 The following example shows how to use Web3Js to send an IOTX token transfer to another wallet. Please notice the `txConfig` object:
 
@@ -139,4 +139,3 @@ const web3 = new Web3(provider);
 
 })();
 ```
-
