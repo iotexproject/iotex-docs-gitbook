@@ -23,11 +23,12 @@ In respect of this `EIP`, IoTeX `chainIDs` have been picked as follow:
 
 #### Mainnet
 
-| Endpoint                            | Provider         | More                                                                                   |
-| ----------------------------------- | ---------------- | -------------------------------------------------------------------------------------- |
-| https://babel-api.mainnet.iotex.io  | IoTeX Foundation | [https://iotex.io](https://iotex.io)                                                   |
-| https://babel-api.mainnet.iotex.one | IoTeX Foundation | [https://iotex.io](https://iotex.io)                                                   |
-| https://rpc.ankr.com/iotex          | Ankr             | [https://ankr.com/protocol/public/iotex/](https://www.ankr.com/protocol/public/iotex/) |
+| Endpoint                            | Provider         | More                                                 |
+| ----------------------------------- | ---------------- | ---------------------------------------------------- |
+| https://babel-api.mainnet.iotex.io  | IoTeX Foundation | [https://iotex.io](https://iotex.io)                 |
+| https://babel-api.mainnet.iotex.one | IoTeX Foundation | [https://iotex.io](https://iotex.io)                 |
+| https://rpc.ankr.com/iotex          | Ankr             | [https://ankr.com](https://ankr.com)                 |
+| https://pokt-api.iotex.io           | Pocket Network   | [https://www.pokt.network](https://www.pokt.network) |
 
 **Testnet**
 
