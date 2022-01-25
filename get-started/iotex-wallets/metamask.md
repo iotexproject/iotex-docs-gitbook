@@ -26,13 +26,13 @@ In the Metamask browser extension, open the "**Networks**" drop-down menu at the
 
 Input the respective network values for IoTeX Mainnet or IoTeX Testnet:
 
-| Parameter          | Mainnet                                                        | Testnet                                                         |
-| ------------------ | -------------------------------------------------------------- | --------------------------------------------------------------- |
-| **`Network Name`** | _"IoTeX Mainnet"_                                              | _"IoTeX Testnet"_                                               |
-| **`RPC URL`**      | See [Babel API Endpoints »](../../reference/babel-web3-api.md) | See  [Babel API Endpoints »](../../reference/babel-web3-api.md) |
-| **`Chain ID`**     | 4689                                                           | 4690                                                            |
-| **`Symbol`**       | IOTX                                                           | IOTX                                                            |
-| **`Explorer URL`** | [https://iotexscan.io](https://iotexscan.io)                   | [https://testnet.iotexscan.io](https://testnet.iotexscan.io)    |
+| Parameter          | Mainnet                                                                                         | Testnet                                                                                          |
+| ------------------ | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **`Network Name`** | _"IoTeX Mainnet"_                                                                               | _"IoTeX Testnet"_                                                                                |
+| **`RPC URL`**      | See [Babel API Endpoints »](https://docs.iotex.io/reference/babel-web3-api#babel-api-endpoints) | See  [Babel API Endpoints »](https://docs.iotex.io/reference/babel-web3-api#babel-api-endpoints) |
+| **`Chain ID`**     | 4689                                                                                            | 4690                                                                                             |
+| **`Symbol`**       | IOTX                                                                                            | IOTX                                                                                             |
+| **`Explorer URL`** | [https://iotexscan.io](https://iotexscan.io)                                                    | [https://testnet.iotexscan.io](https://testnet.iotexscan.io)                                     |
 
 ![](<../../.gitbook/assets/image (52).png>)
 
