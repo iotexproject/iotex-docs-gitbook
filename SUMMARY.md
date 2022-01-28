@@ -67,6 +67,7 @@
   * [Join the Bridge consensus](middleware/cross-chain-bridge/join-the-bridge-consensus.md)
 * [TruStream](layer2/trustream/README.md)
   * [Overview](layer2/trustream/overview.md)
+  * [Endpoints](layer2/trustream/endpoints.md)
 
 ## 🔐Open Hardware <a href="#verifiable-data" id="verifiable-data"></a>
 
