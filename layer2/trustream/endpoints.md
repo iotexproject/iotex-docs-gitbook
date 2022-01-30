@@ -94,11 +94,9 @@ Result:
 
 ```graphql
 query getDevices {
-  pebble_device (limit: 1, where: {id: {_eq: "351358810263431"} }) {
-    deviceRecord(limit: 1,  order_by: {timestamp: desc}, where: {latitude: {_neq: "200.0000000"}}) {
+  pebble_device_record(limit: 1,  order_by: {timestamp: desc}, where: {imei: {_eq: "351358810263431"}, latitude: {_neq: "200.0000000"}}) {
       latitude, longitude, timestamp
     }
-  }
 }
 ```
 
@@ -107,15 +105,11 @@ Result:
 ```graphql
 {
   "data": {
-    "pebble_device": [
+    "pebble_device_record": [
       {
-        "deviceRecord": [
-          {
-            "latitude": "45.4799999",
-            "longitude": "9.1500000",
-            "timestamp": 1641854726
-          }
-        ]
+        "latitude": "45.4799999",
+        "longitude": "9.1500000",
+        "timestamp": 1641854726
       }
     ]
   }
