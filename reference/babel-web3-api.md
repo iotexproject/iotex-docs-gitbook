@@ -70,64 +70,41 @@ Official Ethereum JSON-RPC API Documentation
 
 Below is the list of the currently supported APIs:
 
-* [x] eth\_chainId
-* [x] eth\_blockNumber
-* [x] eth\_getBlockByNumber
-* [x] eth\_getBalance&#x20;
-* [x] eth\_gasPrice&#x20;
-* [x] eth\_getTransactionCount
-* [x] eth\_sendRawTransaction
-* [x] eth\_call
-* [x] eth\_estimateGas&#x20;
-* [x] eth\_getCode&#x20;
-* [x] eth\_getTransactionReceipt&#x20;
-* [x] eth\_protocolVersion&#x20;
-* [x] eth\_syncing&#x20;
-* [x] eth\_getBlockTransactionCountByHash&#x20;
-* [x] eth\_getBlockTransactionCountByNumber&#x20;
-* [x] eth\_getBlockByHash&#x20;
-* [x] eth\_getTransactionByHash&#x20;
-* [x] eth\_getTransactionByBlockHashAndIndex&#x20;
-* [x] eth\_getTransactionByBlockNumberAndIndex&#x20;
-* [x] eth\_getLogs
-* [x] net\_version&#x20;
-* [x] net\_peerCount&#x20;
-* [x] net\_listening&#x20;
-* [x] web3\_clientVersion&#x20;
-* [ ] getpeers&#x20;
-* [ ] eth\_coinbase
-* [ ] eth\_mining
-* [ ] eth\_hashrate
-* [ ] eth\_accounts
-* [ ] eth\_getStorageAt
-* [ ] eth\_getUncleCountByBlockHash
-* [ ] eth\_getUncleCountByBlockNumber
-* [ ] eth\_sign
-* [ ] eth\_signTransaction
-* [ ] eth\_sendTransaction
-* [ ] eth\_getUncleByBlockHashAndIndex
-* [ ] eth\_getUncleByBlockNumberAndIndex
-* [ ] eth\_newFilter
-* [ ] eth\_newBlockFilter
-* [ ] eth\_newPendingTransactionFilter
-* [ ] eth\_uninstallFilter
-* [ ] eth\_getFilterChanges
-* [ ] eth\_getFilterLogs
-* [ ] eth\_getWork
-* [ ] eth\_submitWork
-* [ ] eth\_submitHashrate
-* [ ] eth\_pendingTransactions
-* [ ] db\_putString
-* [ ] db\_getString
-* [ ] db\_putHex
-* [ ] db\_getHex
-* [ ] shh\_post
-* [ ] shh\_version
-* [ ] shh\_newIdentity&#x20;
-* [ ] shh\_hasIdentity&#x20;
-* [ ] shh\_newGroup&#x20;
-* [ ] shh\_addToGroup&#x20;
-* [ ] shh\_newFilter&#x20;
-* [ ] shh\_uninstallFilter&#x20;
-* [ ] shh\_getFilterChanges&#x20;
-* [ ] shh\_getMessages
+* [x] eth\_accounts
+* [x] &#x20;eth\_blockNumber
+* [x] &#x20;eth\_call
+* [x] &#x20;eth\_chainId
+* [x] &#x20;eth\_estimateGas
+* [x] &#x20;eth\_gasPrice
+* [x] &#x20;eth\_getBalance
+* [x] &#x20;eth\_getBlockByHash
+* [x] &#x20;eth\_getBlockByNumber
+* [x] &#x20;eth\_getBlockTransactionCountByHash
+* [x] &#x20;eth\_getBlockTransactionCountByNumber
+* [x] &#x20;eth\_getCode
+* [x] &#x20;eth\_getFilterChanges
+* [x] &#x20;eth\_getFilterLogs
+* [x] &#x20;eth\_getLogs
+* [x] &#x20;eth\_getStorageAt
+* [x] &#x20;eth\_getTransactionByBlockHashAndIndex
+* [x] &#x20;eth\_getTransactionByBlockNumberAndIndex
+* [x] &#x20;eth\_getTransactionByHash
+* [x] &#x20;eth\_getTransactionCount
+* [x] &#x20;eth\_getTransactionReceipt
+* [x] &#x20;eth\_hashrate
+* [x] &#x20;eth\_mining
+* [x] &#x20;eth\_newBlockFilter
+* [x] &#x20;eth\_newFilter
+* [x] &#x20;eth\_protocolVersion
+* [x] &#x20;eth\_sendRawTransaction
+* [x] &#x20;eth\_syncing
+* [x] &#x20;eth\_uninstallFilter
+* [x] &#x20;net\_listening
+* [x] &#x20;net\_peerCount
+* [x] &#x20;net\_version
+* [x] &#x20;web3\_clientVersion
+
+Additional API methods support can be requested by posting an issue in the GitHub repository below:
+
+{% embed url="https://github.com/iotexproject/iotex-core/issues" %}
+
