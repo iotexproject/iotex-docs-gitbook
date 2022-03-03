@@ -8,7 +8,7 @@ description: Running the IoTeX SDK in Arduino IDE
 
 In Arduino IDE, go to `Tools`->`Manage libraries...`
 
-![](<../../../.gitbook/assets/image (83) (1) (1).png>)
+![](<../../../.gitbook/assets/image (83) (1) (1) (1).png>)
 
 In the Library Manager dialog, search for `IoTeX-blockchain-client` and click `install`&#x20;
 

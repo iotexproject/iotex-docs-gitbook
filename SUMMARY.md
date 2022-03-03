@@ -74,6 +74,7 @@
 * [Pebble Tracker](verifiable-data/pebble-tracker/README.md)
   * [Overview](verifiable-data/pebble-tracker/overview.md)
   * [Quick Start](verifiable-data/pebble-tracker/quick-start.md)
+  * [Firmware update](verifiable-data/pebble-tracker/firmware-update.md)
   * [Firmware Development](verifiable-data/pebble-tracker/firmware-development/README.md)
     * [Technical Specification](verifiable-data/pebble-tracker/firmware-development/technical-specification.md)
     * [Hardware Setup](verifiable-data/pebble-tracker/firmware-development/hardware-setup.md)

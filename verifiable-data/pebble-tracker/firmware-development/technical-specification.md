@@ -6,7 +6,7 @@ Pebble is equipped with high-quality **GPS**, **climate**, **motion**, and **lig
 
 Pebble utilizes a **secure element** (nRF9160) to cryptographically sign all data, providing unparalleled verifiability and traceability for asset tracking, supply chain, and other applications.
 
-![Firmware Development Kit](<../../../.gitbook/assets/image (90).png>)
+![Firmware Development Kit](<../../../.gitbook/assets/image (90) (1).png>)
 
 ### CPU <a href="#processor" id="processor"></a>
 
