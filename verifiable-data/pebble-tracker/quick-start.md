@@ -154,3 +154,7 @@ By default, the factory configuration will collect all Pebble sensors data, and 
 You can monitor your real-time device sensors directly on the MachineFi portal by going to the [**My Data**](https://portal.machinefi.com/myData) page:
 
 ![](<../../.gitbook/assets/pebble-reg4 (1).jpg>)
+
+### Firmware Update
+
+Once your device is registered on the portal, it's highly recommended that you upgrade the firmware to the latest release: the next section will guide you through how to perform the firmware update (both online, or offline if you don't have a SIM card yet).
