@@ -53,7 +53,7 @@ Once you have a SIM card, use a paperclip or the provided SIM card tool to open 
 
 ### Powering On
 
-Press and keep pressing the **power**/**confirm** button on the right side of Pebble until you see the IoTeX logo on the screen. Wait until the cellular connection is established and Pebble Tracker starts communicating with the TruStream network.
+Press and keep pressing the **power**/**confirm** button on the right side of Pebble until you see the IoTeX logo on the screen. Wait until the cellular connection is established and Pebble Tracker starts communicating with the IoTeX Real-world Data Oracle network.
 
 If this Pebble Tracker has not been registered yet, it will prompt you for starting the device registration process that will add it to your MachineFi portal account:
 
@@ -141,11 +141,11 @@ The "[**Devices**](https://portal.machinefi.com/device)" page will show the Pebb
 
 Your Pebble is ready to send IoT data to IoTeX Dapps and fuel the _MachineFi_ blockchain revolution!
 
-Here is how your Pebble screen should look like:
+Here is what your Pebble screen should look like:
 
 ![Pebble Display Details](../../.gitbook/assets/pebble-display-icons.jpg)
 
-By default, the factory configuration will collect all Pebble sensors data, and send one data message every 5 minutes to the IoTeX TruStream network.
+By default, the factory configuration will collect all Pebble sensors data, and send one data message every 5 minutes to the IoTeX Real-world Data Oracle network.
 
 {% hint style="info" %}
 **Please notice** that the factory firmware introduces a \~500m random offset to the GPS coordinates. Depending on the installed Dapp, sensors' configurations may differ.&#x20;

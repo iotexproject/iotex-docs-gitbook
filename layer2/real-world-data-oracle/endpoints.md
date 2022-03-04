@@ -2,13 +2,13 @@
 
 ### Mainnet
 
-Use the GraphQL endpoint below to query the TruStream network mainnet:
+Use the GraphQL endpoint below to query the Real-world Data Oracle Mainnet:
 
 [https://pebble.iotex.me/v1/graphql ](https://pebble.iotex.me/v1/graphql)
 
 ### Testnet
 
-Use the GraphQL endpoint below to query the TruStream testnet:
+Use the GraphQL endpoint below to query the Real-world Data Oracle Testnet:
 
 [ https://dev.iotex.io/v1/graphql](https://dev.iotex.io/v1/graphql)
 

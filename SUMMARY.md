@@ -65,9 +65,9 @@
   * [iotube: the IoTeX Bridge](layer2/cross-chain-bridge/iotube-the-iotex-bridge.md)
   * [Submit your tokens](middleware/cross-chain-bridge/submit-your-tokens.md)
   * [Join the Bridge consensus](middleware/cross-chain-bridge/join-the-bridge-consensus.md)
-* [TruStream](layer2/trustream/README.md)
-  * [Overview](layer2/trustream/overview.md)
-  * [Endpoints](layer2/trustream/endpoints.md)
+* [Real-world Data Oracle](layer2/real-world-data-oracle/README.md)
+  * [Overview](layer2/real-world-data-oracle/overview.md)
+  * [Endpoints](layer2/real-world-data-oracle/endpoints.md)
 
 ## 🔐Open Hardware <a href="#verifiable-data" id="verifiable-data"></a>
 

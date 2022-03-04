@@ -4,9 +4,9 @@
 This Document is Work in Progress
 {% endhint %}
 
-**TruStream** is a decentralized protocol developed on top of the IoTeX public blockchain. Its mission is to seamlessly connect devices and machines to the blockchain, contribute their data and utilities to Dapps autonomously, and power unprecedented innovations.
+The IoTeX **Real-world Data Oracle** is a decentralized protocol developed on top of the IoTeX public blockchain. Its mission is to seamlessly connect devices and machines to the blockchain, contribute their data and utilities to Dapps autonomously, and power unprecedented innovations.
 
-**TruStream** can be used to implement DAOs ("_Decentralized Autonomous Organizations"_) of a **group of devices** or machines for a specific application:
+It can be used to implement DAOs ("_Decentralized Autonomous Organizations"_) of a **group of devices** or machines for a specific application:
 
 ![](<../../.gitbook/assets/image (85).png>)
 
