@@ -6,7 +6,7 @@
 * [Clone the Pebble-Firmware IoTeX repository:](https://docs.iotex.io/developer/hardware/pebble-build-linux.html#clone-the-pebble-firmware-iotex-repository)
 * [Compile Project with Command Line](https://docs.iotex.io/developer/hardware/pebble-build-linux.html#compile-project-with-command-line)
 
-### Install Dependencies <a id="install-dependencies"></a>
+### Install Dependencies <a href="#install-dependencies" id="install-dependencies"></a>
 
 First, make sure you have current versions for the following tools:
 
@@ -35,21 +35,21 @@ sudo apt-get install --no-install-recommends git cmake ninja-build gperf ccache 
 {% endtab %}
 
 {% tab title="macOS" %}
-If it is not installed in your system, install [Homebrew \(opens new window\)](https://brew.sh/)by following instructions on the Homebrew:
+If it is not installed in your system, install [Homebrew (opens new window)](https://brew.sh)by following instructions on the Homebrew:
 
-```text
+```
  $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
 Install required tools:
 
-```text
+```
 brew install cmake ninja gperf ccache dfu-util dtc python3
 ```
 {% endtab %}
 {% endtabs %}
 
-### Install the ARM Compiler Toolchain <a id="install-arm-compiler-toolchain"></a>
+### Install the ARM Compiler Toolchain <a href="#install-arm-compiler-toolchain" id="install-arm-compiler-toolchain"></a>
 
 Download the ARM embedded compiler toolchain
 
@@ -65,10 +65,12 @@ tar -jxvf gcc-arm-none-eabi-9-2020-q2-update-x86_64-linux.tar.bz2
 mv gcc-arm-none-eabi-9-2020-q2-update gnuarmemb
 
 ```
+
+
 {% endtab %}
 
 {% tab title="macOS" %}
-```text
+```
 cd ~
 # Download the package
 wget https://armkeil.blob.core.windows.net/developer/Files/downloads/gnu-rm/9-2020q2/gcc-arm-none-eabi-9-2020-q2-update-mac.tar.bz2
@@ -77,6 +79,8 @@ tar -jxvf gcc-arm-none-eabi-9-2020-q2-update-mac.tar.bz2
 # Rename the directory to ~\gnuarmemb
 mv gcc-arm-none-eabi-9-2020-q2-update gnuarmemb
 ```
+
+
 {% endtab %}
 {% endtabs %}
 
@@ -88,7 +92,7 @@ echo 'export ZEPHYR_TOOLCHAIN_VARIANT=gnuarmemb' >> ~/.zephyrrc
 echo 'export GNUARMEMB_TOOLCHAIN_PATH="~/gnuarmemb"' >> ~/.zephyrrc
 ```
 
-### Install the Nordic SDK <a id="install-the-nordic-sdk"></a>
+### Install the Nordic SDK <a href="#install-the-nordic-sdk" id="install-the-nordic-sdk"></a>
 
 the Nordic SDK is managed by the `west`tool, so we first need to install **west**: open a terminal and type
 
@@ -103,7 +107,7 @@ west --version
 
 ```
 
-In your home directory, crate a folder named `ncs`: we will install the SDK there:
+In your home directory, create a folder named `ncs`: we will install the SDK there:
 
 ```bash
 mkdir ~/ncs
@@ -125,12 +129,12 @@ pip3 install -r nrf/scripts/requirements.txt
 pip3 install -r bootloader/mcuboot/scripts/requirements.txt
 ```
 
-### Clone the Pebble-Firmware IoTeX repository: <a id="clone-the-pebble-firmware-iotex-repository"></a>
+### Clone the Pebble-Firmware IoTeX repository: <a href="#clone-the-pebble-firmware-iotex-repository" id="clone-the-pebble-firmware-iotex-repository"></a>
 
 The pebble-firmware IoTeX repository contains the firmware application source and the board definition file:
 
 ```bash
-git clone https://github.com/iotexproject/pebble-firmware.git
+git clone  https://github.com/iotexproject/pebble-firmware-legacy.git
 ```
 
 Before we can build the firmware we need to replace the default board definition from the nordic SDK with the one for Pebble:
@@ -139,12 +143,10 @@ Before we can build the firmware we need to replace the default board definition
 # Delete the default board definition
 rm -rf ~/ncs/nrf/boards/arm/thingy91_nrf9160
 # Replace with the one from pebble-firmware
-cp -rv ~/pebble-firmware/nrf/boards/arm/thingy91_nrf9160 ncs/nrf/boards/arm/
+cp -rv ~/pebble-firmware-legacy/nrf/boards/arm/thingy91_nrf9160 ncs/nrf/boards/arm/
 ```
 
-### Compile Project with Command Line <a id="compile-project-with-command-line"></a>
-
-Before trying to build the project you must set required environment variables for Zephyr, to do so you can run:
+Before trying to build the project you must set the required environment variables for Zephyr, to do so you can run:
 
 ```bash
 # Load environment variables for the Zephyr SDK
@@ -164,11 +166,9 @@ cd ~
 # Make sure to remove any previously created build directory
 rm -rf build/
 # Start the build process
-west build -b thingy91_nrf9160ns ~/pebble-firmware/nrf/applications/asset_tracker/
-
+west build -b thingy91_nrf9160ns ~/pebble-firmware-legacy/nrf/applications/asset_tracker/
 ```
 
 After the project is compiled successfully, you can flash the new Pebble firmware that is available at `~/build/zephyr/app_signed.hex`.
 
 See [how to configure the firmware](https://docs.iotex.io/developer/hardware/pebble-configure) before the build. See [how to flash the firmware](https://docs.iotex.io/developer/hardware/pebble-flash).
-
