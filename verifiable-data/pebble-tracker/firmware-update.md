@@ -47,7 +47,8 @@ Please make sure you download the file ending in `.hex`
 
 {% tab title="Windows" %}
 1. Download and install the latest [VCP Driver](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) for Windows
-2. Unzip and run the executable file: [`PebbleUSBTools.exe`](https://drive.google.com/file/d/1exM9L\_21qNQYAc92MdgKeXYK5ZHX3v3L/view?usp=sharing)``
+2. Download and install the latest [J-link software](https://www.segger.com/downloads/jlink/) for Windows
+3. Unzip and run the executable file: [`PebbleUSBTools.exe`](https://drive.google.com/file/d/1exM9L\_21qNQYAc92MdgKeXYK5ZHX3v3L/view?usp=sharing)``
 {% endtab %}
 
 {% tab title="Ubuntu" %}
