@@ -4,22 +4,24 @@ description: Web3 Development and Solidity support
 
 # Web3 Development
 
-![](../.gitbook/assets/image%20%2859%29.png)
+![](<../.gitbook/assets/image (59).png>)
 
-### EVM support
+### EVM compatibility
 
-IoTeX is a 100% EVM-compatible smart-contract platform. IoTeX can run any existing **Solidity** smart contract with no change to the code. IoTeX implements the EVM "**Istanbul"** release, which brings the following improvements over the previous version:
+IoTeX is a 100% EVM-compatible smart-contract platform. IoTeX can run any existing **Solidity** smart contract with no change to the code. "**Istanbul"** is the currently supported release.
 
-* Align the costs of opcodes with their computational costs and improve denial-of-service attack resilience
-* Make layer 2 solutions based on SNARKs and STARKs more performant.
-* Enable interoperation with Zcash
-* Allow contracts to introduce more creative functions.
+Check out our tutorial to get started with smart contract deployment on IoTeX:
 
-### Web3 Tools support
+{% content-ref url="../smart-contracts/introduction/deploy-using-remix.md" %}
+[deploy-using-remix.md](../smart-contracts/introduction/deploy-using-remix.md)
+{% endcontent-ref %}
 
-Besides its native transactions, IoTeX also natively supports Ethereum transactions. Thanks to the [Babel service](../reference/babel-web3-api.md) \(an Ethereum API Gateway for the IoTeX blockchain\) users and developers can now take advantage of the rich ecosystem of existing Ethereum tools to interact and build on IoTeX: tools like [MetaMask](../get-started/iotex-wallets/metamask.md), [Truffle](truffle.md), or [The Graph ](subgraph.md)can work natively with IoTeX by just pointing them to a **Babel Endpoint**!
+### Ethereum API compatibility
 
-In the following section, we will see how to configure the most popular Ethereum tools to be used on IoTeX. For more information, check out the Babel Service API documentation:
+Besides its native transactions, IoTeX also natively supports Ethereum transactions. Starting from the IoTeX blockchain release 1.7.0, every IoTeX node configured as an API gateway will expose the Ethereum JSON API side by side with the native IoTeX GRPc API. IoTeX Users and developers can now take advantage of the rich ecosystem of existing Ethereum tools, apps, and libraries to interact and build on IoTeX blockchain. Tools like [MetaMask](../get-started/iotex-wallets/metamask.md), [Truffle](truffle.md), or [Web3.js](https://web3js.readthedocs.io/en/v1.7.1/) can interact directly with IoTeX by just pointing them to an IoTeX node!
 
-{% page-ref page="../reference/babel-web3-api.md" %}
+In the following section, we will see how to configure the most popular Ethereum tools to use them on the IoTeX blockchain. For more information, and the list of public Ethereum API endpoins in the IoTeX network check out:
 
+{% content-ref url="../reference/babel-web3-api.md" %}
+[babel-web3-api.md](../reference/babel-web3-api.md)
+{% endcontent-ref %}
