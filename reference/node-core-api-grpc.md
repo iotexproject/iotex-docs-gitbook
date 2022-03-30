@@ -1,12 +1,31 @@
 # iotex-core - gRPC API
 
-Below is the alphabetical list of all available gRPC calls provided be a IoTeX Blockchain Gateway node. To run the examples you can use [grpcurl ](https://github.com/fullstorydev/grpcurl/releases)command line client for your OS.
+When running in "Gateway" mode, an IoTeX node exposes both the IoTeX native API and the Ethereum JSON API. The IoTeX native API is based on the gRPC protocol. In this document, we list the official IoTeX public gateway nodes exposing the gRPC API and the API calls reference.
+
+### Official gRPC API endpoints
+
+#### Mainnet
+
+| Endpoint                  | Provider         | More                                 |
+| ------------------------- | ---------------- | ------------------------------------ |
+| api.iotex.one:443         | IoTeX Foundation | [https://iotex.io](https://iotex.io) |
+| api.mainnet.iotex.one:443 | IoTeX Foundation | [https://iotex.io](https://iotex.io) |
+
+**Testnet**
+
+| Endpoint                  | Text             | More                                 |
+| ------------------------- | ---------------- | ------------------------------------ |
+| api.testnet.iotex.one:443 | IoTeX Foundation | [https://iotex.io](https://iotex.io) |
+
+### **gRPC API Reference**
+
+Below is the alphabetical list of all available gRPC calls provided by the IoTeX native API. To run the examples you can use the [grpcurl](https://github.com/fullstorydev/grpcurl#installation) command-line client for your OS.
 
 {% hint style="info" %}
 If you are accessing a non-TLS endpoint, make sure you use `-plaintext` option in your `grpcurl` command.
 {% endhint %}
 
-### EstimateActionGasConsumptionByExecution <a id="estimateactiongasconsumptionbyexecution"></a>
+### EstimateActionGasConsumptionByExecution <a href="#estimateactiongasconsumptionbyexecution" id="estimateactiongasconsumptionbyexecution"></a>
 
 ```yaml
 Usage: 
@@ -32,7 +51,7 @@ Example:
 }
 ```
 
-### EstimateActionGasConsumptionByTransfer <a id="estimateactiongasconsumptionbytransfer"></a>
+### EstimateActionGasConsumptionByTransfer <a href="#estimateactiongasconsumptionbytransfer" id="estimateactiongasconsumptionbytransfer"></a>
 
 ```yaml
 Usage:
@@ -60,7 +79,7 @@ Example:
 
 ```
 
-### EstimateGasForAction <a id="estimategasforaction"></a>
+### EstimateGasForAction <a href="#estimategasforaction" id="estimategasforaction"></a>
 
 ```yaml
 Usage:
@@ -83,7 +102,7 @@ Example:
 
 ```
 
-### GetAccount <a id="getaccount"></a>
+### GetAccount <a href="#getaccount" id="getaccount"></a>
 
 ```yaml
 Usage:
@@ -112,7 +131,7 @@ Example:
 
 ```
 
-### GetActionsByAddress <a id="getactionsbyaddress"></a>
+### GetActionsByAddress <a href="#getactionsbyaddress" id="getactionsbyaddress"></a>
 
 ```yaml
 Usage:
@@ -168,7 +187,7 @@ Response contents:
 
 ```
 
-### GetActionsByBlock <a id="getactionsbyblock"></a>
+### GetActionsByBlock <a href="#getactionsbyblock" id="getactionsbyblock"></a>
 
 ```yaml
 Usage:
@@ -214,7 +233,7 @@ Example:
 
 ```
 
-### GetActionByHash <a id="getactionbyhash"></a>
+### GetActionByHash <a href="#getactionbyhash" id="getactionbyhash"></a>
 
 ```yaml
 Usage:
@@ -262,7 +281,7 @@ Example:
 }
 ```
 
-### GetActionsByIndex <a id="getactionsbyindex"></a>
+### GetActionsByIndex <a href="#getactionsbyindex" id="getactionsbyindex"></a>
 
 ```yaml
 Usage:
@@ -330,7 +349,7 @@ Example:
 
 ```
 
-### GetBlockMetasByHash <a id="getblockmetasbyhash"></a>
+### GetBlockMetasByHash <a href="#getblockmetasbyhash" id="getblockmetasbyhash"></a>
 
 ```yaml
 Usage:
@@ -367,7 +386,7 @@ Example:
 
 ```
 
-### GetBlockMetasByIndex <a id="getblockmetasbyindex"></a>
+### GetBlockMetasByIndex <a href="#getblockmetasbyindex" id="getblockmetasbyindex"></a>
 
 ```yaml
 Usage:
@@ -443,7 +462,7 @@ Example:
 }
 ```
 
-### GetEpochMeta <a id="getepochmeta"></a>
+### GetEpochMeta <a href="#getepochmeta" id="getepochmeta"></a>
 
 ```yaml
 Usage:
@@ -618,7 +637,7 @@ Example:
 
 ```
 
-### GetLogsByBlock <a id="getlogsbyblock"></a>
+### GetLogsByBlock <a href="#getlogsbyblock" id="getlogsbyblock"></a>
 
 ```yaml
 Usage:
@@ -640,7 +659,7 @@ Example:
 ➜  ~ grpcurl -v -plaintext -d '{"filter": {}, "byBlock": {"blockHash": "221e7f14dddd57a739975b943bfffb1cbfcffa1ee043cf693b92af987e42ed93"}}' api.mainnet.iotex.one:443 iotexapi.APIService.GetLogs
 ```
 
-### GetLogsByRange <a id="getlogsbyrange"></a>
+### GetLogsByRange <a href="#getlogsbyrange" id="getlogsbyrange"></a>
 
 ```yaml
 Usage:
@@ -790,7 +809,7 @@ Example:
 }
 ```
 
-### GetReceiptByAction <a id="getreceiptbyaction"></a>
+### GetReceiptByAction <a href="#getreceiptbyaction" id="getreceiptbyaction"></a>
 
 ```yaml
 Usage:
@@ -854,7 +873,7 @@ Example:
 }
 ```
 
-### GetTransactionLogByActionHash <a id="gettransactionlogbyactionhash"></a>
+### GetTransactionLogByActionHash <a href="#gettransactionlogbyactionhash" id="gettransactionlogbyactionhash"></a>
 
 ```yaml
 Usage:
@@ -1017,7 +1036,7 @@ Example:
 }
 ```
 
-### ReadContract <a id="readcontract"></a>
+### ReadContract <a href="#readcontract" id="readcontract"></a>
 
 ```yaml
 Usage:
@@ -1044,7 +1063,7 @@ Example:
 }
 ```
 
-### ReadState <a id="readstate"></a>
+### ReadState <a href="#readstate" id="readstate"></a>
 
 ```yaml
 Usage:
@@ -1070,7 +1089,7 @@ Example:
 
 ```
 
-### SendAction <a id="sendaction"></a>
+### SendAction <a href="#sendaction" id="sendaction"></a>
 
 ```yaml
 Usage:
@@ -1091,7 +1110,7 @@ Example:
 }
 ```
 
-### SuggestGasPrice <a id="suggestgasprice"></a>
+### SuggestGasPrice <a href="#suggestgasprice" id="suggestgasprice"></a>
 
 ```yaml
 Usage:
@@ -1112,7 +1131,7 @@ Example:
 }
 ```
 
-### StreamBlocks <a id="streamblocks"></a>
+### StreamBlocks <a href="#streamblocks" id="streamblocks"></a>
 
 ```yaml
 Usage:
@@ -1202,4 +1221,3 @@ Example:
   }
 }
 ```
-
