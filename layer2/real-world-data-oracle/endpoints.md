@@ -19,7 +19,7 @@ You can use a public GraphQL endpoint like [https://tray.io/docs/api/sandbox](ht
 #### List devices owned by a specific account
 
 ```graphql
-query getDevices {
+query {
       pebble_device (limit: 10, where: {owner: {_eq: "0x259c0a4251ee7CD3cbA0a437973443c9C7cd2D4f"} }) {
         id
         owner
@@ -49,7 +49,7 @@ query getDevices {
 #### Query additional device data
 
 ```graphql
-query getDevices {
+query  {
   pebble_device (limit: 1, where: {owner: {_eq: "0x259c0a4251ee7CD3cbA0a437973443c9C7cd2D4f"} }) {
     id
     name
@@ -93,7 +93,7 @@ Result:
 #### Query the most recent datapoint with valid GPS for a device
 
 ```graphql
-query getDevices {
+query  {
   pebble_device_record(limit: 1,  order_by: {timestamp: desc}, where: {imei: {_eq: "351358810263431"}, latitude: {_neq: "200.0000000"}}) {
       latitude, longitude, timestamp
     }
