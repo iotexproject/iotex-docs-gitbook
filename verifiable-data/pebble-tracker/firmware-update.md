@@ -42,7 +42,7 @@ Please make sure you download the file ending in `.hex`
 {% tabs %}
 {% tab title="macOS" %}
 1. Download and install the latest [VCP Drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) for macOS
-2. Download, unzip and run the executable file: [`PebbleUSBTools`](https://drive.google.com/file/d/1GURvVCEU9ljRN-vn\_RNHMPvMqlSenAF5/view?usp=sharing)
+2. Download, unzip and run the executable file: [`PebbleUSBTool`](https://drive.google.com/file/d/1p5aQajwehvYWe1NWelWFaJCl45mMmeqJ/view?usp=sharing)``
 {% endtab %}
 
 {% tab title="Windows" %}
