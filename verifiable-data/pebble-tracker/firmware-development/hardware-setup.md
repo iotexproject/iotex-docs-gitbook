@@ -9,7 +9,7 @@ You Pebble box contains the following:
 * A male, 2-poles 1.25mm pitch power connector
 * A label with the IMEI number for your board
 
-![](<../../../.gitbook/assets/image (36).png>)
+![](<../../../.gitbook/assets/image (26).png>)
 
 ### Board Layout <a href="#board-layout" id="board-layout"></a>
 
@@ -22,7 +22,7 @@ Relevant slots, connectors and switches on Pebble include the following:
 * **Data port**: the data port is used to program and debug the board using the SEGGER JLink programmer/debugger
 * **Cellular and GPS antenna**: these two coaxial inputs allow the connection of a GPS and/or a cellular external antennas
 
-![](<../../../.gitbook/assets/image (28).png>)
+![](<../../../.gitbook/assets/image (29).png>)
 
 ### Inserting a SIM card <a href="#inserting-a-sim-card" id="inserting-a-sim-card"></a>
 
@@ -62,7 +62,7 @@ Possible batteries that would fit are (according to the datasheets, please verif
 
 Once the battery is connected you can press the reset button: you will see the RGB led light up and blinking every 5s.
 
-![](<../../../.gitbook/assets/image (35).png>)
+![](<../../../.gitbook/assets/image (30).png>)
 
 ### Charging the battery <a href="#charging-the-battery" id="charging-the-battery"></a>
 

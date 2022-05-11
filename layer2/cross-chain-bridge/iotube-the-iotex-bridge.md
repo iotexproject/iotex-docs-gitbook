@@ -6,7 +6,7 @@ You can access io at [iotube.org](https://iotube.org):
 
 {% embed url="https://iotube.org" %}
 
-![](<../../.gitbook/assets/image (77).png>)
+![](<../../.gitbook/assets/image (62).png>)
 
 Check out these tutorials about using **iotube** to transfer tokens from other blockchains to IoTeX and back:
 

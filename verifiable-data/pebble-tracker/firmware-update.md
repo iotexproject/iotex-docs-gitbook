@@ -79,10 +79,10 @@ Use the micro-USB data cable provided with Pebble to connect the device to your 
 
 In the Pebble USB Tool, notice when the status bar says that the Pebble is connected:&#x20;
 
-![](<../../.gitbook/assets/image (90).png>)
+![](<../../.gitbook/assets/image (104).png>)
 
 then click the “`Flash APP Firmware`” button:
 
-![](<../../.gitbook/assets/image (83).png>)
+![](<../../.gitbook/assets/image (84).png>)
 
 Wait for the firmware upgrade to complete. The device will reboot automatically after the operation is completed, and the new firmware will be loaded.

@@ -80,7 +80,7 @@ In MacOS, extract in the following path:
 
 Launch the **nRF Connect** tool, scroll down to the `Programmer` app and open it:
 
-![](<../../../../.gitbook/assets/image (26).png>)
+![](<../../../../.gitbook/assets/image (34).png>)
 
 Connect Pebble to your computer using the USB cable, and follow the instructions in following two sections to flash the **Pebble Application Firmware** or the **Pebble Modem Firmware** respectively.
 
@@ -90,7 +90,7 @@ Connect Pebble to your computer using the USB cable, and follow the instructions
 2. Select your device from the devices combo box in the programmer window&#x20;
 3. Put Pebble in **MCUboot mode** ([see the section below](application-firmware.md#put-pebble-in-mcuboot-mode)) and click the **Write** button&#x20;
 
-![](<../../../../.gitbook/assets/image (29).png>)
+![](<../../../../.gitbook/assets/image (35).png>)
 
 The flashing process will last about 60 seconds: the red led on the boards will blink during the whole process. Eventually, Pebble will reboot automatically and the new firmware will be loaded.
 
@@ -105,7 +105,7 @@ Please notice that updating the modem firmware will also **erase** the Pebble Ap
 3. Enter the **MCUboot mode** for your Pebble ([see the section below](application-firmware.md#put-pebble-in-mcuboot-mode)) and click the **Update Modem** button
 4. Select the modem firmware binary file `mfw_nrf9160_1.2.0.zip` you just downloaded and click **Open** to start the modem update process.
 
-![](<../../../../.gitbook/assets/image (33).png>)
+![](<../../../../.gitbook/assets/image (36).png>)
 
 The flashing process will last about 2 minutes: the red led on the board will blink during the whole process.
 
@@ -121,6 +121,6 @@ Follow the instruction below to enable MCUboot on Pebble (please refer to the [h
 
 The MCUBoot mode is now enabled and you can release the Power button:
 
-![](<../../../../.gitbook/assets/image (23).png>)
+![](<../../../../.gitbook/assets/image (37).png>)
 
 the device will stay in MCUboot mode for about 20 seconds, if during this period the firmware flashing process does not start Pebble will reboot automatically in normal operation mode.

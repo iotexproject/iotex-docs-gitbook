@@ -6,7 +6,7 @@ Pebble is equipped with high-quality **GPS**, **climate**, **motion**, and **lig
 
 Pebble utilizes a **secure element** (nRF9160) to cryptographically sign all data, providing unparalleled verifiability and traceability for asset tracking, supply chain, and other applications.
 
-![Firmware Development Kit](<../../../.gitbook/assets/image (90) (1).png>)
+![Firmware Development Kit](<../../../.gitbook/assets/image (106).png>)
 
 ### CPU <a href="#processor" id="processor"></a>
 
@@ -118,7 +118,7 @@ Note that the led will blink at least twice in 1 second when in _fast_ mode, and
 
 ![](../../../.gitbook/assets/pebble-drawing.jpg)
 
-{% file src="../../../.gitbook/assets/pebble-drawing.pdf" %}
+{% file src="../../../.gitbook/assets/pebble-drawing (1).pdf" %}
 2D Drawing | PDF
 {% endfile %}
 

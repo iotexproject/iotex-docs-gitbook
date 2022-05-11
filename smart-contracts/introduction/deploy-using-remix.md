@@ -1,4 +1,4 @@
-# Deploy Using Remix IDE
+# Deploy a token using Remix IDE
 
 The easiest way to deploy an XRC20 token on IoTeX is using the Remix IDE in conjunction with Metamask. We will deploy the reference implementation from Openzeppelin of a [preset ERC20 token with fixed supply and burnable](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.2/contracts/token/ERC20/presets/ERC20PresetMinterPauser.sol).&#x20;
 
@@ -53,13 +53,13 @@ contract ERC20PresetFixedSupply is ERC20Burnable {
 
 Open the [Remix IDE](https://remix.ethereum.org) and create a new file under the `Contracts` folder: call it `Simpletoken.sol` and paste the source code of the token, then save the file:
 
-![](<../../.gitbook/assets/image (72).png>)
+![](<../../.gitbook/assets/image (73).png>)
 
 ## 3. Compile the contract
 
 Move to the "_Solidity Compiler"_ tab in the left navigator, select the correct compiler version as required by the **`pragma`** directive in the contract, then compile:
 
-![](<../../.gitbook/assets/image (76).png>)
+![](<../../.gitbook/assets/image (74).png>)
 
 ## Deploy the contract
 
@@ -74,7 +74,7 @@ Switch to the "_Deploy & Run Transactions_" tab, select "_Injected Web3_" as the
 
 So this is how your Deploy arguments field should look like:
 
-![](<../../.gitbook/assets/image (74).png>)
+![](<../../.gitbook/assets/image (75).png>)
 
 Finally, hit "_Deploy_" and confirm the deployment transaction in Metamask (make sure [you have some IOTX](../../get-started/iotx-faucets/) to pay for gas in your Metamask wallet!&#x20;
 
@@ -84,4 +84,4 @@ Once the contract is deployed, you can easily interact with it directly in the R
 
 Look for the "_SimpleToken_" deployed contract in the left panel and expand it. Input the address you used to deploy the contract in the arguments field of the "`balanceOf`" function, click the "`balanceOf`" button to actually execute the contract call, and you should see the balance of SIM for your account right below the button:
 
-![](<../../.gitbook/assets/image (58).png>)
+![](<../../.gitbook/assets/image (61).png>)

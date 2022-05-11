@@ -113,7 +113,7 @@ You can now switch to the [**Devices**](https://portal.machinefi.com/device) tab
 
 &#x20;select "**Pebble**" to register and add a new Pebble Tracker to your MachineFi account:
 
-![](<../../.gitbook/assets/addpebble1 (4).jpg>)
+![](<../../.gitbook/assets/addpebble1 (5).jpg>)
 
 Follow the registration screens until you reach the "Confirm" step, where the owner address and device IMEI number are shown:
 

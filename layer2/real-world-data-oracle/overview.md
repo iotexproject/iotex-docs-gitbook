@@ -8,7 +8,7 @@ The IoTeX **Real-world Data Oracle** is a decentralized protocol developed on to
 
 It can be used to implement DAOs ("_Decentralized Autonomous Organizations"_) of a **group of devices** or machines for a specific application:
 
-![](<../../.gitbook/assets/image (85).png>)
+![](<../../.gitbook/assets/image (90).png>)
 
 The use cases mostly fall into two categories:
 

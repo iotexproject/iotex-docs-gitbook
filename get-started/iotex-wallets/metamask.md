@@ -20,7 +20,7 @@ You can use both the Metamask browser plugin or the Metamask mobile app if you w
 
 In the Metamask browser extension, open the "**Networks**" drop-down menu at the top, and choose the "**Custom RPC**" menu item:
 
-![](<../../.gitbook/assets/image (85) (1).png>)
+![](<../../.gitbook/assets/image (94).png>)
 
 ### 2. Mainnet and Testnet network configuration
 
@@ -34,19 +34,19 @@ Input the respective network values for IoTeX Mainnet or IoTeX Testnet:
 | **`Symbol`**       | IOTX                                                                                            | IOTX                                                                                             |
 | **`Explorer URL`** | [https://iotexscan.io](https://iotexscan.io)                                                    | [https://testnet.iotexscan.io](https://testnet.iotexscan.io)                                     |
 
-![](<../../.gitbook/assets/image (52).png>)
+![](<../../.gitbook/assets/image (51).png>)
 
 ### 3. Save and select the IoTeX network
 
 Click the **`Save`** button and make sure **IoTeX** is selected as the active network:
 
-![](<../../.gitbook/assets/image (42).png>)
+![](<../../.gitbook/assets/image (52).png>)
 
 ## Import your ioPay wallets to Metamask
 
 If you have IoTeX accounts already set up in [ioPay](https://iopay.iotex.io), you can easily import them into Metamask by simply importing their private keys. Ses the sections below to learn how to access the private key in ioPay.
 
-![Import an account in Metamask by private key](<../../.gitbook/assets/image (66).png>)
+![Import an account in Metamask by private key](<../../.gitbook/assets/image (69).png>)
 
 {% hint style="warning" %}
 Please notice that Metamask will show your IoTeX wallet address in the **Web3** **format**, so you will see an address starting by`"0x.."`: as long as the private key is the same, that address represents the exact same blockchain account as in ioPay, they just use different formats for the public address representation. [Read more...](../../basic-concepts/address-conversion.md)
@@ -56,10 +56,10 @@ Please notice that Metamask will show your IoTeX wallet address in the **Web3** 
 
 In ioPay mobile, you can display the private key by tapping the little icon in the top right of the screen:
 
-![](<../../.gitbook/assets/image (62).png>)
+![](<../../.gitbook/assets/image (70).png>)
 
 ### Access the private key in ioPay desktop
 
 In ioPay Desktop, select "**Export Keystore**", then click "**Show Private Key**":
 
-![](<../../.gitbook/assets/image (64).png>)
+![](<../../.gitbook/assets/image (71).png>)

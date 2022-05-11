@@ -53,15 +53,15 @@ This will create a token named _SimpleToken_, whose symbol will be **`SIM`**, it
 
 Make sure the selected version number for the solidity compiler in the Studio is at least v0.5.0, then click **COMPILE** button to compile your token contract:
 
-![Select compiler version then click COMPILE](<../../.gitbook/assets/image (47).png>)
+![Select compiler version then click COMPILE](<../../.gitbook/assets/image (38).png>)
 
 You are now ready to deploy your token! Select _IoPay_ as the environment you want to deploy to (or choose _Javascript_ to deploy and test interaction in the browser)
 
-![Select IoPay as the deploy environment](<../../.gitbook/assets/image (44).png>)
+![Select IoPay as the deploy environment](<../../.gitbook/assets/image (39).png>)
 
 Now, in the **Deploy section** select your contract by name (it's _SimpleToken_, or the name you chose for it), and click the **DEPLOY** button:
 
-![Select the token contract and click DEPLOY](<../../.gitbook/assets/image (48).png>)
+![Select the token contract and click DEPLOY](<../../.gitbook/assets/image (40).png>)
 
 check out the logs window at the bottom for the newly deployed **contract address**, and take note of it!
 
@@ -69,11 +69,11 @@ check out the logs window at the bottom for the newly deployed **contract addres
 
 IoPay desktop will now pop up with a transaction confirmation dialog: confirm it to deploy your contract to the IoTeX Testnet! Sign the deploy transaction in IoPay
 
-![Sign the deploy transaction in IoPay](<../../.gitbook/assets/image (46).png>)
+![Sign the deploy transaction in IoPay](<../../.gitbook/assets/image (42).png>)
 
 In IoTeX Studio IDE, you can now expand your contract under the "Deployed Contracts" section and test contract calls. For example, you can make a call to the `balanceOf`function to query the balance of your IoPay account that deployed the contract:
 
-![Check the balance of the contract owner account](<../../.gitbook/assets/image (51).png>)
+![Check the balance of the contract owner account](<../../.gitbook/assets/image (43).png>)
 
 ### 4. Import your token in IoPay Wallet
 
@@ -81,8 +81,8 @@ You can import any IoTeX token into the ioPay wallet, including the token that y
 
 In ioPay Desktop just click the **Custom Token link** and input the contract address of your token to import it (you obtained it in the IoTeX Studio log window when you deployed the contract).Import a custom token in IoPay Desktop by the token contract address
 
-![port a custom token in IoPay Desktop by the token contract address](<../../.gitbook/assets/image (50).png>)
+![port a custom token in IoPay Desktop by the token contract address](<../../.gitbook/assets/image (44).png>)
 
 As you will notice, you have a balance of 10,000 SIM: the pre-mined amount that was assigned to the account when you deployed the contract!
 
-![Custom token imported in ioPay](../../.gitbook/assets/iopay-custom-tokens.png)
+![Custom token imported in ioPay](<../../.gitbook/assets/iopay-custom-tokens (1).png>)

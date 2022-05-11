@@ -4,7 +4,7 @@ description: Web3 Development and Solidity support
 
 # Web3 Development
 
-![](<../.gitbook/assets/image (59).png>)
+![](<../.gitbook/assets/image (57).png>)
 
 ### EVM compatibility
 

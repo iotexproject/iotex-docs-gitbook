@@ -51,6 +51,6 @@ west build -t menuconfig -b thingy91_nrf9160ns ~/pebble-firmware/nrf/application
 
 The command line configuration tool will show up:
 
-![Command line configuration tool](<../../../../.gitbook/assets/image (14).png>)
+![Command line configuration tool](<../../../../.gitbook/assets/image (2).png>)
 
 You can type the "/" character to quickly search a specific configuration item by name.

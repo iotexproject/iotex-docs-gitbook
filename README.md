@@ -35,7 +35,7 @@ Exchange any asset or implement any logic in a transparent, decentralized fashio
 Integrate your software with Payments, Deposits & Withdraws of IOTX coins and XRC20 tokens.\
 ᛫ [Rosetta API](more-resources/exchange-integration/rosetta-api.md) ᛫ [General guide](more-resources/exchange-integration/)
 
-### [Decentralized Identity](middleware/decentralized-identity/)
+### [Decentralized Identity](reference/decentralized-identity/)
 
 Give your users the ability to create and control their identities. IoTeX DID applies to individuals, enterprises, and devices!\
 ᛫ [Overview](https://docs.iotex.io/developer/did/overview.html) ᛫ [ioctl commands](https://docs.iotex.io/developer/ioctl/did.html)
@@ -47,6 +47,6 @@ Extend the reach of your Ethereum, BSC, or Polygon Tokens to the IoTeX Blockchai
 
 ### [ioctl Command Line Client](reference/ioctl-cli-reference/)
 
-![](<.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (22).png>)
 
 **ioctl** is the IoTeX command-line client to interact with an IoTeX Gateway Node. With **ioctl**, you can send and query actions to the blockchain, manage accounts, transfer XRC20 tokens, deploy smart contracts, create a decentralized identity, and much more!
