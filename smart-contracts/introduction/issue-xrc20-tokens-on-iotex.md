@@ -13,14 +13,14 @@ Finally, get some IOTX test tokens from any [IoTeX faucet](../../get-started/iot
 ### 2. Paste the contract code in IoTeX Studio IDE
 
 {% hint style="success" %}
-Since full Web3 compatibility has been introduced in IoTeX 1.2 release, **** [**Remix IDE**](https://remix.ethereum.org) is now the preferred tool if you are looking for a Web IDE to deploy contracts on IoTeX.
+Since full Web3 compatibility has been introduced in IoTeX 1.2 release, **** [**Remix IDE**](https://remix.ethereum.org/) is now the preferred tool if you are looking for a Web IDE to deploy contracts on IoTeX.
 {% endhint %}
 
 {% hint style="warning" %}
 **IoTeX Studio is in Beta**
 {% endhint %}
 
-**IoTeX Studio** is a Web IDE to develop and deploy IoTeX Smart Contracts. In IoTeX Studio you can compile, deploy and interact with your smart contracts much like in Remix IDE for Ethereum. To deploy a simple ERC20 token contract, open IoTeX Studio at [ide.iotex.io](https://ide.iotex.io), delete any existing code in the editor, and paste the following code:
+**IoTeX Studio** is a Web IDE to develop and deploy IoTeX Smart Contracts. In IoTeX Studio you can compile, deploy and interact with your smart contracts much like in Remix IDE for Ethereum. To deploy a simple ERC20 token contract, open IoTeX Studio at [ide.iotex.io](https://ide.iotex.io/), delete any existing code in the editor, and paste the following code:
 
 ```cpp
 pragma solidity ^0.5.0;
@@ -85,4 +85,4 @@ In ioPay Desktop just click the **Custom Token link** and input the contract add
 
 As you will notice, you have a balance of 10,000 SIM: the pre-mined amount that was assigned to the account when you deployed the contract!
 
-![Custom token imported in ioPay](<../../.gitbook/assets/iopay-custom-tokens (1).png>)
+![Custom token imported in ioPay](../../.gitbook/assets/iopay-custom-tokens.png)

@@ -1,6 +1,6 @@
 # Make it cross-chain
 
-To make your token cross-chain to IoTeX network, you can use bridges between IoTeX and other blockchains. There are two options now [ioTube](https://iotube.org) and [anyswap](https://anyswap.exchange/#/router).&#x20;
+To make your token cross-chain to IoTeX network, you can use bridges between IoTeX and other blockchains. There are two options now [ioTube](https://iotube.org/) and [anyswap](https://anyswap.exchange/#/router).&#x20;
 
 ## iotube
 
@@ -16,7 +16,7 @@ If you deployed a Dapp on any of the supported blockchains, you can **extend** y
 
 ## Anyswap
 
-![](<../.gitbook/assets/Screen Shot 2021-09-27 at 12.05.43 PM.png>)
+![](../.gitbook/assets/screen-shot-2021-09-27-at-12.05.43-pm.png)
 
 Anyswap is a fully decentralized cross-chain swap protocol, which enables any blockchain that uses ECDSA or EdDSA as a signature algorithm access to cross-chain bridge solutions. Anyswap has deployed cross-chain bridges for more than 600 projects and has developed 19 chains since its’ launch on the 20th of July 2020. Anyswap has launched its Multichain Router V3 beta mainnet more than one month ago, this multichain router has three significant features: Non-custodial+MPC, Native Swap, and Multichain Router (This feature allows users to swap between two chains arbitrarily, which reduces fees and makes it easier to move between chains.&#x20;
 

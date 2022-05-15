@@ -36,7 +36,7 @@ Once you have your Indexer Node running, you can define and locally deploy your 
 ### Links
 
 * IPFS [https://ipfs.mainnet.iotex.io](https://graph.mainnet.iotex.io)
-* RPC [https://rpc.graph.mainnet.iotex.io](https://rpc.graph.mainnet.iotex.io)
+* RPC [https://rpc.graph.mainnet.iotex.io](https://rpc.graph.mainnet.iotex.io/)
 
 ### Common Subgraph
 

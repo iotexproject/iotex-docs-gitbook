@@ -12,7 +12,7 @@ IoTeX DID document is a JSON-LD document containing six, optional components:
 * A digital signature for verifying the integrity of DID Document, identified by the key **proof**
 
 {% hint style="success" %}
-IoTeX DID has been integrated by [uniresolver.io (opens new window)](http://uniresolver.io)which is the industrial de facto that resolves DID to the corresponding document
+IoTeX DID has been integrated by [uniresolver.io (opens new window)](http://uniresolver.io/)which is the industrial de facto that resolves DID to the corresponding document
 {% endhint %}
 
 Here is a draft IoTeX DID document example:

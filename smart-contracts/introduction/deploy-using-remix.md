@@ -51,7 +51,7 @@ contract ERC20PresetFixedSupply is ERC20Burnable {
 
 ## Open Remix IDE and paste the code
 
-Open the [Remix IDE](https://remix.ethereum.org) and create a new file under the `Contracts` folder: call it `Simpletoken.sol` and paste the source code of the token, then save the file:
+Open the [Remix IDE](https://remix.ethereum.org/) and create a new file under the `Contracts` folder: call it `Simpletoken.sol` and paste the source code of the token, then save the file:
 
 ![](<../../.gitbook/assets/image (73).png>)
 

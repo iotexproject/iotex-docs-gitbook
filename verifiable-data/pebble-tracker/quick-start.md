@@ -61,7 +61,7 @@ If this Pebble Tracker has not been registered yet, it will prompt you for start
 
 Press the Power/Confirm button once, to start the registration process on the Pebble side:
 
-![](<../../.gitbook/assets/pebble-reg2 (1).jpg>)
+![](../../.gitbook/assets/pebble-reg2.jpg)
 
 ### Creating a MachineFi Account
 
@@ -153,7 +153,7 @@ By default, the factory configuration will collect all Pebble sensors data, and 
 
 You can monitor your real-time device sensors directly on the MachineFi portal by going to the [**My Data**](https://portal.machinefi.com/myData) page:
 
-![](<../../.gitbook/assets/pebble-reg4 (1).jpg>)
+![](../../.gitbook/assets/pebble-reg4.jpg)
 
 ### Firmware Update
 

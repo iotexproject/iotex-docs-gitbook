@@ -1,12 +1,12 @@
 # Technical Specification
 
-Pebble is a battery-powered, cellular-based, multi-sensor **development board** designed by IoTeX and [Nordic Semiconductor](https://www.nordicsemi.com), combining tamper-proof hardware and tamper-proof software to generate verifiable data.
+Pebble is a battery-powered, cellular-based, multi-sensor **development board** designed by IoTeX and [Nordic Semiconductor](https://www.nordicsemi.com/), combining tamper-proof hardware and tamper-proof software to generate verifiable data.
 
 Pebble is equipped with high-quality **GPS**, **climate**, **motion**, and **light** sensors. Data can be easily streamed in real-time to an MQTT endpoint for use in Cloud or blockchain-based applications.
 
 Pebble utilizes a **secure element** (nRF9160) to cryptographically sign all data, providing unparalleled verifiability and traceability for asset tracking, supply chain, and other applications.
 
-![Firmware Development Kit](<../../../.gitbook/assets/image (106).png>)
+![Firmware Development Kit](<../../../.gitbook/assets/image (23).png>)
 
 ### CPU <a href="#processor" id="processor"></a>
 
@@ -118,7 +118,7 @@ Note that the led will blink at least twice in 1 second when in _fast_ mode, and
 
 ![](../../../.gitbook/assets/pebble-drawing.jpg)
 
-{% file src="../../../.gitbook/assets/pebble-drawing (1).pdf" %}
+{% file src="../../../.gitbook/assets/pebble-drawing.pdf" %}
 2D Drawing | PDF
 {% endfile %}
 

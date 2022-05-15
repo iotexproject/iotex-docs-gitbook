@@ -8,7 +8,7 @@ Self-sovereign identity is user- and device-centric where an individual or organ
 * **Resolvable**: DIDs are made useful through resolution.
 
 {% hint style="success" %}
-IoTeX DID has been integrated into [uniresolver.io](http://uniresolver.io), which is the industrial de-facto that resolves DIDs to the corresponding document
+IoTeX DID has been integrated into [uniresolver.io](http://uniresolver.io/), which is the industrial de-facto that resolves DIDs to the corresponding document
 {% endhint %}
 
 Next sections provide the specification of how DID works within the IoTeX Network.

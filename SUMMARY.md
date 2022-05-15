@@ -11,14 +11,13 @@
     * [Install ioctl cli](get-started/iotex-wallets/command-line-client/install-ioctl-cli.md)
     * [Create wallet account](get-started/iotex-wallets/command-line-client/create-an-iotex-account.md)
     * [Interact with the blockchain](get-started/iotex-wallets/command-line-client/interact-with-the-blockchain.md)
+  * [IoTeX Wallet HD Derivation Path](get-started/iotex-wallets/iotex-wallet-hd-derivation-path.md)
 * [Obtain IOTX Tokens](get-started/iotx-faucets/README.md)
   * [Testnet Tokens](get-started/iotx-faucets/testnet-tokens.md)
   * [Mainnet Tokens](get-started/iotx-faucets/mainnet-tokens.md)
 * [IoTeX Dapp Sample](get-started/iotex-dapp-starter.md)
 
 ## dApp Development
-
-***
 
 * [Web3 Development](web3-development/README.md)
   * [Web3.js](web3-development/web3.js.md)

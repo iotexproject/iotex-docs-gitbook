@@ -28,7 +28,7 @@ Get started with a fully working example dApp using the most popular web develop
 ### [Smart Contracts](smart-contracts/)
 
 Exchange any asset or implement any logic in a transparent, decentralized fashion with IoTeX smart contracts. \
-᛫[ ](https://ide.iotex.io)[Issue Tokens](smart-contracts/introduction/) ᛫ [Faucets](get-started/iotx-faucets/)
+᛫[ ](https://ide.iotex.io/)[Issue Tokens](smart-contracts/introduction/) ᛫ [Faucets](get-started/iotx-faucets/)
 
 ### [Exchanges & Wallets](more-resources/exchange-integration/general-guide.md)
 
@@ -43,7 +43,7 @@ Give your users the ability to create and control their identities. IoTeX DID ap
 ### [ioTube Multi-Chain Bridge](https://tube.iotex.io)
 
 Extend the reach of your Ethereum, BSC, or Polygon Tokens to the IoTeX Blockchain, or make your Native IoTeX Dapp cross-chain \
-[Submit your Token](https://github.com/iotexproject/ioTube/issues/new?assignees=guo\&labels=Token-Pending-Review\&template=iotube-new-token-submission.md\&title=) ᛫ [ioTube App ](https://tube.iotex.io)
+[Submit your Token](https://github.com/iotexproject/ioTube/issues/new?assignees=guo\&labels=Token-Pending-Review\&template=iotube-new-token-submission.md\&title=) ᛫ [ioTube App ](https://tube.iotex.io/)
 
 ### [ioctl Command Line Client](reference/ioctl-cli-reference/)
 

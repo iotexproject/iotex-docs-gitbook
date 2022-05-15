@@ -35,7 +35,7 @@ sudo apt-get install --no-install-recommends git cmake ninja-build gperf ccache 
 {% endtab %}
 
 {% tab title="macOS" %}
-If it is not installed in your system, install [Homebrew (opens new window)](https://brew.sh)by following instructions on the Homebrew:
+If it is not installed in your system, install [Homebrew (opens new window)](https://brew.sh/)by following instructions on the Homebrew:
 
 ```
  $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"

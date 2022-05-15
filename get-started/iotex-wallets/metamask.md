@@ -20,7 +20,7 @@ You can use both the Metamask browser plugin or the Metamask mobile app if you w
 
 In the Metamask browser extension, open the "**Networks**" drop-down menu at the top, and choose the "**Custom RPC**" menu item:
 
-![](<../../.gitbook/assets/image (94).png>)
+![](<../../.gitbook/assets/image (100).png>)
 
 ### 2. Mainnet and Testnet network configuration
 

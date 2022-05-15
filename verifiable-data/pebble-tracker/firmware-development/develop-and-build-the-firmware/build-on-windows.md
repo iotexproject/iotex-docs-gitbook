@@ -8,7 +8,7 @@
   * [Build in Embedded Studio IDE](https://docs.iotex.io/developer/hardware/pebble-build-windows.html#build-in-embedded-studio-ide)
   * [Build from Command Line](https://docs.iotex.io/developer/hardware/pebble-build-windows.html#build-from-command-line)
 
-![](../../../../.gitbook/assets/one\_click\_fig6.png)
+![](<../../../../.gitbook/assets/one\_click\_fig6 (1).png>)
 
 The Pebble firmware can be easily configured and built on Windows using _Pebble SDK_: a customized version of the Nordic's nRF Connect SDK. Make sure you have [Git installed ](https://git-scm.com/download/win)in your system before you continue.
 
@@ -57,7 +57,7 @@ The compiler toolchain paths in Embedded Studio should be already set, just make
 * Choose **nRF Connect** on the left side of the "Option" window
 * Locate **Directories** section and configure "GNU ARM Embedded Toolchain Directory" and "Zephyr Base" to the corresponding directories, respectively (see the image):
 
-![](<../../../../.gitbook/assets/one\_click\_fig6 (1).png>)
+![](../../../../.gitbook/assets/one\_click\_fig6.png)
 
 ### Build the Application Firmware <a href="#build-pebble-application-firmware" id="build-pebble-application-firmware"></a>
 

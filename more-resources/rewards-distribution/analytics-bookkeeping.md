@@ -3,7 +3,7 @@
 **Bookkeeping** is a GraphQL web interface for rewards distribution, which collects voting status and calculates corresponding voters' reward for a given delegate, within a certain epoch range.
 
 {% hint style="success" %}
-While we still keep the Bookkeeping tool for analytics purposes, we recommend delegates use the [Hermes ](http://hermes.to)system for auto-distribute voters' rewards.
+While we still keep the Bookkeeping tool for analytics purposes, we recommend delegates use the [Hermes ](http://hermes.to/)system for auto-distribute voters' rewards.
 {% endhint %}
 
 ## Get Voters' Rewards Given a Delegate Name

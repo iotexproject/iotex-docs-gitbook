@@ -4,11 +4,11 @@
 
 The **IoTeX dApp Sample** is a comfortable environment for **learning IoTeX** development and is the best way to build **a new dApp**.
 
-It sets up a basic working example that is cross-blockchain, multi-asset and supports the most popular wallet apps  (including [Metamask](https://metamask.io)) out of the box. The example utilizes the latest JavaScript features, provides a nice developer experience and optimizes your app for production. You’ll need to have [Node>=10.17.0](https://nodejs.org/en/).&#x20;
+It sets up a basic working example that is cross-blockchain, multi-asset and supports the most popular wallet apps  (including [Metamask](https://metamask.io/)) out of the box. The example utilizes the latest JavaScript features, provides a nice developer experience and optimizes your app for production. You’ll need to have [Node>=10.17.0](https://nodejs.org/en/).&#x20;
 
 ![IoTeX dApp Starter](<../.gitbook/assets/image (55).png>)
 
-This sample dApp supports Typescript as includes [Vite](https://vitejs.dev/guide/why.html) as a fast build server, [React](https://reactjs.org) as the frontend framework, [Chakra](https://chakra-ui.com) as a components library, and [Cypress](https://www.cypress.io) as a testing suite.
+This sample dApp supports Typescript as includes [Vite](https://vitejs.dev/guide/why.html) as a fast build server, [React](https://reactjs.org/) as the frontend framework, [Chakra](https://chakra-ui.com/) as a components library, and [Cypress](https://www.cypress.io/) as a testing suite.
 
 ## Get Started
 
@@ -33,7 +33,7 @@ yarn install
 yarn start
 ```
 
-See the demo app running on your local machine at [localhost:3000, ](http://localhost:3000)and start building your great new idea!
+See the demo app running on your local machine at [localhost:3000, ](http://localhost:3000/)and start building your great new idea!
 
 ## Cheatsheet
 
