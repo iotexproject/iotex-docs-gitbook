@@ -1,10 +1,18 @@
 # Deploy using IoTeX Studio
 
+{% hint style="info" %}
+**Deprecated**
+
+This document refers to a discontinued product and is left here only for reference. IoTeX Developers are encouraged to use Ethereum tools to build their Dapps. Learn more in the [Web3 Development section](../../web3-development/). &#x20;
+{% endhint %}
+
 Let's see how to deploy the token contract on IoTeX in a few simple steps using the ioPay native wallet and IoTeX Studio IDE.
+
+We will use the ioPay Desktop wallet to deploy the contract in this example. You can download ioPay Desktop wallet from [https://iopay.me](https://iopay.me).
 
 ### 1. Open ioPay Desktop
 
-In this example, we will use the ioPay Desktop wallet to deploy the contract. Download ioPay Desktop wallet from [http://iopay.iotex.io/desktop](http://iopay.iotex.io/desktop/), create a new account or import a private key if you have one, and select the _Test Network_ from the Network Combobox.
+[http://iopay.iotex.io/desktop](http://iopay.iotex.io/desktop/), create a new account or import a private key if you have one, and select the _Test Network_ from the Network Combobox.
 
 ![Select the "Testnet" endpoint in ioPay Desktop ](http://docs-old.iotex.io/img/developer/iopay-testnet.png)
 
