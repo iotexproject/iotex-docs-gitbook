@@ -8,7 +8,7 @@ The IoTeX **Real-world Data Oracle** is a decentralized protocol developed on to
 
 It can be used to implement DAOs ("_Decentralized Autonomous Organizations"_) of a **group of devices** or machines for a specific application:
 
-![](<../../.gitbook/assets/image (90).png>)
+![](<../../.gitbook/assets/image (27).png>)
 
 The use cases mostly fall into two categories:
 
@@ -18,7 +18,7 @@ The use cases mostly fall into two categories:
   * Proof of interaction.
   * Geofencing.
   * Finance derivatives from real-world data  (e.g., weather/traffic/carbon derivatives).
-  * Trade of droid/satellites images, or decentralized machine learning.
+  * Trade of droid/satellite images, or decentralized machine learning.
 * **Mechanical Turk:** \
   A group of things that pool their utilities together for a common goal. Typical examples include:
   * Raspberry Pis work together to stress-test a website.
