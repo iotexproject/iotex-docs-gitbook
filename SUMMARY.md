@@ -64,9 +64,7 @@
   * [iotube: the IoTeX Bridge](layer2/cross-chain-bridge/iotube-the-iotex-bridge.md)
   * [Submit your tokens](layer2/cross-chain-bridge/submit-your-tokens.md)
   * [Join the Bridge consensus](layer2/cross-chain-bridge/join-the-bridge-consensus.md)
-* [Real-world Data Oracle](layer2/real-world-data-oracle/README.md)
-  * [Overview](layer2/real-world-data-oracle/overview.md)
-  * [Endpoints](layer2/real-world-data-oracle/endpoints.md)
+* [Real-world Data Oracle](layer2/real-world-data-oracle.md)
 
 ## 🔐Open Hardware <a href="#verifiable-data" id="verifiable-data"></a>
 
@@ -74,6 +72,8 @@
   * [Overview](verifiable-data/pebble-tracker/overview.md)
   * [Quick Start](verifiable-data/pebble-tracker/quick-start.md)
   * [Firmware update](verifiable-data/pebble-tracker/firmware-update.md)
+  * [Network selection](verifiable-data/pebble-tracker/network-selection.md)
+  * [Data Endpoints](verifiable-data/pebble-tracker/endpoints.md)
   * [Firmware Development](verifiable-data/pebble-tracker/firmware-development/README.md)
     * [Technical Specification](verifiable-data/pebble-tracker/firmware-development/technical-specification.md)
     * [Hardware Setup](verifiable-data/pebble-tracker/firmware-development/hardware-setup.md)
