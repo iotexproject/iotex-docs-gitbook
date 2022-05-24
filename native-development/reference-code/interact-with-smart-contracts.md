@@ -1,32 +1,21 @@
 # Interact with smart contracts
 
-### Overview <a id="overview"></a>
-
-The IoTeX Blockchain implements a full featured **Ethereum Virtual Machine \(EVM\)**, allowing you to use **Solidity** as a programming language to create smart contracts on IoTeX, or to port any existing Ethereum smart contract to IoTeX without changes.
-
-EVM version has evovled over time, and on IoTeX blockchain, the currently supported version is **Constantinople/Petersburg**, which is the default used by Solidity compiler version **0.5.10**. If you use a Solidity compiler newer than 0.5.10, make sure to force the EVM version to Constantinople/Petersburg in the compiler, see [here](https://docs.soliditylang.org/en/v0.5.10/using-the-compiler.html#setting-the-evm-version-to-target) for more information.
-
-The `iotx.Contract` class makes it easy to interact with smart contracts on the IoTeX blockchain. When you create a new `Contract` object, you initialize it with the JSON interface of the respective smart contract, and it will take care of converting all method calls into low-level ABI calls over RPC for you, hence you can interact with IoTeX smart contracts as with any JavaScript object.
+The `iotx.Contract` class of Antenna makes it easy to interact with smart contracts on the IoTeX blockchain. When you create a new `Contract` object, just initialize it with the JSON interface (ABI) of the respective contract, and the Contract object will take care of converting all contract method calls into low-level ABI calls over RPC for you.&#x20;
 
 {% hint style="success" %}
-**Need a full example**? [Check the integration test](https://github.com/iotexproject/iotex-antenna/blob/master/src/__test__/iotx.integration.test.ts#L98)
+**Need a full example**? [Check the integration test](https://github.com/iotexproject/iotex-antenna/blob/master/src/\_\_test\_\_/iotx.integration.test.ts#L98).
 {% endhint %}
 
-{% hint style="success" %}
-**Looking for an IDE**? Check out [IoTeX Studio web IDE \(opens new window\)](https://ide.iotex.io/)to write, compile, test & deploy your smart contracts to the IoTex Blobkchain, in a quick and convenient way!
-{% endhint %}
-
-* [Overview](https://docs.iotex.io/developer/sdk/account-create#overview)
 * [Compiling Solidity Code](https://docs.iotex.io/developer/sdk/account-create#compiling-solidity-code)
 * [Deploying a Smart Contract](https://docs.iotex.io/developer/sdk/account-create#deploying-a-smart-contract)
 * [Interacting with a Smart Contract](https://docs.iotex.io/developer/sdk/account-create#interacting-with-a-smart-contract)
 
-### Compiling Solidity Code <a id="compiling-solidity-code"></a>
+### Compiling Solidity Code <a href="#compiling-solidity-code" id="compiling-solidity-code"></a>
 
-Antenna SDK does not compile solidity code iteself, however you can get the ABI and bytecode of your contract in one of the following options:
+Antenna SDK does not compile solidity code itself; however you can get the ABI and bytecode of your contract in one of the following options:
 
-* **Option 1**: use our [IoTeX Studio web IDE \(opens new window\)](https://ide.iotex.io/)to compile your smart contract and copy the ABI/Bytecode
-* **Option 2**: in Node.js, import and use the [`solc@0.4.25` ](https://www.npmjs.com/package/solc)node package, as in the following example:
+* **Option 1**: use our [IoTeX Studio web IDE](https://ide.iotex.io/) to compile your smart contract and copy the ABI/Bytecode
+* **Option 2**: in Node.js, import and use the [`solc`](https://www.npmjs.com/package/solc) node package, as in the following example:
 
 ```cpp
 import solc from "solc";
@@ -54,7 +43,7 @@ const bytecode = output.contracts[contractName].bytecode;
 
 * **Option 3**: on the browser side, you can use [browser-solc ](https://www.npmjs.com/package/browser-solc)package. Check out this [example from iotex-explorer](https://github.com/iotexproject/iotex-explorer/blob/master/src/shared/wallet/contract/deploy.tsx#L114).
 
-### Deploying a Smart Contract <a id="deploying-a-smart-contract"></a>
+### Deploying a Smart Contract <a href="#deploying-a-smart-contract" id="deploying-a-smart-contract"></a>
 
 Once you get the ABI and bytecode from the step above, then you can deploy it by sending the deploy action to the IoTeX blockchain network.
 
@@ -111,6 +100,8 @@ import { toRau } from "iotex-antenna/lib/account/utils";
   });
 })();
 ```
+
+
 {% endtab %}
 
 {% tab title="Go Lang" %}
@@ -160,6 +151,8 @@ func main() {
 	fmt.Println(actionHash)
 }
 ```
+
+
 {% endtab %}
 {% endtabs %}
 
@@ -172,6 +165,8 @@ const receipt = await antenna.iotx.getReceiptByAction({
   actionHash: actionHash
 });
 ```
+
+
 {% endtab %}
 
 {% tab title="Golang" %}
@@ -185,6 +180,8 @@ action, err := wallet.Iotx.GetActions(&iotexapi.GetActionsRequest{
   },
 })
 ```
+
+
 {% endtab %}
 {% endtabs %}
 
@@ -197,6 +194,8 @@ const receipt = await antenna.iotx.getReceiptByAction({
   actionHash: actionHash
 });
 ```
+
+
 {% endtab %}
 
 {% tab title="Golang" %}
@@ -205,6 +204,7 @@ receipt, err := wallet.Iotx.GetReceiptByAction(&iotexapi.GetReceiptByActionReque
   ActionHash: actionHash,
 })
 ```
+
+
 {% endtab %}
 {% endtabs %}
-
