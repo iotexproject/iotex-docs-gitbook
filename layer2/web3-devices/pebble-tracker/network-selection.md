@@ -22,6 +22,6 @@ Alternatively, the firmware can be configured to send the data to the testnet or
 
 You can check the currently selected network on the display when Pebble is powered on and while it's connecting to the network:
 
-![Currently selected network](<../../../.gitbook/assets/image (24) (1).png>)
+![Currently selected network](<../../../.gitbook/assets/image (24) (1) (1).png>)
 
 To visualize the data collected by your devices, you can use the MachineFi portal. For data sent to the mainnet Oracle network will be available on https://portal.machinefi.com. If you selected the Testnet Network on your device, you should use https://portal-testnet.machinefi.com instead.&#x20;
