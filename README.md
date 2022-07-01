@@ -28,7 +28,7 @@ Get started with a fully working example dApp using the most popular web develop
 ### [Smart Contracts](smart-contracts/)
 
 Exchange any asset or implement any logic in a transparent, decentralized fashion with IoTeX smart contracts. \
-᛫[ ](https://ide.iotex.io/)[Issue Tokens](smart-contracts/introduction/) ᛫ [Faucets](get-started/iotx-faucets/)
+᛫[ ](https://ide.iotex.io/)[Issue Tokens](broken-reference) ᛫ [Faucets](get-started/iotx-faucets/)
 
 ### [Exchanges & Wallets](more-resources/exchange-integration/general-guide.md)
 

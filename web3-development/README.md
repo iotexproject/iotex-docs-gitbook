@@ -16,8 +16,8 @@ EVM versions keep evolving over time: the currently supported EVM version in **L
 
 Check out our tutorial to get started with smart contract deployment on IoTeX:
 
-{% content-ref url="../smart-contracts/introduction/deploy-using-remix.md" %}
-[deploy-using-remix.md](../smart-contracts/introduction/deploy-using-remix.md)
+{% content-ref url="../dapp-development/smart-contracts/deploy-using-remix.md" %}
+[deploy-using-remix.md](../dapp-development/smart-contracts/deploy-using-remix.md)
 {% endcontent-ref %}
 
 ### Ethereum API compatibility
