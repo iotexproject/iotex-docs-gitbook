@@ -1,8 +1,8 @@
 ---
-description: Welcome to the IoTeX Documentation portal
+description: Welcome to the IoTeX Developer Documentation portal
 ---
 
-# Welcome
+# Developer Documentation
 
 IoTeX is a full-stack platform to enable **trusted data** from **trusted devices**, for use in **trusted dApps**. IoTeX combines blockchain, secure hardware, and confidential computing to empower **privacy-focused** devices, apps, and services.
 
