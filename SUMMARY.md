@@ -97,6 +97,7 @@
         * [Application firmware](machinefi/web3-devices/pebble-tracker/firmware-development/flashing-the-firmware/application-firmware.md)
         * [Bootloader firmware](machinefi/web3-devices/pebble-tracker/firmware-development/flashing-the-firmware/bootloader-firmware.md)
   * [Custom Devices](machinefi/web3-devices/custom-devices.md)
+* [Developer Portal](machinefi/developer-portal.md)
 
 ## iotube Bridge
 
