@@ -1,32 +1,32 @@
 ---
 description: >-
   The official ioPay wallet supports token transfers, contract interactions,
-  staking IOTX, and claiming VITA tokens.
+  staking IOTX, interact with Dapps
 ---
 
-# Official ioPay Wallet
+# Official IoTeX Wallets
 
-**ioPay** is the "All-in-One" official wallet app from the IoTeX team, to interact with the IoTeX blockchain send/receive IOTX and XRC20 tokens, execute smart contracts, stake & vote for Delegates, interact with dApps, and much more.
+### **i**oPay&#x20;
 
-ioPay is available on desktop computers for Linux, Windows and macOS; on mobile for iOS and Android devices.
+**ioPay** is the "All-in-One" mobile app to interact with the IoTeX blockchain send/receive IOTX and XRC20 tokens, execute smart contracts, stake & vote for Delegates, interact with Dapps, and much more.
 
-### **i**oPay Mobile app
+Starting from ioPay V2, ioPay supports multi chains, including Ethereum, BSC, Polygon, Avalanche, Fantom, Arbitrum, etc.&#x20;
 
-Download ioPay Mobile at [https://iopay-wallet.iotex.io/](https://iopay-wallet.iotex.io/)
+Download ioPay at [https://iopay.me](https://iopay.me/)
 
-{% embed url="https://iopay-wallet.iotex.io/" caption="" %}
+{% embed url="https://iopay.me/" %}
 
-### ioPay Desktop app
+### IoTeX Desktop Wallet
 
-Download ioPay Desktop at [https://iopay-wallet.iotex.io/desktop](https://iopay-wallet.iotex.io/desktop)
+IoTeX Desktop wallet is an electron based desktop wallet. It connects to IoTeX network using IoTeX Antenna (IoTeX Chain SDK, [https://github.com/iotexproject/iotex-antenna](https://github.com/iotexproject/iotex-antenna)). It offers ledger app connection, send IOTX and XRC20 tokens.
 
-{% embed url="https://iopay-wallet.iotex.io/desktop" %}
+Download ioPay Desktop at [https://github.com/iotexproject/iotex-desktop-wallet/releases](https://github.com/iotexproject/iotex-desktop-wallet/releases)
 
-### ioPay for Ledger app
+{% embed url="https://github.com/iotexproject/iotex-desktop-wallet/releases" %}
+
+### IoTeX Ledger app
 
 Check out this guide to install and use the IoTeX wallet app on the popular Ledger Nano hardware wallet:
 
 {% embed url="https://onboard.iotex.io/engage-with-iotex/ledger-nano-app" %}
-
-
 

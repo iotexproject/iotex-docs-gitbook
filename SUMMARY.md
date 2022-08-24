@@ -5,7 +5,7 @@
 ## 🛠Get Started
 
 * [IoTeX Wallets](get-started/iotex-wallets/README.md)
-  * [Official ioPay Wallet](get-started/iotex-wallets/official-iopay-wallet.md)
+  * [Official IoTeX Wallets](get-started/iotex-wallets/official-iopay-wallet.md)
   * [Metamask Wallet](get-started/iotex-wallets/metamask.md)
   * [Command line client](get-started/iotex-wallets/command-line-client/README.md)
     * [Install ioctl cli](get-started/iotex-wallets/command-line-client/install-ioctl-cli.md)
