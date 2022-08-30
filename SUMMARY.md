@@ -65,11 +65,11 @@
 
 ## 🧑‍💻MachineFi Development <a href="#machinefi" id="machinefi"></a>
 
-* [W3bStream Network](machinefi/w3bstream-network/README.md)
-  * [Roles in W3bStream](machinefi/w3bstream-network/roles-in-w3bstream.md)
-  * [Communication Patterns](machinefi/w3bstream-network/communication-patterns.md)
-  * [Device Binding / Unbinding](machinefi/w3bstream-network/device-binding-unbinding.md)
-  * [W3bStream Node Lifecycle](machinefi/w3bstream-network/w3bstream-node-lifecycle.md)
+* [W3bStream](machinefi/w3bstream/README.md)
+  * [Roles in W3bStream](machinefi/w3bstream/roles-in-w3bstream.md)
+  * [Communication Patterns](machinefi/w3bstream/communication-patterns.md)
+  * [Device Binding / Unbinding](machinefi/w3bstream/device-binding-unbinding.md)
+  * [W3bStream Node Lifecycle](machinefi/w3bstream/w3bstream-node-lifecycle.md)
 * [MachineFi Workflow](machinefi/machinefi-workflow/README.md)
   * [IoT Device Onboarding](machinefi/machinefi-workflow/iot-device-onboarding.md)
   * [Node Onboarding](machinefi/machinefi-workflow/node-onboarding.md)
