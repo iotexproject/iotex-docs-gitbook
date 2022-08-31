@@ -70,18 +70,22 @@ Before we can register a Pebble on the IoTeX MachineFi portal, we need a blockch
 {% hint style="success" %}
 **Prerequisites**:
 
-* You have [Metamask](https://metamask.io/download.html) installed in your browser.
-* You [added the IoTeX Network](https://iotexdefi.com) to Metamask&#x20;
-* You own some native IOTX in your Metamask account&#x20;
+* You have [Metamask](https://metamask.io/download.html) installed in your browser or [ioPay mobile](https://iopay.me) on your smartphone.
+* If you use Metamask, make sure you [added the IoTeX Network](https://iotexdefi.com)&#x20;
+* You own some native IOTX in your wallet account&#x20;
 {% endhint %}
 
-Open the MachineFi device portal at [portal.machinefi.com](https://portal.machinefi.com), and **connect** a Metamask account that you want to use as your _Devices_ _Owner Account,_ the portal will automatically start the account registration process:
+{% hint style="warning" %}
+Please make sure your wallet is connected to the IoTeX blockchain and you have a few **IOTX native** tokens in your wallet. You can get IOTX native tokens on the IoTeX network from [most exchanges worldwide](https://ecosystem.iotex.io/?tag=Exchange,Wallet). **Please notice that Coinbase only supports IOTX on the Ethereum blockchain (ERC20) which would not work.**
+{% endhint %}
+
+Open the MachineFi device portal at [portal.machinefi.com](https://portal.machinefi.com), and **connect** a blockchain wallet account that you want to use as your _Devices_ _Owner Account,_ the portal will automatically start the account registration process:
 
 {% embed url="https://portal.machinefi.com" %}
 
 1. Assign a name to your MachineFi account
 2. Confirm the account creation dialog
-3. Sign the transaction in Metamask
+3. Sign the transaction in the wallet
 
 ![](../../../.gitbook/assets/newportalaccount.jpg)
 
@@ -99,7 +103,7 @@ To deposit some credit:
 2. Click the **Deposit Credit** button&#x20;
 3. Input the amount of IOTX you want to deposit
 4. Confirm the deposit dialog
-5. Finally, confirm the transaction in Metamask&#x20;
+5. Finally, confirm the transaction in the wallet&#x20;
 
 ![](<../../../.gitbook/assets/depositcredit (1).jpg>)
 
@@ -123,7 +127,7 @@ Follow the registration screens until you reach the "Confirm" step, where the ow
 Make sure your Pebble is powered on and [prompting for device registration](quick-start.md#power-on).
 {% endhint %}
 
-Go ahead and press the **Next** button, confirm the transaction in Metamask, and wait for your Metamask account address to be displayed on the Pebble tracker screen:
+Go ahead and press the **Next** button, confirm the transaction in your wallet, and wait for your blockchain address to be displayed on the Pebble tracker screen:
 
 ![](../../../.gitbook/assets/pebble-reg3.jpg)
 
