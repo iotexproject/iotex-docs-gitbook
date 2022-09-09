@@ -1,8 +1,17 @@
 # Testnet Tokens
 
+### Developer Portal
+
+The best way for any developer to have acces to testnet IOTX is to create a developer account on the IoTeX [Developer Portal](https://developers.iotex.io/) and claim test tokens in their personal profile. \
+Simply connect your wallet on IOTX testnet and start claiming test IOTX immediately.&#x20;
+
+<figure><img src="../../.gitbook/assets/Frame 20.png" alt=""><figcaption><p>Claim test IOTX from your Dev Portal profile</p></figcaption></figure>
+
 ### From faucet
 
-One way to obtain test IOTX tokens is to request them on the IoTeX web faucet:
+Another way to obtain test IOTX tokens for users that may need them for different purposes, other than developing, is to request them on the IoTeX web faucet:\
+\
+_**NOTE**_: _This will soon be deprecated in favor of an alternative option in the dev portal._&#x20;
 
 * **Link**: [https://faucet.iotex.io/](https://faucet.iotex.io/)
 * **Network**: Testnet
