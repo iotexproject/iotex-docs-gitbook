@@ -2,7 +2,7 @@
 description: Welcome to the IoTeX Developer Documentation portal
 ---
 
-# Developer Documentation
+# Welcome to the IoteX Docs
 
 IoTeX is a full-stack platform to enable **trusted data** from **trusted devices**, for use in **trusted dApps**. IoTeX combines blockchain, secure hardware, and confidential computing to empower **privacy-focused** devices, apps, and services.
 
@@ -15,8 +15,8 @@ Use your favorite Ethereum tools and libraries to build on IoTeX, port your exis
 
 ### [Core API](reference/node-core-api-grpc.md)
 
-See all available gRPC API calls to interact with an IoTeX blockchain node.\
-᛫ [Native API Reference](reference/node-core-api-grpc.md) ᛫ [gRPC proto files](https://github.com/iotexproject/iotex-proto) ᛫ [Ethereum API](reference/babel-web3-api.md)
+See all available API calls to interact with an IoTeX blockchain node.\
+᛫ [Native API Reference](reference/node-core-api-grpc.md) ᛫ [gRPC proto files](https://github.com/iotexproject/iotex-proto) ᛫ [Ethereum API](dapp-development/web3-development/rpc-endpoints.md)
 
 ### [IoTeX Dapp Sample](get-started/iotex-dapp-starter.md)
 

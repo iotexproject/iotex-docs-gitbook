@@ -9,7 +9,7 @@ The documents under this section are subject to frequent changes. Please come ba
 \
 **W3bStream** is a general framework for connecting devices, machines in physical world to blockchains world. In a nutshell, W3bStream uses the IoTeX blockchain to orchestrate a decentralized gateway network (i.e., _W3bStream nodes_) that streams encrypted data from IoT devices and machines and generate proofs to blockchains. Developers builds their dapps with real world data access on the W3bStream framework.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>W3bStream in a Nutshell</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>W3bStream in a Nutshell</p></figcaption></figure>
 
 ### Use cases <a href="#use-cases" id="use-cases"></a>
 

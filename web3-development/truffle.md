@@ -1,10 +1,15 @@
 # Truffle
 
-[Truffle](https://www.trufflesuite.com/docs/truffle/overview) is a world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine \(EVM\), aiming to make life as a developer easier.
+[Truffle](https://www.trufflesuite.com/docs/truffle/overview) is a world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
 
 This guide describes how to configure Truffle when you want to deploy your smart contracts on the IoTeX Network.
 
-Let's assume that you already created a Truffle project and you want now use the `truffle migrate` command to deploy it on IoTeX. We will use `https://babel-api.testnet.iotex.io` as the [Babel endpoint](../reference/babel-web3-api.md) for IoTeX Testnet.
+Let's assume that you already created a Truffle project and you want now use the `truffle migrate` command to deploy it on IoTeX.&#x20;
+
+{% hint style="info" %}
+We will use `https://babel-api.testnet.iotex.io` for IoTeX Testnet. \
+Check out the [RPC Endpoint](../dapp-development/web3-development/rpc-endpoints.md) section for more info.&#x20;
+{% endhint %}
 
 ## 1. Install the hdwallet-provider package
 
@@ -46,7 +51,7 @@ module.exports = {
 
 and deploy with:
 
-```text
+```
 MNEMONIC=`Your mnemonic` truffle migrate --reset --network dev
 ```
 
@@ -79,7 +84,6 @@ module.exports = {
 
 Finally, deploy your contracts with:
 
-```text
+```
 truffle migrate --reset --network dev
 ```
-

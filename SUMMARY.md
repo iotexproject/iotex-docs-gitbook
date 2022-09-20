@@ -1,9 +1,10 @@
 # Table of contents
 
-* [Developer Documentation](README.md)
+* [Welcome to the IoteX Docs](README.md)
 
 ## 🛠Get Started
 
+* [Overview](get-started/overview.md)
 * [IoTeX Wallets](get-started/iotex-wallets/README.md)
   * [Official IoTeX Wallets](get-started/iotex-wallets/official-iopay-wallet.md)
   * [Metamask Wallet](get-started/iotex-wallets/metamask.md)
@@ -19,7 +20,9 @@
 
 ## dApp Development
 
+* [Overview](dapp-development/overview.md)
 * [Web3 Development](web3-development/README.md)
+  * [RPC Endpoints](dapp-development/web3-development/rpc-endpoints.md)
   * [Web3.js](web3-development/web3.js.md)
   * [Remix](web3-development/remix.md)
   * [Truffle](web3-development/truffle.md)
@@ -42,7 +45,7 @@
     * [Interact with ioPay Desktop](native-development/reference-code/interact-with-iopay-desktop.md)
     * [Create a DID JWT](native-development/reference-code/create-a-did-jwt.md)
     * [Call any RPC method](native-development/reference-code/call-any-rpc-method.md)
-* [Arduino & More](dapp-development/arduino-and-more/README.md)
+* [Hardware](dapp-development/arduino-and-more/README.md)
   * [Quick Start](dapp-development/arduino-and-more/quick-start/README.md)
     * [Arduino IDE](dapp-development/arduino-and-more/quick-start/arduino-ide.md)
     * [Linux](dapp-development/arduino-and-more/quick-start/linux.md)
@@ -102,8 +105,6 @@
 ## iotube Bridge
 
 * [Overview](iotube-bridge/iotube-the-iotex-bridge.md)
-* [Submit your tokens](iotube-bridge/submit-your-tokens.md)
-* [Join the Bridge consensus](iotube-bridge/join-the-bridge-consensus.md)
 
 ## 📕Reference
 

@@ -9,9 +9,11 @@ Simply connect your wallet on IOTX testnet and start claiming test IOTX immediat
 
 ### From faucet
 
-Another way to obtain test IOTX tokens for users that may need them for different purposes, other than developing, is to request them on the IoTeX web faucet:\
-\
+Another way to obtain test IOTX tokens for users that may need them for different purposes, other than developing, is to request them on the IoTeX web faucet:
+
+{% hint style="warning" %}
 _**NOTE**_: _This will soon be deprecated in favor of an alternative option in the dev portal._&#x20;
+{% endhint %}
 
 * **Link**: [https://faucet.iotex.io/](https://faucet.iotex.io/)
 * **Network**: Testnet

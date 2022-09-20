@@ -1,5 +1,9 @@
 # How it works
 
+## Start a grant request
+
+{% embed url="https://community.iotex.io/c/halo-grants/61" %}
+
 ## Proposal categories
 
 The IoTeX Halo Grants Program fuels software and hardware development, as well as industry research, education, and community engagement efforts. We welcome proposals, both tech, and non-tech, in the following categories. If you have impactful ideas that do not fit in the following categories, we are all ears!
