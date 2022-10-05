@@ -4,7 +4,7 @@ description: >-
   native IoTeX Blockchain.
 ---
 
-# Metamask Wallet
+# 🦊 Metamask Wallet
 
 **MetaMask** is a browser extension and a mobile app that handles blockchain account management and helps users securely interact with web Dapps. It’s supported in Chrome, Brave, and Safari browsers, as well as it is available for Android and iOS devices.
 
@@ -49,7 +49,7 @@ If you have IoTeX accounts already set up in [ioPay](https://iopay.iotex.io), yo
 ![Import an account in Metamask by private key](<../../.gitbook/assets/image (69).png>)
 
 {% hint style="warning" %}
-Please notice that Metamask will show your IoTeX wallet address in the **Web3** **format**, so you will see an address starting by`"0x.."`: as long as the private key is the same, that address represents the exact same blockchain account as in ioPay, they just use different formats for the public address representation. [Read more...](../../basic-concepts/address-conversion.md)
+Please notice that Metamask will show your IoTeX wallet address in the **Web3** **format**, so you will see an address starting by`"0x.."`: as long as the private key is the same, that address represents the exact same blockchain account as in ioPay, they just use different formats for the public address representation. [Read more...](../../dapp-development/basic-concepts/address-conversion.md)
 {% endhint %}
 
 ### Access the private key in ioPay mobile

@@ -7,7 +7,11 @@ description: >-
 
 # Command line client
 
-**ioctl** is the IoTeX official command line client, and it's the Swiss Army knife for any IoTeX developer. In addition to being a multi-account wallet also supporting staking, ioctl provides a wide variety of advanced functions to interact with the IoTeX blockchain. ioctl can be used within Bash scripts to send actions and make requests to the blockchain, interact with smart contracts and more.
+**ioctl** is the IoTeX official command line client, and it's the Swiss Army knife for any IoTeX developer.&#x20;
+
+In addition to being a multi-account wallet also supporting staking, ioctl provides a wide variety of advanced functions to interact with the IoTeX blockchain.&#x20;
+
+ioctl can be used within Bash scripts to send actions and make requests to the blockchain, interact with smart contracts and more.
 
 Check out this introductory video about using **ioctl** as a command line IoTeX wallet:&#x20;
 

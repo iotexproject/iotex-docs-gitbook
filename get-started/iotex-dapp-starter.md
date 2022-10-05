@@ -1,10 +1,14 @@
-# IoTeX Dapp Sample
+# IoTeX dApp Sample
 
 ## Introduction&#x20;
 
-The **IoTeX dApp Sample** is a comfortable environment for **learning IoTeX** development and is the best way to build **a new dApp**.
+The **IoTeX dApp Sample** is a comfortable environment for **learning IoTeX development** and is the best way to build **a new dApp**.
 
-It sets up a basic working example that is cross-blockchain, multi-asset and supports the most popular wallet apps  (including [Metamask](https://metamask.io/)) out of the box. The example utilizes the latest JavaScript features, provides a nice developer experience and optimizes your app for production. You’ll need to have [Node>=10.17.0](https://nodejs.org/en/).&#x20;
+It sets up a basic working example that is cross-blockchain, multi-asset and supports the most popular wallet apps (including [Metamask](https://metamask.io/)) out of the box. The example utilizes the latest JavaScript features, provides a nice developer experience and optimizes your app for production.&#x20;
+
+{% hint style="info" %}
+You’ll need to have [Node>=10.17.0](https://nodejs.org/en/).&#x20;
+{% endhint %}
 
 ![IoTeX dApp Starter](<../.gitbook/assets/image (55).png>)
 

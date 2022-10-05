@@ -6,13 +6,15 @@ description: >-
 
 # Official IoTeX Wallets
 
-### **i**oPay&#x20;
+### ****[**i**oPay](https://app.gitbook.com/o/-MQ9LhchTp7\_QJr-AYG0/s/080l6CBXDdgw6aYdnxuo/)&#x20;
 
 **ioPay** is the "All-in-One" mobile app to interact with the IoTeX blockchain send/receive IOTX and XRC20 tokens, execute smart contracts, stake & vote for Delegates, interact with Dapps, and much more.
 
-Starting from ioPay V2, ioPay supports multi chains, including Ethereum, BSC, Polygon, Avalanche, Fantom, Arbitrum, etc.&#x20;
+Starting from ioPay V2, ioPay supports multi chains, including _**Ethereum**_, _**BSC**_, _**Polygon**_, _**Avalanche**_, _**Fantom**_, _**Arbitrum**_, etc.&#x20;
 
+{% hint style="success" %}
 Download ioPay at [https://iopay.me](https://iopay.me/)
+{% endhint %}
 
 {% embed url="https://iopay.me/" %}
 
@@ -20,7 +22,9 @@ Download ioPay at [https://iopay.me](https://iopay.me/)
 
 IoTeX Desktop wallet is an electron based desktop wallet. It connects to IoTeX network using IoTeX Antenna (IoTeX Chain SDK, [https://github.com/iotexproject/iotex-antenna](https://github.com/iotexproject/iotex-antenna)). It offers ledger app connection, send IOTX and XRC20 tokens.
 
+{% hint style="success" %}
 Download ioPay Desktop at [https://github.com/iotexproject/iotex-desktop-wallet/releases](https://github.com/iotexproject/iotex-desktop-wallet/releases)
+{% endhint %}
 
 {% embed url="https://github.com/iotexproject/iotex-desktop-wallet/releases" %}
 

@@ -1,8 +1,18 @@
 # Testnet Tokens
 
-### Developer Portal
+The IoTeX **testnet** is a distinct network from the **mainnet**, though equivalent in terms of functionalities, including the existence of an "IOTX" token along with XRC20 tokens.&#x20;
 
-The best way for any developer to have acces to testnet IOTX is to create a developer account on the IoTeX [Developer Portal](https://developers.iotex.io/) and claim test tokens in their personal profile. \
+{% hint style="info" %}
+The testnet is often reset and is itself subject to bugs during the deployment of beta releases of the blockchain.&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+Test token balances and smart contracts can be wiped out at any time and, as a consequence, test-tokens do not have any real "value.&#x20;
+{% endhint %}
+
+### [Developer Portal](https://developers.iotex.io/)
+
+The **best way** for any developer to have acces to testnet IOTX is to create a developer account on the IoTeX [Developer Portal](https://developers.iotex.io/) and claim test tokens in their personal profile. \
 Simply connect your wallet on IOTX testnet and start claiming test IOTX immediately.&#x20;
 
 <figure><img src="../../.gitbook/assets/Frame 20.png" alt=""><figcaption><p>Claim test IOTX from your Dev Portal profile</p></figcaption></figure>

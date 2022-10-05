@@ -1,26 +1,35 @@
 # Table of contents
 
-* [Welcome to the IoteX Docs](README.md)
+* [👋 Welcome to the IoTeX Docs](README.md)
 
 ## 🛠Get Started
 
-* [Overview](get-started/overview.md)
+* [🗣 Overview](get-started/overview.md)
 * [IoTeX Wallets](get-started/iotex-wallets/README.md)
   * [Official IoTeX Wallets](get-started/iotex-wallets/official-iopay-wallet.md)
-  * [Metamask Wallet](get-started/iotex-wallets/metamask.md)
+  * [🦊 Metamask Wallet](get-started/iotex-wallets/metamask.md)
   * [Command line client](get-started/iotex-wallets/command-line-client/README.md)
     * [Install ioctl cli](get-started/iotex-wallets/command-line-client/install-ioctl-cli.md)
     * [Create wallet account](get-started/iotex-wallets/command-line-client/create-an-iotex-account.md)
     * [Interact with the blockchain](get-started/iotex-wallets/command-line-client/interact-with-the-blockchain.md)
   * [IoTeX Wallet HD Derivation Path](get-started/iotex-wallets/iotex-wallet-hd-derivation-path.md)
-* [Obtain IOTX Tokens](get-started/iotx-faucets/README.md)
+* [🪙 Obtain IOTX Tokens](get-started/iotx-faucets/README.md)
   * [Testnet Tokens](get-started/iotx-faucets/testnet-tokens.md)
   * [Mainnet Tokens](get-started/iotx-faucets/mainnet-tokens.md)
-* [IoTeX Dapp Sample](get-started/iotex-dapp-starter.md)
+* [IoTeX dApp Sample](get-started/iotex-dapp-starter.md)
 
-## dApp Development
+## 🏗 dApp Development
 
 * [Overview](dapp-development/overview.md)
+* [💡 Basic Concepts](dapp-development/basic-concepts/README.md)
+  * [The IoTeX Network](https://onboard.iotex.io/platform/platform-overview)
+  * [Blockchain Specs](dapp-development/basic-concepts/blockchain-specs.md)
+  * [Wallet Accounts](dapp-development/basic-concepts/accounts.md)
+  * [Accounts cryptography](dapp-development/basic-concepts/accounts-cryptography.md)
+  * [Blockchain Actions](dapp-development/basic-concepts/blockchain-actions.md)
+  * [Address Conversion](dapp-development/basic-concepts/address-conversion.md)
+  * [Blockchain Nodes](dapp-development/basic-concepts/blockchain-nodes.md)
+  * [IOTX Token](dapp-development/basic-concepts/iotx-token.md)
 * [Web3 Development](web3-development/README.md)
   * [RPC Endpoints](dapp-development/web3-development/rpc-endpoints.md)
   * [Web3.js](web3-development/web3.js.md)
@@ -52,7 +61,7 @@
     * [PlatformIO](dapp-development/arduino-and-more/quick-start/platformio.md)
   * [Examples](dapp-development/arduino-and-more/examples.md)
   * [Tutorials](dapp-development/arduino-and-more/tutorials.md)
-* [Launch your Dapp](launch-dapp/README.md)
+* [Launch your dApp](launch-dapp/README.md)
   * [Register your Token](launch-dapp/register-your-token-in-the-ecosystem.md)
   * [Make it cross-chain](launch-dapp/make-your-token-cross-chain.md)
   * [Verify your smartcontract](launch-dapp/verify-your-smart-contract-code.md)
@@ -66,7 +75,7 @@
   * [Deploy a token in Remix IDE](dapp-development/smart-contracts/deploy-using-remix.md)
   * [Developer portal](dapp-development/smart-contracts/developer-portal.md)
 
-## 🧑‍💻MachineFi Development <a href="#machinefi" id="machinefi"></a>
+## 👩💻 MachineFi Development <a href="#machinefi" id="machinefi"></a>
 
 * [W3bStream](machinefi/w3bstream/README.md)
   * [Roles in W3bStream](machinefi/w3bstream/roles-in-w3bstream.md)
@@ -135,17 +144,6 @@
   * [Verifiable Credentials](reference/decentralized-identity/verifiable-credentials.md)
   * [Security Considerations](reference/decentralized-identity/security-considerations.md)
   * [References](reference/decentralized-identity/references.md)
-
-## 💡Basic Concepts
-
-* [The IoTeX Network](https://onboard.iotex.io/platform/platform-overview)
-* [Blockchain Specs](basic-concepts/blockchain-specs.md)
-* [Wallet Accounts](basic-concepts/accounts.md)
-* [Accounts cryptography](basic-concepts/accounts-cryptography.md)
-* [Blockchain Actions](basic-concepts/blockchain-actions.md)
-* [Address Conversion](basic-concepts/address-conversion.md)
-* [Blockchain Nodes](basic-concepts/blockchain-nodes.md)
-* [IOTX Token](basic-concepts/iotx-token.md)
 
 ## ⚙️MORE RESOURCES
 

@@ -4,7 +4,7 @@
 
 Similar to other blockchains, IoTeX is a peer-to-peer network of **nodes** that maintain a global consensus over the status of a single ledger, replicated among the nodes of the blockchain in a distributed fashion. IoTeX is also a _digital democracy_, where anyone can configure a node and propose himself to become a **Delegate** node. Token-holders that **stake** their IOTX tokens have the right to **vote** for Delegates to maintain/grow the network on their behalf. Every 1 hour (aka "_Epoch"_), the ranking of all delegate candidates is evaluated by the blockchain, and the top 36 voted Delegates get elected as **Consensus Delegates** for that epoch.
 
-![](../.gitbook/assets/nodes2.png)
+![](../../.gitbook/assets/nodes2.png)
 
 ## Node types
 

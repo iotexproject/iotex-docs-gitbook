@@ -59,7 +59,7 @@ Then you can query the Babel endpoint according to the Ethereum JSON RPC API:&#x
 }
 ```
 
-Which returns the balance `0x10f0cf064dd59200000` (hex) for the address, [expressed in Rau units](../basic-concepts/iotx-token.md#iotx-fractions) (i.e. 5000000000000000000000 Rau, equivalent to 5000 __ IOTX).
+Which returns the balance `0x10f0cf064dd59200000` (hex) for the address, [expressed in Rau units](../dapp-development/basic-concepts/iotx-token.md#iotx-fractions) (i.e. 5000000000000000000000 Rau, equivalent to 5000 __ IOTX).
 
 Check out the official Ethereum JSON-RPC API Documentation at:
 

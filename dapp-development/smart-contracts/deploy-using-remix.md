@@ -69,7 +69,7 @@ Switch to the "_Deploy & Run Transactions_" tab, select "_Injected Web3_" as the
 
 * **Token name**: "Simple Token"
 * **Token symbol**: "SIM"
-* **Total Supply** (in [Rau](../../basic-concepts/iotx-token.md#iotx-fractions)): 1000000000000000000000000 (1 Million tokens)
+* **Total Supply** (in [Rau](../basic-concepts/iotx-token.md#iotx-fractions)): 1000000000000000000000000 (1 Million tokens)
 * **Address**: the contract owner address, which will also receive the whole supply upon deployment
 
 So this is how your Deploy arguments field should look like:
