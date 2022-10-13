@@ -1,4 +1,4 @@
-# Arduino & More
+# Hardware
 
 ## Overview
 
@@ -28,47 +28,91 @@ Effort has been taken in trying to decouple non-platform dependant code as much 
 
 Below are the main modules comprising the SDK:
 
-### Abi
+<details>
+
+<summary>ABI</summary>
 
 Classes and functions to encode data using the Ethereum abi specification.
 
-### Account
+</details>
+
+<details>
+
+<summary>Account</summary>
 
 Classes and functions to create a wallet from a private key, obtain the address and send actions to the blockchain.
 
-### Api
+</details>
+
+<details>
+
+<summary>API</summary>
 
 Classes and functions that wrap the HTTP endpoint calls to interact with the blockchain.
 
-### Connection
+</details>
+
+<details>
+
+<summary>Connection</summary>
 
 Classes and methods that represent a connection to the blockchain.
 
-### Contract
+</details>
+
+<details>
+
+<summary>Contract</summary>
 
 Classes and methods to interact with contracts.
 
-### Encoder
+</details>
+
+<details>
+
+<summary>Encoder</summary>
 
 Classes and methods to perform different types of encoding (eg. bech32, protobuf, base64).
 
-### Http
+</details>
+
+<details>
+
+<summary>HTTP</summary>
 
 Classes and methods to perform HTTP requests.
 
-### Protobuf
+</details>
+
+<details>
+
+<summary>Protobuf</summary>
 
 Classes and methods to handle protobuf message serialization and deserialization.
 
-### Random
+</details>
+
+<details>
+
+<summary>Random</summary>
 
 Random generator implementations for each platform.
 
-### Signer
+</details>
+
+<details>
+
+<summary>Signer</summary>
 
 Classes and functions to sign messages.
 
-### Storage
+</details>
+
+<details>
+
+<summary>Storage</summary>
 
 Classes and functions to store and read the private key from persistent storage.
+
+</details>
 

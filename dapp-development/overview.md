@@ -1,5 +1,7 @@
 # Overview
 
+<figure><img src="../.gitbook/assets/Screen Shot 2022-10-10 at 2.40 1.jpg" alt=""><figcaption></figcaption></figure>
+
 Learn about all the tools you need in order to build and deploy fast, cheap, and efficient dApps on the **IoTeX Blockchain.**&#x20;
 
 {% hint style="info" %}

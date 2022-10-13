@@ -4,7 +4,7 @@ description: >-
   native IoTeX Blockchain.
 ---
 
-# 🦊 Metamask Wallet
+# Metamask Wallet
 
 **MetaMask** is a browser extension and a mobile app that handles blockchain account management and helps users securely interact with web Dapps. It’s supported in Chrome, Brave, and Safari browsers, as well as it is available for Android and iOS devices.
 

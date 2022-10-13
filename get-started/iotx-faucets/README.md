@@ -1,4 +1,4 @@
-# 🪙 Obtain IOTX Tokens
+# Obtain IOTX Tokens
 
 ## When do I need Testnet Tokens?
 

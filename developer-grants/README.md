@@ -1,2 +1,0 @@
-# Request a "Halo" Grant
-

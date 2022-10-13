@@ -1,4 +1,4 @@
-# 💡 Basic Concepts
+# Basic Concepts
 
 This section is meant for any developer who's interested in knowing more about the core concepts of the IoTeX chain.
 

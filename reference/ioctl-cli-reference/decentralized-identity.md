@@ -2,8 +2,8 @@
 
 Check out IoTeX DID Documentation at:
 
-{% content-ref url="../decentralized-identity/" %}
-[decentralized-identity](../decentralized-identity/)
+{% content-ref url="../../dev-toolkit/decentralized-identity/" %}
+[decentralized-identity](../../dev-toolkit/decentralized-identity/)
 {% endcontent-ref %}
 
 Our address-based DID contract on **IoTeX testnet** is:

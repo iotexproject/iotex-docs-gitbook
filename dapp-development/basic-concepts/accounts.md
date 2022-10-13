@@ -2,7 +2,7 @@
 
 ## Introduction
 
-An **Account** uniquely identifies any entity actively participating in the IoTeX network, that can be a user, a device, an enterprise, or even software on the blockchain itself (a so-called _smart contract_). Each IoTeX account has a **private key** and a corresponding **public key** associated with it.&#x20;
+An **Account** uniquely identifies any entity actively participating in the IoTeX network: A user, a device, an enterprise, or even software on the blockchain itself (a so-called _smart contract_). Each IoTeX account has a **private key** and a corresponding **public key** associated with it.&#x20;
 
 ## Account Address
 
@@ -30,7 +30,8 @@ IoTeX is an Ethereum-compatible smart contract platform, so in the same way as E
 
 **Smart contract** **accounts:** have no known private key associated, hence they cannot initiate actions, but they have "code" associated with them. The code of a smart-contract account is run each time a "contract call" action is sent to the smart-contract address by either an externally owned account or another smart contract.
 
+{% hint style="info" %}
 Learn more about smart-contract accounts in the official Ethereum documentation:
+{% endhint %}
 
 {% embed url="https://ethdocs.org/en/latest/contracts-and-transactions/account-types-gas-and-transactions.html#contract-accounts" %}
-

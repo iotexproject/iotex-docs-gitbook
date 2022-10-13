@@ -46,10 +46,6 @@ Whenever it's required, you can convert between the two address representations 
 
 On macOs and Linux, you can install the IoTeX official command-line client `ioctl` and use the `ioctl account ethaddr` command to [convert any address ](https://docs.iotex.io/reference/ioctl-cli-reference/accounts#iotex-eth-address-conversion)between Ethereum and IoTeX representations.
 
-{% content-ref url="address-conversion.md" %}
-[address-conversion.md](address-conversion.md)
-{% endcontent-ref %}
-
 ### Web tools
 
 You can use the official IoTeX web tools page to convert your address: just input your address in whatever format, and you will get the other representation:
@@ -58,7 +54,7 @@ You can use the official IoTeX web tools page to convert your address: just inpu
 IoTeX Address Conversion Tool
 {% endembed %}
 
-Other similar tools have been developed by the community that provides the same functionality, like the following one:
+Other similar tools have been developed by the community that provide the same functionality, like the following one:
 
 {% embed url="https://iotexlab.io/eth2io" %}
 Community Address Conversion Tool

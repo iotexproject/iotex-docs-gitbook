@@ -16,7 +16,9 @@ Starting from ioPay V2, ioPay supports multi chains, including _**Ethereum**_, _
 Download ioPay at [https://iopay.me](https://iopay.me/)
 {% endhint %}
 
-{% embed url="https://iopay.me/" %}
+#### Check out ioPay's Developer Docs below 👇
+
+{% embed url="https://app.gitbook.com/o/-MQ9LhchTp7_QJr-AYG0/s/080l6CBXDdgw6aYdnxuo/" %}
 
 ### IoTeX Desktop Wallet
 

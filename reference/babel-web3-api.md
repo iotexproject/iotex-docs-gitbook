@@ -1,12 +1,10 @@
-# Babel - Ethereum API
+# Ethereum API
 
 Babel is the IoTeX service that wraps an Ethereum-node JSON-RPC API: you can point your [Ethereum libraries and tools](../web3-development/) to a Babel endpoint, and have them work with the IoTeX blockchain with no changes.&#x20;
 
 {% embed url="https://eth.wiki/json-rpc/API#json-rpc-methods" %}
 Official Ethereum JSON-RPC API Documentation
 {% endembed %}
-
-You can either deploy a _Babel_ service ([available on GitHub](https://github.com/iotexproject/babel-api)) and point it to your own [IoTeX Gateway node](https://github.com/iotexproject/iotex-bootstrap), or you can use the publicly accessible endpoints [listed below](babel-web3-api.md#babel-api-endpoints).&#x20;
 
 ## Chain ID
 
@@ -19,7 +17,7 @@ In respect of this `EIP`, IoTeX `chainIDs` have been picked as follow:
 | IoTeX Mainnet | `4689`  |
 | IoTeX Testnet | `4690`  |
 
-## Babel API endpoints
+## Web3 API endpoints
 
 #### Mainnet
 

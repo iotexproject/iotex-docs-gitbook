@@ -1,18 +1,28 @@
 # Blockchain Actions
 
-Any blockchain is bootstrap from an initial \(_genesis_\) state, which is then changed over time through transactions, or **Actions** as they are called in IoTeX. An action is fundamentally a _packet of data_, signed by a blockchain account, that instructs the blockchain to make some type of change to the distributed ledger. The action can be sent to any blockchain node acting as a gateway, that in turn broadcasts it to the entire network of nodes for verification and, eventually it get applied and stored forever in the Ledger.
+Any blockchain is bootstrap from an initial (_genesis_) state, which is then changed over time through transactions, or **Actions** as they are called in IoTeX. An action is fundamentally a _packet of data_, signed by a blockchain account, that instructs the blockchain to make some type of change to the distributed ledger. The action can be sent to any blockchain node acting as a gateway, that in turn broadcasts it to the entire network of nodes for verification and, eventually it get applied and stored forever in the Ledger.
 
 In IoTeX there are different types of Actions, depending on the type of operation that is required to perform:
 
-## Transfer Action
+<details>
 
-A transfer is an action initiated by an account, intended to _transfer_ a certain amount of IOTX tokens owned by that account \(_sender_\) into another account \(_recipient_\).
+<summary>Transfer Action</summary>
 
-## Execution Action
+A transfer is an action initiated by an account, intended to _transfer_ a certain amount of IOTX tokens owned by that account (_sender_) into another account (_recipient_).
 
-An execution is an action initiated by an account, intended to run the code associated with a smart contract account
+</details>
 
-## Governance Actions
+<details>
+
+<summary>Execution Action</summary>
+
+An execution is an action initiated by an account, intended to run the code associated with a smart contract account.&#x20;
+
+</details>
+
+<details>
+
+<summary>Governance Actions</summary>
 
 Governance actions are low level actions between an account and the blockchain itself, intended to manage the voting mechanism, delegate registrations and rewards.
 
@@ -28,11 +38,13 @@ Governance actions are low level actions between an account and the blockchain i
 * **Unstake** defines the action of unstake
 * **WithdrawStake** defines the action of stake withdraw
 
-Find the  structure for all IoTeX Actions in the protobuf definition on GitHub:
+</details>
+
+
+
+#### Find the  structure for all IoTeX Actions in the protobuf definition on GitHub:
 
 {% embed url="https://github.com/iotexproject/iotex-proto/blob/master/proto/types/action.proto" %}
-
-
 
 
 

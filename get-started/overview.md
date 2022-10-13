@@ -1,4 +1,4 @@
-# 🗣 Overview
+# Overview
 
 This section will focus on how to configure IoTeX native wallets, as well as other web3 wallets in order to deploy and interact with your **IoTeX dApp**.  &#x20;
 
