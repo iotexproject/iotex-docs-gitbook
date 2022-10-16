@@ -19,7 +19,7 @@ Blockchain Node: api.iotex.one:443
 }
 ```
 
-### Query Block <a id="query-block"></a>
+### Query Block <a href="#query-block" id="query-block"></a>
 
 `Usage: ioctl bc block [HEIGHT|HASH]`
 
@@ -185,9 +185,11 @@ Blockchain Node: api.testnet.iotex.one:443
 
 ```
 
-### Query Delegates <a id="query-delegates-2"></a>
+### Query Delegates <a href="#query-delegates-2" id="query-delegates-2"></a>
 
-`Usage: ioctl node delegate [-e epoch-num]`
+`Usage: ioctl node delegate [ -a | -e epoch-num]`
+
+Get the list of block producers:
 
 ```javascript
 ➜  ioctl node delegate
@@ -204,22 +206,39 @@ io1l42qgv8328h8x7pde35w3szh59elhw8nwmcy6j   cryptozoo        36           active
 
 ```
 
+Get the list of block producers in a specific epoch
+
 ```javascript
-➜  ioctl node delegate -e 18193
-Epoch: 18193,  Start block height: 11282041,Total blocks produced in epoch: 720
+➜  ioctl node delegate -e 30382
+Epoch: 30382,  Start block height: 11282041,Total blocks produced in epoch: 160
 
 Address                                     Name           Rank   Alias   Status   Blocks   ProbatedStatus    Votes
-io1jzteq7gc5sh8tfp5auz8wwj97kvdapr9y8wzne   binancevote       1                    0                        414564878.655601430673104648
-io10reczcaelglh5xmkay65h9vw3e5dp82e8vw0rz   metanyx           2                    0                        209217627.214848890340299665
-io189zlpedmhs3cg4zhyle2u8f9shkztwd3n3d7zd   satoshimusk       3           active   30                       141597514.574782833722376484
-io1tfke5nfwryte6nultpmqefadgm0dsahm2gm63k   iotexlab          4           active   30                       104544157.060103748426275375
+io1jzteq7gc5sh8tfp5auz8wwj97kvdapr9y8wzne   binancenode       1           active   7                        421189313.21951484732369643
+io10reczcaelglh5xmkay65h9vw3e5dp82e8vw0rz   metanyx           2           active   6                        214481263.190726384852101376
+io1tfke5nfwryte6nultpmqefadgm0dsahm2gm63k   iotexlab          3                    0                        167629088.879462427298828393
+io1k4gmu8uha4qgq84zyf7vdesqahm5wnwadx5mwt   unifi             4           active   6                        122598307.156432301321242613
 ...                                         ...              ..              ...   ..                            ... 
-io1l42qgv8328h8x7pde35w3szh59elhw8nwmcy6j   cryptozoo        35           active   30                       45750281.495953941578199214
-io1u4pev9u5as7ujpk29wpsrc95m8kuhec3pmuk72   hashquark        36                    0                        45337106.848622283990092254
-
+io17cmrextyfeu4gddwd89g5qncedsnc553dhz7xa   infstones        35                    0                        52488623.558764051519720611
+io1e5vwdmpkf2hpu2266hx9syu0ursqgqwv0kzrxm   enlightiv        36                    0                        49597439.555716235583198735
 ```
 
-### Query Probation List <a id="query-probation-list"></a>
+Get the full list of delegates:
+
+```javascript
+➜  ioctl node delegate -a
+Epoch: 30382,  Start block height: 20058121,Total blocks produced in epoch: 160
+
+Address                                     Name           Rank   Alias   Status   Blocks   ProbatedStatus    Votes
+io1jzteq7gc5sh8tfp5auz8wwj97kvdapr9y8wzne   binancenode       1           active   7                        421189313.21951484732369643
+io10reczcaelglh5xmkay65h9vw3e5dp82e8vw0rz   metanyx           2           active   6                        214481263.190726384852101376
+io1tfke5nfwryte6nultpmqefadgm0dsahm2gm63k   iotexlab          3                    0                        167629088.879462427298828393
+io1k4gmu8uha4qgq84zyf7vdesqahm5wnwadx5mwt   unifi             4           active   6                        122598307.156432301321242613
+...                                         ...             ...                  ...                        ...
+io1cxkxvuu4y8fhqfz8w39fdj9vsn0f0pkkwx7ums   kita             80                    0                        62313.531691564845144901
+io1t3vhcc0g0qsj4g90q64aj7gv3h0sg6y7gcp30r   citex2018        81                    0                        59458.175525066955950388
+```
+
+### Query Probation List <a href="#query-probation-list" id="query-probation-list"></a>
 
 `Usage: ioctl node probationlist [-e epoch-num]`
 
@@ -241,7 +260,7 @@ ProbationList : [
 ]
 ```
 
-### Query Reward <a id="query-reward"></a>
+### Query Reward <a href="#query-reward" id="query-reward"></a>
 
 `Usage: ioctl node reward unclaimed|pool [ALIAS|DELEGATE_ADDRESS]`
 
@@ -256,4 +275,3 @@ Total Unclaimed:	 26567469.425867808134990226 IOTX
 Total Available:	 720630085.427229243274397982 IOTX
 Total Balance:		 747197554.853097051409388208 IOTX
 ```
-
