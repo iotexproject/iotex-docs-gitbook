@@ -20,6 +20,10 @@ Pebble is a breakthrough blockchain-powered device that captures physical world 
 
 **IoT developers** who want to prototype Blockchain-based solutions, can develop their custom firmware for Pebble Tracker and take advantage of a decentralized network to receive, verify, and archive device data, ready to be used in Blockchain applications.&#x20;
 
-## Interested in firmware development? <a href="#interested-in-tech-specs" id="interested-in-tech-specs"></a>
+## Interested building Pebble dApps? <a href="#interested-in-tech-specs" id="interested-in-tech-specs"></a>
 
-Start from Pebble's [technical specifications](firmware-development/technical-specification.md)!
+Check out Pebble's full documentation 👇
+
+{% hint style="info" %}
+The **new** Pebble Docs will be released shortly. Stay tuned 😉
+{% endhint %}

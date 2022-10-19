@@ -6,9 +6,9 @@ description: >-
 
 # Official IoTeX Wallets
 
-### ****[**i**oPay](https://app.gitbook.com/o/-MQ9LhchTp7\_QJr-AYG0/s/080l6CBXDdgw6aYdnxuo/)&#x20;
+### ****[**i**oPay](https://docs.iopay.me/)&#x20;
 
-**ioPay** is the "All-in-One" mobile app to interact with the IoTeX blockchain send/receive IOTX and XRC20 tokens, execute smart contracts, stake & vote for Delegates, interact with Dapps, and much more.
+****[**ioPay**](https://docs.iopay.me/) is the "All-in-One" mobile app to interact with the IoTeX blockchain send/receive IOTX and XRC20 tokens, execute smart contracts, stake & vote for Delegates, interact with Dapps, and much more.
 
 Starting from ioPay V2, ioPay supports multi chains, including _**Ethereum**_, _**BSC**_, _**Polygon**_, _**Avalanche**_, _**Fantom**_, _**Arbitrum**_, etc.&#x20;
 
@@ -18,7 +18,7 @@ Download ioPay at [https://iopay.me](https://iopay.me/)
 
 #### Check out ioPay's Developer Docs below 👇
 
-{% embed url="https://app.gitbook.com/o/-MQ9LhchTp7_QJr-AYG0/s/080l6CBXDdgw6aYdnxuo/" %}
+{% embed url="https://docs.iopay.me/" %}
 
 ### IoTeX Desktop Wallet
 
