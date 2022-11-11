@@ -6,19 +6,21 @@ You can point any [Ethereum libraries and tools](../../web3-development/) to an 
 
 #### Mainnet
 
-| Endpoint                               | Provider         | More                                                  |
-| -------------------------------------- | ---------------- | ----------------------------------------------------- |
-| https://babel-api.mainnet.iotex.io     | IoTeX Foundation | [https://iotex.io](https://iotex.io)                  |
-| https://babel-api.mainnet.iotex.one    | IoTeX Foundation | [https://iotex.io](https://iotex.io)                  |
-| https://iotexrpc.com                   | Ankr             | [https://iotexrpc.com](https://iotexrpc.com)          |
-| https://rpc.ankr.com/iotex             | Ankr             | [https://ankr.com](https://ankr.com)                  |
-| https://iotex-rpc.gateway.pokt.network | Pocket Network   | [https://www.pokt.network](https://www.pokt.network/) |
+| Endpoint                               | Type | Provider                   | More                                      |
+| -------------------------------------- | ---- | -------------------------- | ----------------------------------------- |
+| https://babel-api.mainnet.iotex.io     | HTTP | <p>IoTeX<br>Foundation</p> | [iotex.io](https://iotex.io)              |
+| wss://babel-api.mainnet.iotex.io/ws    | WSS  | <p>IoTeX<br>Foundation</p> | [iotex.io](https://iotex.io)              |
+| https://babel-api.mainnet.iotex.one    | HTTP | IoTeX Foundation           | [iotex.io](https://iotex.io)              |
+| https://iotexrpc.com                   | HTTP | Ankr                       | [iotexrpc.com](https://iotexrpc.com)      |
+| https://rpc.ankr.com/iotex             | HTTP | Ankr                       | [ankr.com](https://ankr.com)              |
+| https://iotex-rpc.gateway.pokt.network | HTTP | <p>Pocket<br>Network</p>   | [pokt.network](https://www.pokt.network/) |
 
 **Testnet**
 
-| Endpoint                           | Text             | More                                 |
-| ---------------------------------- | ---------------- | ------------------------------------ |
-| https://babel-api.testnet.iotex.io | IoTeX Foundation | [https://iotex.io](https://iotex.io) |
+| Endpoint                            | Type | Text             | More                         |
+| ----------------------------------- | ---- | ---------------- | ---------------------------- |
+| https://babel-api.testnet.iotex.io  | HTTP | IoTeX Foundation | [iotex.io](https://iotex.io) |
+| wss://babel-api.testnet.iotex.io/ws | WSS  | IoTeX Foundation | [iotex.io](https://iotex.io) |
 
 **Example**
 
