@@ -63,9 +63,7 @@ In respect of this `EIP`, IoTeX `chainIDs` have been picked as follows:
 | IoTeX Mainnet | `4689`  |
 | IoTeX Testnet | `4690`  |
 
-##
-
-## Supported APIs
+## Supported API calls
 
 Below is the list of the currently supported APIs:
 
