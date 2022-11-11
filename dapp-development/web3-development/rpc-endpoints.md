@@ -4,7 +4,7 @@
 
 You can use any [Ethereum library and tool](../../web3-development/) with the IoTeX blockchain by simply pointing them to an IoTeX Gateway node.&#x20;
 
-Below, you find a list of official and third-party IoTeX gateways that provide an Ethereum-RPC endpoint, that you can use to configure any Ethereum wallet or developer tool to interact with the IoTeX blockchain:&#x20;
+Below, you find a list of official and third-party IoTeX gateways that [provide an Ethereum-RPC endpoint](https://delegates.iotex.io/get-started/node-configuration/run-the-node#run-as-a-gateway), that you can use to configure any Ethereum wallet or developer tool to interact with the IoTeX blockchain:&#x20;
 
 #### Mainnet \[Chain ID `4689`]
 
@@ -23,6 +23,10 @@ Below, you find a list of official and third-party IoTeX gateways that provide a
 | ----------------------------------- | ---- | ---------------- | ---------------------------- |
 | https://babel-api.testnet.iotex.io  | HTTP | IoTeX Foundation | [iotex.io](https://iotex.io) |
 | wss://babel-api.testnet.iotex.io/ws | WSS  | IoTeX Foundation | [iotex.io](https://iotex.io) |
+
+{% hint style="success" %}
+Checkout the "[Run as a Gateway](https://delegates.iotex.io/get-started/node-configuration/run-the-node#run-as-a-gateway)" section **** of the iotex [full-node documentation](https://delegates.iotex.io) to learn how to run a full node as a network RPC endpoint.
+{% endhint %}
 
 **Example**
 
