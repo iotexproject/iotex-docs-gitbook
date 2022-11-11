@@ -1,10 +1,12 @@
 # RPC Endpoints
 
-## Ethereum RPC endpoints
+## Ethereum-compatible RPC endpoints
 
-You can point any [Ethereum libraries and tools](../../web3-development/) to an IoTeX RPC node. Below you find a list of official and third-party RPC endpoints on the IoTeX blockchain that you can use with any Ethereum wallet or tool:&#x20;
+You can use any [Ethereum library and tool](../../web3-development/) with the IoTeX blockchain by simply pointing them to an IoTeX Gateway node.&#x20;
 
-#### Mainnet
+Below, you find a list of official and third-party IoTeX gateways that provide an Ethereum-RPC endpoint, that you can use to configure any Ethereum wallet or developer tool to interact with the IoTeX blockchain:&#x20;
+
+#### Mainnet \[Chain ID `4689`]
 
 | Endpoint                               | Type | Provider                   | More                                      |
 | -------------------------------------- | ---- | -------------------------- | ----------------------------------------- |
@@ -15,7 +17,7 @@ You can point any [Ethereum libraries and tools](../../web3-development/) to an 
 | https://rpc.ankr.com/iotex             | HTTP | Ankr                       | [ankr.com](https://ankr.com)              |
 | https://iotex-rpc.gateway.pokt.network | HTTP | <p>Pocket<br>Network</p>   | [pokt.network](https://www.pokt.network/) |
 
-**Testnet**
+**Testnet \[Chain ID `4690`]**
 
 | Endpoint                            | Type | Text             | More                         |
 | ----------------------------------- | ---- | ---------------- | ---------------------------- |
