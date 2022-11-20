@@ -1,6 +1,12 @@
 # W3bstream
 
-#### 👷🔨 Go [W3bstream.com](https://w3bstream.com/) to start building MachineFi dApps today
+### 👷🔨 Go to [W3bstream.com](https://w3bstream.com/) to start building MachineFi dApps today
+
+#### **W3bstream's full documentation can be found at the link below 👇**
+
+{% content-ref url="https://app.gitbook.com/o/-MQ9LhchTp7_QJr-AYG0/s/JtkzqArNKZyB89yOzCXX/" %}
+[W3bstream](https://app.gitbook.com/o/-MQ9LhchTp7\_QJr-AYG0/s/JtkzqArNKZyB89yOzCXX/)
+{% endcontent-ref %}
 
 {% hint style="warning" %}
 🚧 **This section is work-in progress** 🚧\
@@ -33,9 +39,3 @@ Typical examples include:
 * Raspberry Pis that **** work together to stress-test a website.
 * A fleet of autonomous vehicles that run an Uber-like business.
 * Solar panels trade energy in a P2P fashion.
-
-### **W3bstream's full documentation can be found by accessing the link below 👇**
-
-{% content-ref url="https://app.gitbook.com/o/-MQ9LhchTp7_QJr-AYG0/s/JtkzqArNKZyB89yOzCXX/" %}
-[W3bstream](https://app.gitbook.com/o/-MQ9LhchTp7\_QJr-AYG0/s/JtkzqArNKZyB89yOzCXX/)
-{% endcontent-ref %}
