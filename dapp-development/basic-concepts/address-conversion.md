@@ -50,9 +50,7 @@ On macOs and Linux, you can install the IoTeX official command-line client `ioct
 
 You can use the official IoTeX web tools page to convert your address: just input your address in whatever format, and you will get the other representation:
 
-{% embed url="https://member.iotex.io/tools/address-convert" %}
-IoTeX Address Conversion Tool
-{% endembed %}
+{% embed url="https://developers.iotex.io/utils/address-convert" %}
 
 Other similar tools have been developed by the community that provide the same functionality, like the following one:
 
