@@ -117,7 +117,7 @@
 ## ☘ Grants
 
 * [Halo Grants Program](grants/halo-grants-program.md)
-* [How It Works](grants/how-it-works.md)
+* [Submitting a Grant request](grants/submitting-a-grant-request.md)
 
 ## 🎆 Full Node
 
