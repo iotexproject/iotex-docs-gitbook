@@ -11,7 +11,7 @@ If you want to update the firmware over the air, you will need a **** [working I
 3. Press and keep pressing the `Up Arrow` button, then press and release the `Power/Confirm` button (while keeping the Up Arrow still pressed).&#x20;
 4. Release the up arrow once the device is powered on and you see the message “_<mark style="color:purple;">OTA Firmware Update. Connecting...</mark>_” message on the display
 5. Wait for the device to connect to the cellular network and the message “_<mark style="color:purple;">Please choose an app from the portal</mark>_” is displayed
-6. Open [portal.iotex.io](http://portal.iotex.io) in a Metamask compatible Browser, or directly inside [ioPay mobile](https://iopay.me), and connect to the èportal with your MachineFi blockchain account (you can create one by following the [get started guide](quick-start.md))
+6. Open [portal.iotex.io](http://portal.iotex.io) in a Metamask compatible Browser, or directly inside [ioPay mobile](https://iopay.me), and connect to the portal with your MachineFi blockchain account (you can create one by following the [get started guide](quick-start.md))
 7. Select the “**App Store**” tab, then locate and open the “**Firmware Upgrade**” app and click the “**Install**” button
 8. In the following dialog, select the device you want to upgrade --> ✳️
 9. Make sure your Pebble is showing the “_<mark style="color:purple;">Please, choose an app on the portal</mark>_” message on the display, and click the `Next` button
