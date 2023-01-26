@@ -18,6 +18,10 @@
   * [Mainnet Tokens](get-started/iotx-faucets/mainnet-tokens.md)
 * [IoTeX dApp Sample](get-started/iotex-dapp-starter.md)
 
+***
+
+* [Improvement Proposals](improvement-proposals.md)
+
 ## 🏗 dApp Development
 
 * [Overview](dapp-development/overview.md)
