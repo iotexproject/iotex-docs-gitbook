@@ -18,10 +18,6 @@
   * [Mainnet Tokens](get-started/iotx-faucets/mainnet-tokens.md)
 * [IoTeX dApp Sample](get-started/iotex-dapp-starter.md)
 
-***
-
-* [Improvement Proposals](improvement-proposals.md)
-
 ## 🏗 dApp Development
 
 * [Overview](dapp-development/overview.md)
@@ -129,6 +125,10 @@
 * [Run a Gateway / Rosetta API](full-node/run-a-gateway-rosetta-api/README.md)
   * [Rosetta API](full-node/run-a-gateway-rosetta-api/rosetta-api.md)
 * [Fastblocks](full-node/fastblocks.md)
+
+## 🤝 Governance
+
+* [Improvement Proposals](governance/improvement-proposals.md)
 
 ## 📕Reference
 
