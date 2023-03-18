@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[The Graph](https://thegraph.com/docs/introduction#what-the-graph-is) is a decentralized protocol for indexing and querying data from blockchains, making it possible to query data that is difficult to query directly. In the Graph architexture, [Indexers](https://thegraph.com/docs/introduction#how-the-graph-works) are the primary service provider for data queries: they store and index data, and provide the indexed data as a P2P pay-per-call API service.&#x20;
+[The Graph](https://thegraph.com/docs/introduction#what-the-graph-is) is a decentralized protocol for indexing and querying data from blockchains, making it possible to query data that is difficult to query directly. In the Graph architecture, [Indexers](https://thegraph.com/docs/introduction#how-the-graph-works) are the primary service provider for data queries: they store and index data, and provide the indexed data as a P2P pay-per-call API service.&#x20;
 
 To learn more about how The Graph works, we refer yo to the official documentation website:
 
