@@ -33,7 +33,7 @@ Depending on which tool you are using for interacting with the IoTeX blockchain,
 {% hint style="danger" %}
 **Please notice:** You should not get confused between the actual _wallet account_ and its _address representation_: while you can represent a wallet public **address** in different ways, a wallet **account** is uniquely identified with its **private key** and the actual **blockchain network** you are interacting with your wallet or tool.&#x20;
 
-So, as it's for any other Ethereum compatible chain, if your wallet is configured to interact with the IoTeX blockchain (i.e., the RPC endpoint is set to IoTeX), it doens't matter the address representation you use: you will always be sending tokens from an IoTeX blockchain account to another IoTeX Blockchain account.
+So, as it's for any other Ethereum compatible chain, if your wallet is configured to interact with the IoTeX blockchain (i.e., the RPC endpoint is set to IoTeX), it doesn't matter the address representation you use: you will always be sending tokens from an IoTeX blockchain account to another IoTeX Blockchain account.
 {% endhint %}
 
 
