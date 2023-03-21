@@ -1,6 +1,6 @@
 # Make Token Transfers
 
-The object `antenna.iotx` contains functiopns to create, sign, and send actions to the IoTeX blockchain.
+The object `antenna.iotx` contains functions to create, sign, and send actions to the IoTeX blockchain.
 
 {% tabs %}
 {% tab title="Javascript" %}

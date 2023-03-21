@@ -26,7 +26,7 @@ This page lists top IoTeX Ecosystem Coins by Market Capitalization.
 
 **Submit**: Your token is automatically ranked if you [registered it in the IoTeX ecosystem](register-your-token-in-the-ecosystem.md).
 
-## DefiLima
+## DefiLlama
 
 {% embed url="https://defillama.com/chain/IoTeX" %}
 

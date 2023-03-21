@@ -42,7 +42,7 @@ Governance actions are low level actions between an account and the blockchain i
 
 
 
-#### Find the  structure for all IoTeX Actions in the protobuf definition on GitHub:
+#### Find the structure for all IoTeX Actions in the protobuf definition on GitHub:
 
 {% embed url="https://github.com/iotexproject/iotex-proto/blob/master/proto/types/action.proto" %}
 
