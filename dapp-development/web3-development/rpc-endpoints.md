@@ -42,7 +42,7 @@ which gives you the following Ethereum address:`0xE584ca6F469c11140Bb9c4617Cb8f3
 Then you can query the Babel endpoint according to the Ethereum JSON RPC API:&#x20;
 
 ```bash
-» curl -X POST -H "Content-Type:application/json" --data '{"id": 1, "jsonrpc": "2.0", "method": "eth_getBalance", "params": ["0xE584ca6F469c11140Bb9c4617Cb8f373E38C5D46", ""]}' http://babel-api.mainnet.iotex.io
+» curl -X POST -H "Content-Type:application/json" --data '{"id": 1, "jsonrpc": "2.0", "method": "eth_getBalance", "params": ["0xE584ca6F469c11140Bb9c4617Cb8f373E38C5D46", ""]}' https://babel-api.mainnet.iotex.io
 {
   "id": 1,
   "jsonrpc": "2.0",
