@@ -37,6 +37,7 @@
   * [Truffle](web3-development/truffle.md)
   * [Hardhat](web3-development/hardhat.md)
   * [Subgraph](web3-development/subgraph.md)
+  * [Chainlink relayer](dapp-development/web3-development/chainlink-relayer.md)
 * [Native Development](native-development/README.md)
   * [Antenna SDK Overview](native-development/antenna-overview.md)
   * [Configure a local IoTeX Testnet](native-development/install-a-local-testnet.md)
