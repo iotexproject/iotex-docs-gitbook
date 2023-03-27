@@ -28,12 +28,14 @@ In respect of this `EIP`, IoTeX `chainIDs` have been picked as follow:
 | https://iotexrpc.com                   | Ankr             | [https://iotexrpc.com](https://iotexrpc.com)          |
 | https://rpc.ankr.com/iotex             | Ankr             | [https://ankr.com](https://ankr.com)                  |
 | https://iotex-rpc.gateway.pokt.network | Pocket Network   | [https://www.pokt.network](https://www.pokt.network/) |
+| https://babel-api.fastblocks.io        | Fastblocks       | [https://fastblocks.io](https://www.fastblocks.io/)   |
 
 **Testnet**
 
 | Endpoint                           | Text             | More                                 |
 | ---------------------------------- | ---------------- | ------------------------------------ |
 | https://babel-api.testnet.iotex.io | IoTeX Foundation | [https://iotex.io](https://iotex.io) |
+| https://babel-api-testnet.fastblocks.io  | Fastblocks | [https://fastblocks.io](https://www.fastblocks.io/)  |
 
 **Example**
 
