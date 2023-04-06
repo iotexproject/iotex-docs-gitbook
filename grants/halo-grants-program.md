@@ -1,4 +1,4 @@
-# Halo Grants Program
+# The Halo Program
 
 Introducing **Halo**, the official IoTeX Grants Program run by the IoTeX Foundation. **Join us in building a connected world!** The IoTeX Halo Program accelerates the growth of the IoTeX ecosystem, helps developers to launch **1,000 next-gen Dapps** around DeFi, NFT, GameFi, and most importantly, **MachineFi** topics!&#x20;
 
@@ -27,3 +27,9 @@ In addition, **we will help the best projects bootstrap into the IoTeX ecosystem
 * Dapp Directories: [https://iotexprojects.com](https://iotexprojects.com)
 * Utility Websites: [https://iotexdefi.com](https://iotexdefi.com)
 * ...and more
+
+### General Rules
+
+{% hint style="warning" %}
+&#x20;🏗 This section is work-in-progress  🏗
+{% endhint %}
