@@ -7,19 +7,20 @@ You can use any [Ethereum library and tool](../../web3-development/) with the Io
 Below, you find a list of official and third-party IoTeX gateways that [provide an Ethereum-RPC endpoint](https://delegates.iotex.io/get-started/node-configuration/run-the-node#run-as-a-gateway), that you can use to configure any Ethereum wallet or developer tool to interact with the IoTeX blockchain:&#x20;
 
 {% hint style="success" %}
-Checkout the "[Run as a Gateway](https://delegates.iotex.io/get-started/node-configuration/run-the-node#run-as-a-gateway)" section **** of the iotex [full-node documentation](https://delegates.iotex.io) to learn how to run a full node as a network RPC endpoint.
+Checkout the "[Run as a Gateway](https://delegates.iotex.io/get-started/node-configuration/run-the-node#run-as-a-gateway)" section of the iotex [full-node documentation](https://delegates.iotex.io) to learn how to run a full node as a network RPC endpoint.
 {% endhint %}
 
 #### Mainnet \[Chain ID `4689`]
 
-| Endpoint                               | Type | Provider                   | More                                      |
-| -------------------------------------- | ---- | -------------------------- | ----------------------------------------- |
-| https://babel-api.mainnet.iotex.io     | HTTP | <p>IoTeX<br>Foundation</p> | [iotex.io](https://iotex.io)              |
-| wss://babel-api.mainnet.iotex.io/ws    | WSS  | <p>IoTeX<br>Foundation</p> | [iotex.io](https://iotex.io)              |
-| https://babel-api.mainnet.iotex.one    | HTTP | IoTeX Foundation           | [iotex.io](https://iotex.io)              |
-| https://iotexrpc.com                   | HTTP | Ankr                       | [iotexrpc.com](https://iotexrpc.com)      |
-| https://rpc.ankr.com/iotex             | HTTP | Ankr                       | [ankr.com](https://ankr.com)              |
-| https://iotex-rpc.gateway.pokt.network | HTTP | <p>Pocket<br>Network</p>   | [pokt.network](https://www.pokt.network/) |
+| Endpoint                                                                                               | Type | Provider                   | More                                      |
+| ------------------------------------------------------------------------------------------------------ | ---- | -------------------------- | ----------------------------------------- |
+| https://babel-api.mainnet.iotex.io                                                                     | HTTP | <p>IoTeX<br>Foundation</p> | [iotex.io](https://iotex.io)              |
+| wss://babel-api.mainnet.iotex.io/ws                                                                    | WSS  | <p>IoTeX<br>Foundation</p> | [iotex.io](https://iotex.io)              |
+| https://babel-api.mainnet.iotex.one                                                                    | HTTP | IoTeX Foundation           | [iotex.io](https://iotex.io)              |
+| https://iotexrpc.com                                                                                   | HTTP | Ankr                       | [iotexrpc.com](https://iotexrpc.com)      |
+| https://rpc.ankr.com/iotex                                                                             | HTTP | Ankr                       | [ankr.com](https://ankr.com)              |
+| <p>https://iotex-rpc.gateway.pokt.network<br><strong>(this service is only payment-based)</strong></p> | HTTP | <p>Pocket<br>Network</p>   | [pokt.network](https://www.pokt.network/) |
+|                                                                                                        |      |                            |                                           |
 
 **Testnet \[Chain ID `4690`]**
 
@@ -50,7 +51,7 @@ Then you can query the Babel endpoint according to the Ethereum JSON RPC API:&#x
 }
 ```
 
-Which returns the balance `0x10f0cf064dd59200000` (hex) for the address, [expressed in Rau units](../basic-concepts/iotx-token.md#iotx-fractions) (i.e. 5000000000000000000000 Rau, equivalent to 5000 __ IOTX).
+Which returns the balance `0x10f0cf064dd59200000` (hex) for the address, [expressed in Rau units](../basic-concepts/iotx-token.md#iotx-fractions) (i.e. 5000000000000000000000 Rau, equivalent to 5000 IOTX).
 
 Check out the official Ethereum JSON-RPC API Documentation at:
 
