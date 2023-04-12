@@ -1,7 +1,5 @@
 # Submitting a Grant request
 
-## Submit a Grant Proposal
-
 {% hint style="warning" %}
 &#x20;🏗 This section is work-in-progress  🏗
 {% endhint %}
