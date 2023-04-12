@@ -1,19 +1,31 @@
 # Submitting a Grant request
 
-## Start a grant request
+## Submit a Grant Proposal
 
-Starting a grant request only requires you to **pick a category** from our Halo Grants community forum, and start a **new topic** there.&#x20;
+{% hint style="warning" %}
+&#x20;🏗 This section is work-in-progress  🏗
+{% endhint %}
 
-Follow the **default template** for the topic, submit, and start promoting your submission in your social channels.
+When submitting a proposal, the first step is to determine which grant tier best suits you or your team. To learn more about the four grant tiers we support, refer to [**Our Grants**](our-grants/) section in this documentation.&#x20;
 
-{% embed url="https://community.iotex.io/c/halo-grants/61" %}
+The [Developer Portal](https://developers.iotex.io/) serves as an excellent starting point for submitting your grant proposal and exploring the latest submissions from other projects. Our grants are managed through a web3 native service called [Questbook](https://questbook.app/), which promotes transparency and decentralization.
 
-## More about submitting a grant request
+Once you have selected the appropriate grant tier for your project, you will be redirected to Questbook to embark on your journey. Click on the chosen tier to access additional information, view active proposals, and participate in open discussions between builders, reviewers, and the IoTeX team. To begin the submission process, click on “Submit new.”
 
-{% embed url="https://community.iotex.io/t/submitting-a-new-proposal/3822" %}
+<figure><img src="../.gitbook/assets/Screen Shot 2023-04-11 at 9.08.44 PM.png" alt=""><figcaption></figcaption></figure>
 
-## More about the grants program
+You will now be directed to the Proposal Form, where you’ll need to provide information about yourself, the wallet you’d like to associate with the proposal (i.e., where you’d like to receive the funds), and details about the proposal itself.
 
-Read more about the Halo Grants Program:
+Be as specific as possible when describing your proposal. If you need assistance, refer to the [**Grant Verticals**](grant-verticals/) section.
 
-{% embed url="https://community.iotex.io/t/about-the-halo-grants-program/3821" %}
+When setting milestones for your proposal and determining the funding amount, ensure that you adhere to the requirements and expectations outlined for the grant tier you’re applying for. For more information, refer to [**Our Grants**](our-grants/) section.
+
+Click “Submit” when you’re ready, and your grant proposal will be recorded on the blockchain!&#x20;
+
+{% hint style="info" %}
+To stay up-to-date with the discussion and receive feedback from the IoTeX team, consider signing up for notifications.
+{% endhint %}
+
+Once live, your proposal may be approved by community reviewers or IoTeX team members, asked to make modifications, or potentially rejected.
+
+Embark on this journey as part of the IoTeX Developer Program, where you’ll have the opportunity to connect with like-minded individuals and make new friends within the community. Together, we can create innovative solutions and shape the future of the IoTeX ecosystem.&#x20;

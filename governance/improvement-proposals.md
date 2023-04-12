@@ -18,7 +18,7 @@ You can read more about _**IoTeX IIPs**_, browse past proposals and submit a new
 
 ## The Governance Portal
 
-The _**IoTeX Governance Portal**_ is _****_ powered by [Snapshot](https://snapshot.org/#/), a no-fee governance tool based on IPFS that makes it simple for decentralized networks to run open votes, polls, and referendums. \
+The _**IoTeX Governance Portal**_ is powered by [Snapshot](https://snapshot.org/#/), a no-fee governance tool based on IPFS that makes it simple for decentralized networks to run open votes, polls, and referendums. \
 \
 Follow the link below to browse through or vote on existing proposals, as well as create a new one. 👇
 

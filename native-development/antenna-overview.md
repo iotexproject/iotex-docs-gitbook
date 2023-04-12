@@ -8,15 +8,15 @@ While IoTeX fully supports the Ethereum API, allowing you to use Web3 tools for 
 
 ### Supported Languages <a href="#supported-languages" id="supported-languages"></a>
 
-**antenna-js (Javascript):** [**Installation**](antenna-installation/install-antenna-js.md) **|** [**GitHub**](https://github.com/iotexproject/iotex-antenna)****
+**antenna-js (Javascript):** [**Installation**](antenna-installation/install-antenna-js.md) **|** [**GitHub**](https://github.com/iotexproject/iotex-antenna)
 
-**antenna-java (java):** [**Installation**](antenna-installation/antenna-java.md) **|** [**GitHub**](https://github.com/iotexproject/iotex-antenna-java)****
+**antenna-java (java):** [**Installation**](antenna-installation/antenna-java.md) **|** [**GitHub**](https://github.com/iotexproject/iotex-antenna-java)
 
-**antenna-go (go lang):** [**Installation**](antenna-installation/antenna-go.md) **|** [**GitHub**](https://github.com/iotexproject/iotex-antenna-go)****
+**antenna-go (go lang):** [**Installation**](antenna-installation/antenna-go.md) **|** [**GitHub**](https://github.com/iotexproject/iotex-antenna-go)
 
-**antenna-swift (iOS):** [**Installation**](antenna-installation/antenna-swift.md) **|** [**GitHub**](https://github.com/iotexproject/iotex-antenna-swift)****
+**antenna-swift (iOS):** [**Installation**](antenna-installation/antenna-swift.md) **|** [**GitHub**](https://github.com/iotexproject/iotex-antenna-swift)
 
-**antenna-embedded (C):** [**Installation**](antenna-installation/antenna-embedded.md) **|** [**GitHub**](https://github.com/iotexproject/iotex-antenna-embedded)****
+**antenna-embedded (C):** [**Installation**](antenna-installation/antenna-embedded.md) **|** [**GitHub**](https://github.com/iotexproject/iotex-antenna-embedded)
 
 ### Features <a href="#features" id="features"></a>
 

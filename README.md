@@ -5,11 +5,11 @@ coverY: 9.29439252336447
 
 # 👋 Welcome to the IoTeX Docs
 
-****[**IoTeX**](https://iotex.io/) **** is a full-stack platform that enables the use of **trusted data** from **trusted devices** in **trusted** **decentralized applications** (dApps). IoTeX combines blockchain, secure hardware, and a layer-2 infrastructure to empower **privacy-focused** devices, apps, and services.&#x20;
+[**IoTeX**](https://iotex.io/) is a full-stack platform that enables the use of **trusted data** from **trusted devices** in **trusted** **decentralized applications** (dApps). IoTeX combines blockchain, secure hardware, and a layer-2 infrastructure to empower **privacy-focused** devices, apps, and services.&#x20;
 
-****[**MachineFi**](broken-reference) is the core methodology developed by IoTeX to financialize the utility and data stream coming from machines, incentivize their deployment, and enable composable and transparent ways of building innovative applications. More information about MachineFi can be found in the [**MachineFi Vision Paper**](https://cdn.iotex.io/machinefi/IoTeX%202.0.pdf).&#x20;
+[**MachineFi**](broken-reference) is the core methodology developed by IoTeX to financialize the utility and data stream coming from machines, incentivize their deployment, and enable composable and transparent ways of building innovative applications. More information about MachineFi can be found in the [**MachineFi Vision Paper**](https://cdn.iotex.io/machinefi/IoTeX%202.0.pdf).&#x20;
 
-The core component of every MachineFi application is **** [**W3bstream**](https://app.gitbook.com/o/-MQ9LhchTp7\_QJr-AYG0/s/JtkzqArNKZyB89yOzCXX/): An off-chain computing infrastructure serving as an open, chain-agnostic and decentralized protocol sitting in between blockchain and devices to convert real-world data streams from devices into verifiable, dApp-ready proofs.
+The core component of every MachineFi application is [**W3bstream**](http://localhost:5000/o/-MQ9LhchTp7\_QJr-AYG0/s/JtkzqArNKZyB89yOzCXX/): An off-chain computing infrastructure serving as an open, chain-agnostic and decentralized protocol sitting in between blockchain and devices to convert real-world data streams from devices into verifiable, dApp-ready proofs.
 
 ## Explore Dev Tools
 
@@ -94,7 +94,7 @@ Give your users the ability to create and control their identities. IoTeX DID ap
 
 ![](<.gitbook/assets/image (22).png>)
 
-****
+
 
 **ioctl** is the IoTeX command-line client to interact with an IoTeX Gateway Node. With **ioctl**, you can send and query actions to the blockchain, manage accounts, transfer XRC20 tokens, deploy smart contracts, create a decentralized identity, and much more!
 {% endtab %}

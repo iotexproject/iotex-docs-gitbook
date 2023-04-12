@@ -21,13 +21,13 @@ W3bstream Home Page
 
 W3bstream's full documentation can be found at the link below **👇**
 
-{% content-ref url="https://app.gitbook.com/o/-MQ9LhchTp7_QJr-AYG0/s/JtkzqArNKZyB89yOzCXX/" %}
-[W3bstream Docs](https://app.gitbook.com/o/-MQ9LhchTp7\_QJr-AYG0/s/JtkzqArNKZyB89yOzCXX/)
+{% content-ref url="http://localhost:5000/o/-MQ9LhchTp7_QJr-AYG0/s/JtkzqArNKZyB89yOzCXX/" %}
+[W3bstream Docs](http://localhost:5000/o/-MQ9LhchTp7\_QJr-AYG0/s/JtkzqArNKZyB89yOzCXX/)
 {% endcontent-ref %}
 
 ## W3bstream's use cases <a href="#use-cases" id="use-cases"></a>
 
-**W3bstream** allows the easy creation of **DAOs of** **groups of devices** or machines for a specific application. For example, blockchain **oracles** can be easily deployed: a **** group of things that work together to commit verifiable telemetry or intelligence they produced to the blockchain metaverse.&#x20;
+**W3bstream** allows the easy creation of **DAOs of** **groups of devices** or machines for a specific application. For example, blockchain **oracles** can be easily deployed: a group of things that work together to commit verifiable telemetry or intelligence they produced to the blockchain metaverse.&#x20;
 
 Below is a short list of possible oracles that can be built:
 
@@ -42,6 +42,6 @@ Below is a short list of possible oracles that can be built:
 
 Typical examples include:
 
-* Raspberry Pis that **** work together to stress-test a website.
+* Raspberry Pis that work together to stress-test a website.
 * A fleet of autonomous vehicles that run an Uber-like business.
 * Solar panels trade energy in a P2P fashion.

@@ -128,6 +128,7 @@
   * [NFT/Gaming](grants/grant-verticals/nft-gaming.md)
   * [Infra/Dev Tooling](grants/grant-verticals/infra-dev-tooling.md)
 * [Submitting a Grant request](grants/submitting-a-grant-request.md)
+* [DePIN Submission Ideas](grants/depin-submission-ideas.md)
 
 ## 🎆 Full Node
 

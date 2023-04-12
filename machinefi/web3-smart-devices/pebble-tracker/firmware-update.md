@@ -4,7 +4,7 @@ There are two options for you to update the firmware of your Pebble Tracker: OTA
 
 ### OTA Firmware Upgrade
 
-If you want to update the firmware over the air, you will need a **** [working IoT SIM card](quick-start.md#finding-a-sim-card) **** installed in your Pebble Tracker with enough credit available to download the firmware file. Follow the steps below to start the OTA firmware update:
+If you want to update the firmware over the air, you will need a [working IoT SIM card](quick-start.md#finding-a-sim-card) installed in your Pebble Tracker with enough credit available to download the firmware file. Follow the steps below to start the OTA firmware update:
 
 1. Make sure your SIM card is correctly installed in the SIM card slot of the device
 2. Power off your Pebble Tracker by pressing the `Power/Confirm` button and keeping it pressed until the status led flashes green
@@ -42,13 +42,13 @@ Please make sure you download the file ending in `.hex`
 {% tabs %}
 {% tab title="macOS" %}
 1. Download and install the latest [VCP Drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) for macOS
-2. Download, unzip and run the executable file: [`PebbleUSBTool`](https://drive.google.com/file/d/1p5aQajwehvYWe1NWelWFaJCl45mMmeqJ/view?usp=sharing)``
+2. Download, unzip and run the executable file: [`PebbleUSBTool`](https://drive.google.com/file/d/1p5aQajwehvYWe1NWelWFaJCl45mMmeqJ/view?usp=sharing)
 {% endtab %}
 
 {% tab title="Windows" %}
 1. Download and install the latest [VCP Driver](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) for Windows
 2. Download and install the latest [J-link software](https://www.segger.com/downloads/jlink/) for Windows
-3. Unzip and run the executable file: [`PebbleUSBTools.exe`](https://drive.google.com/file/d/1exM9L\_21qNQYAc92MdgKeXYK5ZHX3v3L/view?usp=sharing)``
+3. Unzip and run the executable file: [`PebbleUSBTools.exe`](https://drive.google.com/file/d/1exM9L\_21qNQYAc92MdgKeXYK5ZHX3v3L/view?usp=sharing)
 {% endtab %}
 
 {% tab title="Ubuntu" %}
