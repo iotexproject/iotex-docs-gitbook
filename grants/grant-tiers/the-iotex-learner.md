@@ -10,7 +10,10 @@ The IoTeX Learner grant is the first level of our grant program, designed to sup
 
 <summary>Requirements</summary>
 
-* Proof of community contribution / specific proven expertise
+* **Proof of community contribution:**\
+  To qualify for a grant in the IoTeX Learner tier, you need to demonstrate your active participation within the IoTeX Developer Community. You can do this by joining our **Developer Program** and signing up for the [Dev Portal](https://developers.iotex.io/), where you can contribute content to the [Developer Hub](https://developers.iotex.io/community-hub/all). One of the best ways to connect with others in our Developer Community is by participating in our weekly office hours on the [iotex\_dev](https://twitter.com/iotex\_dev) official Twitter channel or by joining our [Discord Server](https://discord.gg/iotex).
+* **Specific proven expertise:**\
+  Another important criterion for qualifying for a grant in this tier is showcasing your expertise in a relevant field. Perhaps you're an IoT developer eager to explore web3, or vice versa. You might be a web developer looking to incorporate web3 elements into your projects. Providing links to your past projects, GitHub repositories, and other relevant work will help demonstrate your expertise and strengthen your grant application.&#x20;
 
 </details>
 
@@ -18,17 +21,20 @@ The IoTeX Learner grant is the first level of our grant program, designed to sup
 
 <summary>What we expect</summary>
 
-* Contribute to the IoTeX developer portal with a tutorial, guide, or project abstract.
-* Use the hardware in the project if hardware kit requested
+* **Contribute to the IoTeX Developer Portal:**\
+  We encourage you to share your knowledge and expertise by creating a tutorial, guide, or project abstract in the [Developer Hub](https://developers.iotex.io/community-hub/all). This helps foster a collaborative learning environment within the IoTeX community and allows developers to learn from each other's experiences and skills.
+* **Utilize Hardware in Project:**\
+  If you have requested a hardware kit tailored for a specific tutorial in the academy session, we expect you to actively use the provided hardware in your project. By doing so, you can expand on the existing tutorial content, incorporate new features, or use the tutorial as a starting point to create a similar product. This not only enhances the learning experience for others in the community but also promotes innovation and growth within the IoTeX ecosystem.
 
 </details>
 
 <details>
 
-<summary>Example submission</summary>
+<summary>Submission Guidelines</summary>
 
-* Replicate one of the hardware tutorials in the academy with small changes/adaptions/improvements
+* **Enhance and Adapt an Existing Hardware Tutorial**:\
+  As an example of a project submission in this tier, you could select one of the hardware tutorials available in the IoTeX Academy and expand upon it by making small changes, adaptations, or improvements. By doing so, you will demonstrate your ability to understand and build upon existing content while showcasing your creativity and problem-solving skills. Additionally, this will provide valuable insights and updates to the original tutorial, offering a fresh perspective for other developers who may also be interested in exploring the same topic. Your contribution will not only enhance the knowledge base within the IoTeX community but also encourage further exploration and innovation in the hardware and IoT space.
 
-#### For a category specific example visit the [_**Grant Verticals**_](../grant-verticals/) page
+#### For a category specific example visit the [_**Grant Verticals**_](../grant-verticals/) page or the [DePIN Submission Ideas](../depin-submission-ideas.md) section.&#x20;
 
 </details>
