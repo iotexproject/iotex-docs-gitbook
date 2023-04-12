@@ -116,9 +116,9 @@
 
 ## ☘ Grants
 
-* [The Halo Program](grants/halo-grants-program/README.md)
+* [The Halo Program](grants/halo-grants-program.md)
   * [General rules](grants/halo-grants-program/general-rules.md)
-  * [DePIN Submission Ideas](grants/halo-grants-program/depin-submission-ideas.md)
+  * [DePIN Submission Ideas](grants/depin-submission-ideas.md)
 * [Grant Tiers](grants/grant-tiers/README.md)
   * [The IoTeX Learner](grants/grant-tiers/the-iotex-learner.md)
   * [The IoTeX Wanderer](grants/grant-tiers/the-iotex-wanderer.md)
@@ -129,7 +129,11 @@
   * [DePIN](grants/grant-verticals/depin.md)
   * [NFT/Gaming](grants/grant-verticals/nft-gaming.md)
   * [Infra/Dev Tooling](grants/grant-verticals/infra-dev-tooling.md)
-* [Submitting a Grant request](grants/submitting-a-grant-request.md)
+* [How-To](grants/how-to/README.md)
+  * [Submit a Grant request](grants/how-to/submitting-a-grant-request.md)
+  * [Request a Milestone Review](grants/how-to/request-a-milestone-review.md)
+  * [Join the discussion](grants/how-to/join-the-discussion.md)
+  * [Review a Proposal](grants/how-to/review-a-proposal.md)
 
 ## 🎆 Full Node
 

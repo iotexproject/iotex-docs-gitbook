@@ -1,22 +1,22 @@
-# Submitting a Grant request
+# Submit a Grant request
 
 {% hint style="warning" %}
 &#x20;🏗 This section is work-in-progress  🏗
 {% endhint %}
 
-When submitting a proposal, the first step is to determine which grant tier best suits you or your team. To learn more about the four grant tiers we support, refer to [**Our Grants**](grant-tiers/) section in this documentation.&#x20;
+When submitting a proposal, the first step is to determine which grant tier best suits you or your team. To learn more about the four grant tiers we support, refer to [**Our Grants**](../grant-tiers/) section in this documentation.&#x20;
 
 The [Developer Portal](https://developers.iotex.io/) serves as an excellent starting point for submitting your grant proposal and exploring the latest submissions from other projects. Our grants are managed through a web3 native service called [Questbook](https://questbook.app/), which promotes transparency and decentralization.
 
 Once you have selected the appropriate grant tier for your project, you will be redirected to Questbook to embark on your journey. Click on the chosen tier to access additional information, view active proposals, and participate in open discussions between builders, reviewers, and the IoTeX team. To begin the submission process, click on “Submit new.”
 
-<figure><img src="../.gitbook/assets/Screen Shot 2023-04-11 at 9.08.44 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-04-11 at 9.08.44 PM.png" alt=""><figcaption></figcaption></figure>
 
 You will now be directed to the Proposal Form, where you’ll need to provide information about yourself, the wallet you’d like to associate with the proposal (i.e., where you’d like to receive the funds), and details about the proposal itself.
 
-Be as specific as possible when describing your proposal. If you need assistance, refer to the [**Grant Verticals**](grant-verticals/) section.
+Be as specific as possible when describing your proposal. If you need assistance, refer to the [**Grant Verticals**](../grant-verticals/) section.
 
-When setting milestones for your proposal and determining the funding amount, ensure that you adhere to the requirements and expectations outlined for the grant tier you’re applying for. For more information, refer to [**Our Grants**](grant-tiers/) section.
+When setting milestones for your proposal and determining the funding amount, ensure that you adhere to the requirements and expectations outlined for the grant tier you’re applying for. For more information, refer to [**Our Grants**](../grant-tiers/) section.
 
 Click “Submit” when you’re ready, and your grant proposal will be recorded on the blockchain!&#x20;
 
