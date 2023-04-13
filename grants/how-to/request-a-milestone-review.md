@@ -10,6 +10,4 @@ A Milestone request message could look like this:&#x20;
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-04-12 at 8.35.10 PM.png" alt=""><figcaption></figcaption></figure>
 
-Go ahead and post your message. Someone from the reviewers team or the IoTeX team will get in touch with you shortly after and the funds will then be granted to the wallet account you provided when you created the proposal.&#x20;
-
-Now it's just a matter of keep working at your project, participate in the conversation, and reoeat the process for your next milestone!
+Feel free to post your message, and soon after, a member of the reviewers team or the IoTeX team will reach out to you. Once the milestone has been reviewed and accepted, the funds will be transferred to the wallet account you provided during the proposal creation. All that's left is to continue working on your project, engaging in meaningful conversations, and following the same process for your next milestone!
