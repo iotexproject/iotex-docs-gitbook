@@ -1,6 +1,6 @@
 # The IoTeX Wanderer
 
-Introducing the IoTeX Wanderer Grant, the next step in the IoTeX Developer Program designed for developers who are ready to explore more advanced concepts, dive into hardware implementations, and showcase their innovative spirit. As a Wanderer, you will have the opportunity to receive up to $1,500 in funding and hardware, experiment with real-world data from actual sensors, and deploy your project on the IoTeX Testnet. This tier is tailored for developers who have graduated from the IoTeX Learner tier and are eager to continue their growth within the IoTeX ecosystem, expanding their skills and making a lasting impact in areas such as DeFi, DePIN, NFT, Gaming, Infrastructure, and Developer Tooling. Embrace the challenge and become an IoTeX Wanderer!
+Introducing the IoTeX Wanderer Grant, the next step in the IoTeX Developer Grants designed for developers who are ready to explore more advanced concepts, dive into hardware implementations, and showcase their innovative spirit. As a Wanderer, you will have the opportunity to receive up to $1,500 in funding and hardware, experiment with real-world data from actual sensors, and deploy your project on the IoTeX Testnet. This tier is tailored for developers who have graduated from the IoTeX Learner tier and are eager to continue their growth within the IoTeX ecosystem, expanding their skills and making a lasting impact in areas such as DeFi, DePIN, NFT, Gaming, Infrastructure, and Developer Tooling. Embrace the challenge and become an IoTeX Wanderer!
 
 <details>
 

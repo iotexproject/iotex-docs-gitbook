@@ -1,10 +1,10 @@
 # The IoTeX Learner
 
-Introducing the IoTeX Learner Grant, the first tier of our Developer Program, specifically designed for those who are new to the IoTeX ecosystem and eager to learn. This tier offers a supportive environment for developers to familiarize themselves with the IoTeX platform, expand their knowledge, and gain hands-on experience.
+Introducing the IoTeX Learner Grant, the first tier of our Developer Grants, specifically designed for those who are new to the IoTeX ecosystem and eager to learn. This tier offers a supportive environment for developers to familiarize themselves with the IoTeX platform, expand their knowledge, and gain hands-on experience.
 
 The IoTeX Learner Grant focuses on providing resources such as test tokens, exclusive learning content, and access to our community of experienced developers. To complete this level, participants are encouraged to contribute to the Developer Community Hub by sharing a blog post, tutorial, project idea, or even a video based on what they have learned.
 
-By successfully completing the Learner Grant, developers will receive a Soul Bound Token (SBT) that unlocks the next level in their IoTeX Developer Program journey. Embark on this exciting path and unlock your potential as you contribute to the growth of the IoTeX ecosystem!
+By successfully completing the Learner Grant, developers will receive a Soul Bound Token (SBT) that unlocks the next level in their IoTeX Developer Grants journey. Embark on this exciting path and unlock your potential as you contribute to the growth of the IoTeX ecosystem!
 
 <details>
 

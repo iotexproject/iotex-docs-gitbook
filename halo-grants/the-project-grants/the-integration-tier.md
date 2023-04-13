@@ -1,6 +1,6 @@
 # The Integration Tier
 
-Introducing the Integration Tier of the IoTeX Project Program, designed specifically for projects and teams aiming to integrate their existing dApps or tools with the IoTeX ecosystem. Whether you're porting an application from another blockchain or developing a new tool such as a wallet, DeFi platform, or blockchain indexing solution, this tier is tailored to support seamless integration and collaboration. With the Integration Tier, we offer not only funding based on the project's scope, popularity, and potential impact on the IoTeX ecosystem, but also the invaluable technical support of our product and infrastructure teams. Join us in expanding the IoTeX ecosystem and making your mark on the future of decentralized technology.
+Introducing the Integration Tier of the IoTeX Project Grants, designed specifically for projects and teams aiming to integrate their existing dApps or tools with the IoTeX ecosystem. Whether you're porting an application from another blockchain or developing a new tool such as a wallet, DeFi platform, or blockchain indexing solution, this tier is tailored to support seamless integration and collaboration. With the Integration Tier, we offer not only funding based on the project's scope, popularity, and potential impact on the IoTeX ecosystem, but also the invaluable technical support of our product and infrastructure teams. Join us in expanding the IoTeX ecosystem and making your mark on the future of decentralized technology.
 
 <details>
 
