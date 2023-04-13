@@ -1,8 +1,12 @@
-# The Halo Program
+# Intro & Benefits
 
-Introducing **Halo**, the IoTeX Grants Program run by the IoTeX Foundation. Join us in building a connected world! The IoTeX Halo Grants Program accelerates the growth of the IoTeX ecosystem and empowers developers to launch next-gen Dapps around **DeFi**, **NFT**, **Gaming**, **Infrastructure/Developer Tooling**, and most importantly, **DePIN** (Decentralized Physical Infrastructure Networks) topics!
+Introducing the new **IoTeX Halo Grants Program**, managed by the IoTeX Foundation, dedicated to fostering the growth and development of the IoTeX ecosystem. The Halo Grants Program empowers developers to create innovative Dapps in the fields of **DeFi**, **NFT**, **Gaming**, **Infrastructure/Developer Tooling**, and most importantly, **DePIN** (Decentralized Physical Infrastructure Networks).
 
-The Halo Grants Program is designed for projects at any stage and skill level, featuring four distinct grant tiers: **Learner**, **Wanderer**, **Seeker**, and **Legend**. Each tier caters to different developer backgrounds and experiences, ensuring that everyone can contribute to the growth and adoption of the IoTeX technology, ecosystem, and community.
+The revamped Halo Grants Program now features two main programs: **The Developer Program** and **The Project Program**. The Developer Program, tailored for individual developers on a learning path, is divided into three tiers: **Learner**, **Wanderer**, and **Seeker**. Each tier caters to different developer backgrounds and experiences, ensuring that everyone can contribute to the growth and adoption of the IoTeX technology, ecosystem, and community.
+
+The Project Program, designed for professional developers and teams with proven experience, consists of two tiers: **The Integration Tier** and the **DePIN Incubator**. The Integration Tier focuses on projects porting Dapps or tools from other chains onto the IoTeX ecosystem, while the DePIN Incubator supports projects that either already have an existing product or possess expertise in their field, aiming to develop DePIN projects from scratch or add DePIN elements to their existing products.
+
+Embark on this exciting journey with us and help shape the future of the IoTeX ecosystem!
 
 ### **Benefits**
 

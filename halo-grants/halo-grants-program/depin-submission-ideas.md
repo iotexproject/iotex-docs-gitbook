@@ -4,7 +4,7 @@ In this section, we aim to inspire and spark your creativity with a collection o
 
 <details>
 
-<summary>DePIN Air Quality Monitoring Network (IoTeX Wanderer)</summary>
+<summary>DePIN Air Quality Monitoring Network </summary>
 
 Project Name: AirGuard
 
@@ -42,7 +42,7 @@ Total funds requested: 5,000 USDT
 
 <details>
 
-<summary>DePIN Internet Connectivity Network (IoTeX Seeker)</summary>
+<summary>DePIN Internet Connectivity Network</summary>
 
 **Project Name:** CommuniNet
 
@@ -63,7 +63,7 @@ The total amount requested for the CommuniNet project is 10,000 USDT, which fall
 
 <details>
 
-<summary>DePIN Energy Distribution Network (IoTeX Seeker)</summary>
+<summary>DePIN Energy Distribution Network </summary>
 
 **Project Name:** PowerGrid+
 
@@ -84,7 +84,7 @@ The total amount requested for the PowerGrid+ project is 10,000 USDT, which fall
 
 <details>
 
-<summary>DePIN Transportation Network (IoTeX Legend)</summary>
+<summary>DePIN Transportation Network</summary>
 
 Project Name: RideSphere
 

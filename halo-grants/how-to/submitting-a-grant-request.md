@@ -4,7 +4,7 @@
 &#x20;🏗 This section is work-in-progress  🏗
 {% endhint %}
 
-When submitting a proposal, the first step is to determine which grant tier best suits you or your team. To learn more about the four grant tiers we support, refer to the [**Grant Tiers**](../grant-tiers/) section in this documentation.&#x20;
+When submitting a proposal, the first step is to determine which grant tier best suits you or your team. To learn more about the four grant tiers we support, refer to the [**Grant Tiers**](../the-developer-program/) section in this documentation.&#x20;
 
 The [Developer Portal](https://developers.iotex.io/) serves as an excellent starting point for submitting your grant proposal and exploring the latest submissions from other projects. Our grants are managed through a web3 native service called [Questbook](https://questbook.app/), which promotes transparency and decentralization.
 
@@ -19,12 +19,12 @@ You will now be directed to the _**Proposal Form**_, where you’ll need to prov
 When you're done with your details, it's time to add your proposal details!&#x20;
 
 {% hint style="info" %}
-Be as specific as possible when describing your proposal. If you need assistance, refer to the [**Grant Verticals**](../grant-verticals/) section or to the [**DePIN Submission Ideas**](../depin-submission-ideas.md) page.&#x20;
+Be as specific as possible when describing your proposal. If you need assistance, refer to the [**Grant Verticals**](../grant-verticals/) section or to the [**DePIN Submission Ideas**](../halo-grants-program/depin-submission-ideas.md) page.&#x20;
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-04-12 at 12.49.55 PM.png" alt=""><figcaption></figcaption></figure>
 
-When setting milestones for your proposal and determining the funding amount, ensure that you adhere to the requirements and expectations outlined for the grant tier you’re applying for. For more information, refer to the [**Grant Tiers**](../grant-tiers/) section.
+When setting milestones for your proposal and determining the funding amount, ensure that you adhere to the requirements and expectations outlined for the grant tier you’re applying for. For more information, refer to the [**Grant Tiers**](../the-developer-program/) section.
 
 Submit when you're ready to go, and your grant proposal will be recorded on the blockchain!&#x20;
 
