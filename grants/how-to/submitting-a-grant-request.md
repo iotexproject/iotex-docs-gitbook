@@ -34,10 +34,10 @@ While we encourage you to be as comprehensive as possible in your proposal, keep
 
 Once your proposal has been successfully created, you have the option of subscribing to live Telegram notifications, which will make the communication between your team, reviewers and the IoTeX Team much more efficient.&#x20;
 
-Once live, your proposal may be approved by community reviewers or IoTeX team members, asked to make modifications, or potentially rejected.
+Once live, your proposal may be approved by community reviewers or IoTeX team members, asked to make modifications, or potentially rejected. If you get a tag like the one highlighted in the image below, it means that your proposal has been accepted.
 
-Congratulations 🎉, your proposal is live! You should now see a screen similar to the one below! Anyone in the community can now see and join the discussion on your project.&#x20;
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-04-12 at 4.23.03 PM.png" alt=""><figcaption></figcaption></figure>
+
+In the meantime, you should now see a screen similar to the one just above. Anyone in the community can now see and join the discussion on your project. The goal is to have an open and transparent conversation and allow the community to participate in the decision making process.&#x20;
 
 Use this page to communicate with your reviewers or the IoTeX team, and to submit your milestones for review! **You're now officially part of the Halo Grants Program!**&#x20;
-
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-04-12 at 1.07.32 PM.png" alt=""><figcaption></figcaption></figure>
