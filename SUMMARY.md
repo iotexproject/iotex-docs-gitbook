@@ -150,7 +150,7 @@
 
 ## 📕Reference
 
-* [Ethereum API](reference/babel-web3-api.md)
+* [Ethereum API Compatibility](reference/babel-web3-api.md)
 * [iotex-core - gRPC API](reference/node-core-api-grpc.md)
 * [ioctl cli - Reference](reference/ioctl-cli-reference/README.md)
   * [Accounts](reference/ioctl-cli-reference/accounts.md)
