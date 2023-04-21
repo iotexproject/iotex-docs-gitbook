@@ -4,13 +4,13 @@
 &#x20;🏗 This section is work-in-progress  🏗
 {% endhint %}
 
-When submitting a proposal, the first step is to determine which grant tier best suits you or your team. To learn more about the four grant tiers we support, refer to the [**Grant Tiers**](../developer-grants/) section in this documentation.&#x20;
+When submitting a proposal, the first step is to determine which grant tier best suits you or your team. To learn more about the most appropriate grant for you or your team, refer to the either the [**Developer Grants**](../../dapp-development/developer-grants.md) or the [**Projects Grants**](../project-grants/) sections in this documentation.&#x20;
 
 The [Developer Portal](https://developers.iotex.io/) serves as an excellent starting point for submitting your grant proposal and exploring the latest submissions from other projects. Our grants are managed through a web3 native service called [Questbook](https://questbook.app/), which promotes transparency and decentralization.
 
-Once you have selected the appropriate grant tier for your project, you will be redirected to Questbook to embark on your journey. Click on the chosen tier to access additional information, view active proposals, and participate in open discussions between builders, reviewers, and the IoTeX team.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-04-12 at 12.37.08 PM.png" alt=""><figcaption></figcaption></figure>
+
+Once you have selected the appropriate grant tier for your project, you will be redirected to Questbook to embark on your journey. Click on the chosen tier to access additional information, view active proposals, and participate in open discussions between builders, reviewers, and the IoTeX team.&#x20;
 
 You will now be directed to the _**Proposal Form**_, where you’ll need to provide information about yourself, you email and the wallet you’d like to associate with the proposal (i.e., where you’d like to receive the funds), as well as the details about the proposal itself.
 

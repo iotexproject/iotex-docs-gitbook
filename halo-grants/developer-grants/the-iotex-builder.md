@@ -1,6 +1,6 @@
 # The IoTeX Builder
 
-Introducing the IoTeX Builder Grant, the third and most advanced tier of the IoTeX Developer Grants. Designed for experienced developers who have successfully completed both the IoTeX Learner and Explorer tiers, the Builder Grant offers up to $5,000 or $10,000 in funds and hardware to support the development of sophisticated, innovative projects.
+Introducing the IoTeX Builder Grant, the third and most advanced tier of the IoTeX Developer Grants. Designed for experienced developers who have successfully completed both the IoTeX Learner and Explorer tiers, the Builder Grant offers up to **3,000 USDT** in funds and hardware to support the development of sophisticated, innovative projects.
 
 As an IoTeX Builder, you'll have the opportunity to dive deeper into the IoTeX ecosystem, exploring the full potential of decentralized applications (dApps) using IoTeX and W3bstream. You'll work on more complex projects, such as developing DePIN solutions, creating W3bstream-compatible smart devices, or launching simple NFT games, all while deploying your projects on the IoTeX Testnet and possibly even the Mainnet, depending on your application.
 
