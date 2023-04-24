@@ -68,7 +68,7 @@
   * [Have your contract audited](launch-dapp/have-your-contract-audited.md)
   * [Submit to dApp Portals](launch-dapp/submit-your-project-to-dapp-portals.md)
   * [Dev Tools](dapp-development/launch-dapp/dev-tools.md)
-* [Developer Grants](dapp-development/developer-grants.md)
+* [Halo Grants](dapp-development/developer-grants.md)
 * [IoTeX Academy](smart-contracts/README.md)
   * [Deploy a token in Remix IDE](dapp-development/smart-contracts/deploy-using-remix.md)
 
@@ -132,9 +132,9 @@
   * [NFT/Gaming](halo-grants/grant-verticals/nft-gaming.md)
   * [Infra/Dev Tooling](halo-grants/grant-verticals/infra-dev-tooling.md)
 * [How-To](halo-grants/how-to/README.md)
-  * [Submit a Grant request](halo-grants/how-to/submitting-a-grant-request.md)
+  * [Submit a Grant Request](halo-grants/how-to/submitting-a-grant-request.md)
   * [Request a Milestone Review](halo-grants/how-to/request-a-milestone-review.md)
-  * [Join the discussion](halo-grants/how-to/join-the-discussion.md)
+  * [Join the Discussion](halo-grants/how-to/join-the-discussion.md)
   * [Review a Proposal](halo-grants/how-to/review-a-proposal.md)
 
 ## 🎆 Full Node
