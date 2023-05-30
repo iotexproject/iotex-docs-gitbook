@@ -1,8 +1,8 @@
-# Developer Grants
+# Halo Grants
 
 Introducing the new and improved Halo Grants Program, designed to empower developers to create and launch next-generation decentralized applications (DApps) across various verticals, including **DeFi**, **NFT**/**Gaming**, **Infra/Dev Tooling**, and most importantly, **DePIN** (Decentralized Private Infrastructure Networks).
 
-The Halo Grants Program now features two main grants: The Developer Grants and The Project Grants. The **Developer Grants** are designed for individual developers with different skill sets and experiences, consisting of three distinct tiers – The IoTeX **Learner**, The IoTeX **Explorer**, and The IoTeX **Builder**. These tiers guide developers through a progressive learning path, culminating in the completion of the IoTeX Developer Program.
+The Halo Grants Program now features two main grants: The Developer Grants and The Project Grants. The **Developer Grants** are designed for individual developers with different skill sets and experiences, consisting of three distinct tiers – The IoTeX **Learner**, The IoTeX **Explorer**, and The IoTeX **Builder**.&#x20;
 
 On the other hand, The **Project Grants** are tailored for established web3 or IoT companies, with two focused tiers: The **Integration Tier** and The **DePIN Incubator**. These tiers are aimed at supporting the integration of existing projects into the IoTeX ecosystem and fostering the development of new DePIN projects from scratch.
 

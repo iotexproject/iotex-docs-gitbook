@@ -1,13 +1,13 @@
 # The IoTeX Explorer
 
-Introducing the IoTeX Explorer Grant, the next step in the IoTeX Developer Grants designed for developers who are ready to explore more advanced concepts, dive into hardware implementations, and showcase their innovative spirit. As an Explorer, you will have the opportunity to receive up to **1,000 USDT** in funding and hardware, experiment with real-world data from actual sensors, and deploy your project on the IoTeX Testnet. This tier is tailored for developers who have graduated from the IoTeX Learner tier and are eager to continue their growth within the IoTeX ecosystem, expanding their skills and making a lasting impact in areas such as DeFi, DePIN, NFT, Gaming, Infrastructure, and Developer Tooling. Embrace the challenge and become an IoTeX Explorer!
+This grant is intended for developers who want to focus on a particular component of our framework, such as creating a device prototype ([**RPi, Arduino, ESP32**](https://docs.w3bstream.com/client-device-sdks/introduction)), a [**W3bstream applet**](https://docs.w3bstream.com/applets-development/w3bstream-applet-kits), or a project configuration with a specific purpose (e.g. an applet, an indexer and an event routing strategy that are designed for a **DePIN** use case of your choice).
+
+This grant offers up to **500 USDT** (in hardware and funds) depending on your existing user base and your skills level. If you don't have much of a user base, or you're just starting out, don't fret, we would still help you with your hardware, and we'll give you some community shoutouts.
 
 <details>
 
 <summary>Requirements</summary>
 
-* **Successfully complete the IoTeX Learner tier:** \
-  To qualify for the IoTeX Wanderer Grant, you need to have successfully completed the IoTeX Learner tier and obtained the Soul Bound Token (SBT).
 * **Adequate technical expertise:** \
   Showcase your technical skills and experience in relevant fields, such as web development, IoT, or web3. Provide links to past projects, GitHub repositories, or other relevant work to strengthen your application.
 
@@ -21,22 +21,29 @@ Introducing the IoTeX Explorer Grant, the next step in the IoTeX Developer Grant
   We expect you to maintain your active participation within the IoTeX Developer Community by sharing your knowledge, experiences, and project updates.
 * **Utilize W3bstream and, if requested, hardware in your projects:** \
   We expect you to integrate W3bstream and, if applicable, utilize the hardware kit in your project to experiment with real-world data and explore hardware implementations.
-* **Deploy a project on IoTeX Testnet:** \
-  Develop a proof of concept or minimum viable product (MVP) that demonstrates your innovative spirit and technical capabilities, and deploy it on the IoTeX Testnet.
 
 </details>
 
 <details>
 
-<summary>Submission Guidelines</summary>
+<summary>Eligible Contributions</summary>
 
-* **Project proposal:** \
-  Submit a well-structured project proposal detailing the project's concept, the W3bstream integration, and hardware implementations (if applicable). Describe how your project will contribute to the IoTeX ecosystem and what you hope to achieve with the Wanderer Grant.
-* **Milestones:** \
-  Outline the specific milestones for your project, including deliverables, timelines, and expected outcomes. This will help the review team better understand your project's scope and evaluate its potential impact on the IoTeX ecosystem.
-* **Showcase past experience:** \
-  Provide examples of your previous work, including any relevant projects or contributions to the IoTeX Developer Community, to demonstrate your expertise and commitment to the growth and adoption of IoTeX technology.
+In order to submit a successful proposal for this grant, you'll have to adhere to either of these guidelines:&#x20;
 
-#### For a category specific example visit the [_**Grant Verticals**_](../grant-verticals/) page or the [DePIN Submission Ideas](../halo-grants-program/depin-submission-ideas.md) section.&#x20;
+* Publish a well-crafted, working tutorial on the [_**community hub**_](https://developers.iotex.io/community-hub/all)
+* Publish a polished video tutorial on **youtube**
+* Publish a tutorial on _**Hackster**_, or on a similarly popular hub that directs readers/audience to our [_**docs**_](https://docs.iotex.io/), [_**dev portal**_](https://developers.iotex.io/), [_**W3bstream docs**_](https://docs.w3bstream.com/introduction/readme), etc...
 
 </details>
+
+{% hint style="info" %}
+⚠️ **NOTE**: You don't have to necessarily provide a **GitHub** repository (although you're definitely encouraged 😉). A written or video tutorial will be enough to be eligible for this grant.
+{% endhint %}
+
+{% hint style="info" %}
+Keep in mind that you'll have to **provide a link to your work**, so make sure you're happy with what you've done before moving on with the application. You can always reach out to our [**Discord Server**](https://discord.gg/iotex) with any question or for any support.
+{% endhint %}
+
+Once you're good to go, have learned a lot of have finally crafted a nice piece of content you're proud to share with the rest of the community, you can start filling out the form below and complete your application 👇
+
+{% embed url="https://form.typeform.com/to/GALonxd4" %}

@@ -1,19 +1,32 @@
 # The IoTeX Learner
 
-Introducing the IoTeX Learner Grant, the first tier of our Developer Grants, specifically designed for those who are new to the IoTeX ecosystem and eager to learn. This tier offers a supportive environment for developers to familiarize themselves with the IoTeX platform, expand their knowledge, and gain hands-on experience.
+The IoTeX Learner Grant is the first tier of our Developer Grants, specifically designed for those who are new to the IoTeX ecosystem and eager to learn. This tier offers a supportive environment for developers to familiarize themselves with the IoTeX platform, expand their knowledge, and gain hands-on experience.
 
-The IoTeX Learner Grant focuses on providing resources such as test tokens, exclusive learning content, and access to our community of experienced developers. To complete this level, participants are encouraged to contribute to the Developer Community Hub by sharing a blog post, tutorial, project idea, or even a video based on what they have learned.
+The IoTeX Learner Grant focuses on providing resources such as test tokens, learning content, and access to our community of experienced developers. To complete this grant and get their SBT token, devs will have to pass a short live test with one of our team members.&#x20;
 
-By successfully completing the Learner Grant, developers will receive a Soul Bound Token (SBT) that unlocks the next level in their IoTeX Developer Grants journey. Embark on this exciting path and unlock your potential as you contribute to the growth of the IoTeX ecosystem!
+{% hint style="info" %}
+**Does the word **_**"test"**_** sound scary to you?** 👻 \
+No worries, we're here to help you and give you all the resources necessary to succeed.
+
+Our test is a simple interview based on the following content:
+
+* Knowledge of IoTeX blockchain fundamentals**:** \
+  [**IoTeX Wallet**](https://docs.iotex.io/get-started/iotex-wallets)**,** [**Obtaining Test $IOTX Tokens**](https://docs.iotex.io/get-started/iotx-faucets)**,** [**Blockchain Specs**](https://docs.iotex.io/dapp-development/basic-concepts/blockchain-specs), and [**Web3 Development**](https://docs.iotex.io/dapp-development/web3-development)
+* What is W3bstream and its importance: \
+  [**Intro to W3bstream**](https://docs.w3bstream.com/introduction/readme), and [**W3bstream Basic Concepts**](https://docs.w3bstream.com/get-started/basic-concepts)
+* [**Deploying and Testing a W3bstream "Hello World" Applet**](https://docs.w3bstream.com/get-started/deploying-an-applet)
+
+
+{% endhint %}
+
+Below you'll also find a list of requirements and expectations we have of our applicants:&#x20;
 
 <details>
 
 <summary>Requirements</summary>
 
 * **Active participation in the IoTeX Developer Community:** \
-  Join the Developer Program, sign up for the Dev Portal, and engage with fellow developers in the community.
-* **Showcase your expertise in a relevant field:** \
-  Provide links to past projects, GitHub repositories, or other relevant work that demonstrate your skills and interest in blockchain and the IoTeX ecosystem.
+  Sign up for the Dev Portal, and engage with fellow developers in the community, through are various activities.&#x20;
 
 </details>
 
@@ -21,27 +34,18 @@ By successfully completing the Learner Grant, developers will receive a Soul Bou
 
 <summary>What we expect</summary>
 
-* **Contribute to the IoTeX Developer Portal:** \
-  Share your knowledge and expertise by creating a tutorial, guide, project abstract, or blog post on the Developer Hub.
+* **Learn the basics of the IoTeX Tech Stack**\
+  (This is content we mentioned in the section above)\
+
 * **Actively participate in the learning process:** \
   Utilize the resources provided, engage with fellow IoTeX developers, and continuously improve your skills and understanding of the platform.
 
 </details>
 
-<details>
+{% hint style="info" %}
+Remember, if anything is unclear, or if you even have any question or need support, you can always find us on our [**Discord server**](https://discord.gg/iotex)
+{% endhint %}
 
-<summary>Submission Guidelines</summary>
+When you're ready to embark on this journey, use the form below to apply for this grant and schedule the short interview with one of out team members:&#x20;
 
-As an example of a project submission for this tier, you could choose a topic from the IoTeX Academy and create content that builds upon or complements the existing material. This can be in the form of a blog post, tutorial, or video, showcasing your understanding of the topic and your ability to contribute valuable insights to the community. Your submission should demonstrate your creativity, problem-solving skills, and commitment to the growth of the IoTeX ecosystem.
-
-To apply for the IoTeX Learner Grant, please submit the following:
-
-1. A brief introduction of yourself, including your background, skills, and interests in the blockchain and IoTeX ecosystem.
-2. A short description of the content you plan to create during the Learner Grant, highlighting your chosen topic and format (e.g., blog post, tutorial, video).
-3. Proof of your active participation in the IoTeX Developer Community and any relevant expertise you possess, such as links to past projects or GitHub repositories.
-
-Upon receiving your submission, our team will review it and provide feedback on your proposed content. Once approved, you will gain access to the resources and support necessary to complete the Learner Grant and progress to the next tier in the IoTeX Developer Program.&#x20;
-
-#### For a category specific example visit the [_**Grant Verticals**_](../grant-verticals/) page or the [DePIN Submission Ideas](../halo-grants-program/depin-submission-ideas.md) section.&#x20;
-
-</details>
+{% embed url="https://form.typeform.com/to/KEl0njRl" %}
