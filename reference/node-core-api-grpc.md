@@ -6,16 +6,11 @@ When running in "Gateway" mode, an IoTeX node exposes both the IoTeX native API 
 
 #### Mainnet
 
-| Endpoint                  | Provider         | More                                 |
-| ------------------------- | ---------------- | ------------------------------------ |
-| api.iotex.one:443         | IoTeX Foundation | [https://iotex.io](https://iotex.io) |
-| api.mainnet.iotex.one:443 | IoTeX Foundation | [https://iotex.io](https://iotex.io) |
+<table><thead><tr><th width="272.4995649735719">Endpoint</th><th width="150">Provider</th><th>More</th></tr></thead><tbody><tr><td>api.iotex.one:443</td><td>IoTeX Foundation</td><td><a href="https://iotex.io">https://iotex.io</a></td></tr><tr><td>api.mainnet.iotex.one:443</td><td>IoTeX Foundation</td><td><a href="https://iotex.io">https://iotex.io</a></td></tr></tbody></table>
 
 **Testnet**
 
-| Endpoint                  | Text             | More                                 |
-| ------------------------- | ---------------- | ------------------------------------ |
-| api.testnet.iotex.one:443 | IoTeX Foundation | [https://iotex.io](https://iotex.io) |
+<table><thead><tr><th width="259.6129258403768">Endpoint</th><th width="150">Text</th><th>More</th></tr></thead><tbody><tr><td>api.testnet.iotex.one:443</td><td>IoTeX Foundation</td><td><a href="https://iotex.io">https://iotex.io</a></td></tr></tbody></table>
 
 ### **gRPC API Reference**
 

@@ -116,6 +116,7 @@
 
 ## ☘ Halo Grants
 
+* [Summary](halo-grants/summary.md)
 * [Intro & Benefits](halo-grants/halo-grants-program/README.md)
   * [General rules](halo-grants/halo-grants-program/general-rules.md)
   * [DePIN Submission Ideas](halo-grants/halo-grants-program/depin-submission-ideas.md)

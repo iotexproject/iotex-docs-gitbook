@@ -12,22 +12,11 @@ Checkout the "[Run as a Gateway](https://delegates.iotex.io/get-started/node-con
 
 #### Mainnet \[Chain ID `4689`]
 
-| Endpoint                                                                                               | Type | Provider                   | More                                      |
-| ------------------------------------------------------------------------------------------------------ | ---- | -------------------------- | ----------------------------------------- |
-| https://babel-api.mainnet.iotex.io                                                                     | HTTP | <p>IoTeX<br>Foundation</p> | [iotex.io](https://iotex.io)              |
-| wss://babel-api.mainnet.iotex.io/ws                                                                    | WSS  | <p>IoTeX<br>Foundation</p> | [iotex.io](https://iotex.io)              |
-| https://babel-api.mainnet.iotex.one                                                                    | HTTP | IoTeX Foundation           | [iotex.io](https://iotex.io)              |
-| https://iotexrpc.com                                                                                   | HTTP | Ankr                       | [iotexrpc.com](https://iotexrpc.com)      |
-| https://rpc.ankr.com/iotex                                                                             | HTTP | Ankr                       | [ankr.com](https://ankr.com)              |
-| <p>https://iotex-rpc.gateway.pokt.network<br><strong>(this service is only payment-based)</strong></p> | HTTP | <p>Pocket<br>Network</p>   | [pokt.network](https://www.pokt.network/) |
-|                                                                                                        |      |                            |                                           |
+<table><thead><tr><th width="362.4995649735719">Endpoint</th><th width="118">Type</th><th width="129">Provider</th><th>More</th></tr></thead><tbody><tr><td>https://babel-api.mainnet.iotex.io</td><td>HTTP</td><td>IoTeX<br>Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr><tr><td>wss://babel-api.mainnet.iotex.io/ws</td><td>WSS</td><td>IoTeX<br>Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr><tr><td>https://babel-api.mainnet.iotex.one</td><td>HTTP</td><td>IoTeX Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr><tr><td>https://iotexrpc.com</td><td>HTTP</td><td>Ankr</td><td><a href="https://iotexrpc.com">iotexrpc.com</a></td></tr><tr><td>https://rpc.ankr.com/iotex</td><td>HTTP</td><td>Ankr</td><td><a href="https://ankr.com">ankr.com</a></td></tr><tr><td>https://iotex-rpc.gateway.pokt.network<br><strong>(this service is only payment-based)</strong></td><td>HTTP</td><td>Pocket<br>Network</td><td><a href="https://www.pokt.network/">pokt.network</a></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 **Testnet \[Chain ID `4690`]**
 
-| Endpoint                            | Type | Text             | More                         |
-| ----------------------------------- | ---- | ---------------- | ---------------------------- |
-| https://babel-api.testnet.iotex.io  | HTTP | IoTeX Foundation | [iotex.io](https://iotex.io) |
-| wss://babel-api.testnet.iotex.io/ws | WSS  | IoTeX Foundation | [iotex.io](https://iotex.io) |
+<table><thead><tr><th width="362.5471637775761">Endpoint</th><th width="120">Type</th><th width="127">Text</th><th>More</th></tr></thead><tbody><tr><td>https://babel-api.testnet.iotex.io</td><td>HTTP</td><td>IoTeX Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr><tr><td>wss://babel-api.testnet.iotex.io/ws</td><td>WSS</td><td>IoTeX Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr></tbody></table>
 
 **Example**
 
@@ -65,10 +54,7 @@ The `chainID` chain identifier was introduced by Ethereum in [`EIP-155`](https:/
 
 In respect of this `EIP`, IoTeX `chainIDs` have been picked as follows:
 
-| Network       | chainID |
-| ------------- | ------- |
-| IoTeX Mainnet | `4689`  |
-| IoTeX Testnet | `4690`  |
+<table><thead><tr><th width="298">Network</th><th>chainID</th></tr></thead><tbody><tr><td>IoTeX Mainnet</td><td><code>4689</code></td></tr><tr><td>IoTeX Testnet</td><td><code>4690</code></td></tr></tbody></table>
 
 ## Supported API calls
 

@@ -14,9 +14,9 @@ Embark on this exciting journey with us and help shape the future of the IoTeX e
 
 The IoTeX Foundation provides technical guidance, financial support, marketing support, community engagement, and investment opportunities for builders, both technical and non-technical!
 
-**Mailing list with 70,000+ subscribers** — Got a great project? We will feature it in our newsletter. Be front and center for all crypto users in our community.
+**Mailing list with 100,000+ subscribers** — Got a great project? We will feature it in our newsletter. Be front and center for all crypto users in our community.
 
-**Be a part of our bi-weekly ecosystem highlights** — Get your name in the know with IoTeX community amplification.
+**Be a part of our ecosystem highlights** — Get your name in the know with IoTeX community amplification.
 
 **Exposure to thousands of new users through IoPay Wallet** — Our breakthrough wallet ioPay is used by over 100,000 users monthly.
 
@@ -41,9 +41,5 @@ Yield Farming Calculators: [https://vfat.tools](https://vfat.tools)
 DeFi Dashboards: [https://defillama.com](https://defillama.com)
 
 VC Bootstrapping Platforms: [https://mcn.ventures](https://mcn.ventures)
-
-Dapp Directories: [https://iotexprojects.com](https://iotexprojects.com)
-
-Utility Websites: [https://iotexdefi.com](https://iotexdefi.com)
 
 …and more
