@@ -46,17 +46,15 @@ Introducing the DePIN Incubator, a specialized tier within the IoTeX Project Gra
 * **Nature of your project:**\
   It would be good for you and your team to include some of the following info about the nature of your project. Is your project open source? Are you committing to staking a certain amount of IOTX tokens on the IoTeX chain? Are you thinking of donating a percentage of your tokens to the IoTeX Foundation? \
   **NOTE** that this info is not required, nor will it impact the outcome of your proposal, but it's definitely great to include if it applies to you in any way.&#x20;
-* **Integration plan:** \
-  Outline the steps your team will take to integrate the dApp or tool with the IoTeX ecosystem, including the estimated timeline and required resources.
 * **Team information:** \
   Introduce your team members, their roles, and their relevant experience or skills that will contribute to the success of the integration.
 * **Funding request:** \
-  Specify the amount of funding requested, along with a clear breakdown of how the funds will be utilized throughout the integration process.
+  Specify the amount of funding requested, along with a clear breakdown of how the funds will be utilized throughout the process.
 * **Milestones**: \
-  Define the key milestones for your project, including expected completion dates and measurable outcomes to gauge progress.
-* **Technical documentation:** \
-  Provide any technical documentation necessary for the IoTeX team to understand the project and its requirements, including architectural diagrams, API specifications, or other relevant technical materials.
+  Define the key milestones for your project, including expected completion dates and measurable outcomes to gauge progress. Please refer to the [**Milestone Guidelines** ](the-depin-incubator.md#milestone-guidelines)section above.&#x20;
 * **Budget breakdown:** \
   Provide a detailed breakdown of the project budget, specifying how the requested funds will be allocated, and any additional resources required to complete the project.
+* **Relevant Links:**\
+  It's never too much. Feel free to share all relevant links that you think would help reviewers and community members better understand your project.&#x20;
 
 </details>
