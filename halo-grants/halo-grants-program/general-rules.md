@@ -1,9 +1,5 @@
 # General rules
 
-{% hint style="warning" %}
-&#x20;🏗 This section is work-in-progress  🏗
-{% endhint %}
-
 Establishing a clear set of rules for grant proposal submissions is essential to ensure a fair, transparent, and efficient process for all participants. Adherence to these guidelines will enable the IoTeX Foundation to effectively evaluate, support, and fund projects that contribute to the growth and success of the IoTeX ecosystem.
 
 1. Grant payments will be exclusively made in USDT tokens on the IoTeX Blockchain from the IoTeX Safe, ensuring a seamless and transparent funding process for all approved projects.

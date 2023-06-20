@@ -132,11 +132,6 @@
   * [DePIN](halo-grants/grant-verticals/depin.md)
   * [NFT/Gaming](halo-grants/grant-verticals/nft-gaming.md)
   * [Infra/Dev Tooling](halo-grants/grant-verticals/infra-dev-tooling.md)
-* [How-To](halo-grants/how-to/README.md)
-  * [Submit a Grant Request](halo-grants/how-to/submitting-a-grant-request.md)
-  * [Request a Milestone Review](halo-grants/how-to/request-a-milestone-review.md)
-  * [Join the Discussion](halo-grants/how-to/join-the-discussion.md)
-  * [Review a Proposal](halo-grants/how-to/review-a-proposal.md)
 
 ## 🎆 Full Node
 
