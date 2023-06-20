@@ -30,8 +30,16 @@ The Integration Tier of the IoTeX Project Grants is designed specifically for pr
   We encourage projects to stick to 3 milestones, unless strictly necessary.
 * **Completion Time:** \
   Completing a submission should not take much more than 3 months (if you're applying for a larger project, think about splitting it into multiple submissions)
-* **Metrics:**\
-  Each milestone should be directly connected to verifiable and measurable metrics (**minimum TVL**, **transaction volume**, **number of users**, etc...). You need to also be able to show how these metrics have been maintained of a certain period of time.&#x20;
+*   **Metrics:**\
+    Each milestone should be directly connected to verifiable and measurable metrics (**minimum TVL**, **transaction volume**, **number of users**, etc...). You need to also be able to show how these metrics have been maintained of a certain period of time. \
+
+
+    Some **example metrics** might look like this (⚠️ NOTE: These are examples, you'll have to determine the more appropriate way of quantifying deliverables over a certain perdio of time based on your project):&#x20;
+
+    * _**1M USD of TVL** (Total Transaction Locked) on IoTeX consistently over time, e.g. 2 months_
+    * _More than **20,000 blockchain transactions** consistently over time, e.g. 3 months_
+    * _Twitter marketing mentioning IoTeX, e.g. minimum **1 Tweet/day over one month**, with a minimum number of "**n**" impressions overall_\
+
 * **Funds distribution across milestones:**\
   15% - 25% - 60%
 
