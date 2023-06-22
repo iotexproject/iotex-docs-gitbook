@@ -25,18 +25,26 @@ Introducing the DePIN Incubator, a specialized tier within the IoTeX Project Gra
 
 <summary>Milestone Guidelines</summary>
 
+For each milestone, payouts will be issued on a monthly basis for 1 year, meaning that each milestone amount will be divided by 12 (months) and paid monthly if the relevant metric has been met for that month. Since the success of a milestone is assessed by the team monthly, it's important to keep the metrics consistent over time.&#x20;
+
 * **Number of Milestones:** \
   We encourage projects to stick to 3 or 4 milestones, unless strictly necessary.
 * **Completion Time:** \
   Completing a submission should not take much more than 6 months (if you're applying for a larger project, think about splitting it into multiple submissions)
 *   **Metrics:**\
-    Each milestone should be directly connected to verifiable and measurable metrics (**number of active devices, volume of IoT data, minimum TVL**, **transaction volume**, **number of users**, etc...). You need to also be able to show how these metrics have been maintained of a certain period of time. \
+    Remember that these metrics are assessed monthly, and should be consistent over time. While these are the **ONLY** metrics we accept, it is up to you to attach an amount to them that is proportional to the funding you're requesting.
+
+    \- **TVL** (Total Value Locked)
+
+    \- **Transaction Volume**
+
+    \- **Community Engagement**\
 
 
-    Some **example metrics** might look like this (⚠️ NOTE: These are examples, you'll have to determine the more appropriate way of quantifying deliverables over a certain perdio of time based on your project):&#x20;
+    Some **example metrics** might look like this:&#x20;
 
-    * _**1M USD of TVL** (Total Transaction Locked) on IoTeX consistently over time, e.g. 2 months_
-    * _More than **20,000 blockchain transactions** consistently over time, e.g. 3 months_
+    * _**1M USD of TVL** (Total Transaction Locked) on IoTeX per month_
+    * _More than **20,000 daily blockchain transactions** consistently over 1 month_
     * _Twitter marketing mentioning IoTeX, e.g. minimum **1 Tweet/day over one month**, with a minimum number of "**n**" impressions overall_\
 
 * **Funds distribution across milestones:**\
