@@ -1,10 +1,10 @@
 # JWT Tokens
 
-### What is JWT <a id="what-is-jwt"></a>
+### What is JWT <a href="#what-is-jwt" id="what-is-jwt"></a>
 
-JWT \(JSON Web Token\) is a very popular technology widely used in web API and user authentication. It contains certain access control claims, such as what data/resource can be access, the access expire time, and access rights \(read, write, or delete\).
+JWT (JSON Web Token) is a very popular technology widely used in web API and user authentication. It contains certain access control claims, such as what data/resource can be access, the access expire time, and access rights (read, write, or delete).
 
-The token is base64-encoded and digitally signed using a secret \(with the _HMAC_ algorithm\) or a private key. By verifying the signature it can be guaranteed that the claims must come from the holder of the signing key.
+The token is base64-encoded and digitally signed using a secret (with the _HMAC_ algorithm) or a private key. By verifying the signature it can be guaranteed that the claims must come from the holder of the signing key.
 
 In a nutshell, JWT consists of three parts separated by dot . , which are
 
@@ -16,7 +16,7 @@ In a nutshell, JWT consists of three parts separated by dot . , which are
 
 Here is an example of a JWT encoded token:
 
-```text
+```
 eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.
 eyJleHAiOjE2MDU4NzIyNDksImlhdCI6MTYwODE2ODQ0NywiaXNzIjoiMHgwNDFkMjRiNDc0ZjM5YzVmMTBlNjlmZmNmMzhlZjA4ZmViY2U4ZTNkMGZmNWFjOWI0YzMzNjA2OWI1ZDEwYmNjMGZjN2MxNDNhNDQwMTRmMTQ5YWFkNzQ3YWMwNTJmNzhmMDZiODA3M2I0YzA0NWI0NGJlMWFiYTIzMTM3ZTcxNjFlIiwic3ViIjoid2VhdGhlciIsInNjb3BlIjoiQ3JlYXRlIn0.
 i3KHZTmF1jWKIDSBOF1BWEg4G7C4H7BIdshS0uzz45687UU3K2Uzey3R5Qs7QrHrsU0J99PeR7i_Qc03wVYVjw
@@ -24,13 +24,13 @@ i3KHZTmF1jWKIDSBOF1BWEg4G7C4H7BIdshS0uzz45687UU3K2Uzey3R5Qs7QrHrsU0J99PeR7i_Qc03
 
 Decoding the header part:
 
-```text
+```
 eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9
 ```
 
-gives the following header, indicating it is signed by ES256 algorithm \(256-bit Elliptic-curve Signature\):
+gives the following header, indicating it is signed by ES256 algorithm (256-bit Elliptic-curve Signature):
 
-```text
+```
 {
   "alg": "ES256",
   "typ": "JWT"
@@ -39,13 +39,13 @@ gives the following header, indicating it is signed by ES256 algorithm \(256-bit
 
 Decoding the payload part:
 
-```text
+```
 eyJleHAiOjE2MDU4NzIyNDksImlhdCI6MTYwODE2ODQ0NywiaXNzIjoiMHgwNDFkMjRiNDc0ZjM5YzVmMTBlNjlmZmNmMzhlZjA4ZmViY2U4ZTNkMGZmNWFjOWI0YzMzNjA2OWI1ZDEwYmNjMGZjN2MxNDNhNDQwMTRmMTQ5YWFkNzQ3YWMwNTJmNzhmMDZiODA3M2I0YzA0NWI0NGJlMWFiYTIzMTM3ZTcxNjFlIiwic3ViIjoid2VhdGhlciIsInNjb3BlIjoiQ3JlYXRlIn0.
 ```
 
 gives the following claims:
 
-```text
+```
 {
   "exp": 1608193125,
   "iat": 1608168517,
@@ -58,31 +58,31 @@ gives the following claims:
 where:
 
 * `"exp"` is the token's expiration time
-* `"iat"` is the token's issue time \(you can convert date/time [here](https://www.unixtimestamp.com/)\)
+* `"iat"` is the token's issue time (you can convert date/time [here](https://www.unixtimestamp.com/))
 * `"iss"` is the public key of issuer
 * `"sub"` is the subject, here it refers to a resource/data named **weather**
 * `"scope"` is the access control rights granted for the resource, here it allows to **create**
 
 The signature in our example is:
 
-```text
+```
 i3KHZTmF1jWKIDSBOF1BWEg4G7C4H7BIdshS0uzz45687UU3K2Uzey3R5Qs7QrHrsU0J99PeR7i_Qc03wVYVjw
 ```
 
 that can be verified against the issuer public key `iss` above.
 
-### Use ioctl to issue JWT <a id="use-ioctl-to-issue-jwt"></a>
+### Use ioctl to issue JWT <a href="#use-ioctl-to-issue-jwt" id="use-ioctl-to-issue-jwt"></a>
 
 Every account ioctl created contains a pair of 256-bit private/public key. We can use it to sign and issue JWT:
 
-```text
-➜  ioctl jwt sign --with-arguments '{"exp":"1608193125","sub":"weather","scope":"Create"}' -s cat -y
-Enter password #cat
+```json
+➜  ioctl jwt sign --with-arguments '{"exp":"1608193125","sub":"weather","scope":"Create"}' -s my_account -y
+Enter password #my_account
 ```
 
 Enter your password to sign the token:
 
-```text
+```
 JWT token: eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDgxOTMxMjUsImlhdCI6MTYwODE2ODUxNywiaXNzIjoiMHgwNDFkMjRiNDc0ZjM5YzVmMTBlNjlmZmNmMzhlZjA4ZmViY2U4ZTNkMGZmNWFjOWI0YzMzNjA2OWI1ZDEwYmNjMGZjN2MxNDNhNDQwMTRmMTQ5YWFkNzQ3YWMwNTJmNzhmMDZiODA3M2I0YzA0NWI0NGJlMWFiYTIzMTM3ZTcxNjFlIiwic3ViIjoid2VhdGhlciIsInNjb3BlIjoiQ3JlYXRlIn0.CaFvEKa44KsNLZghTKNWrvMI0QK3Yn9YVKpmh8feYCDhWu7McibXnApFopzTUaKlJB-duZVYvsTvffsndYsYig
 
 signed by:
@@ -99,4 +99,3 @@ with following claims:
   "sub": "weather"
 }
 ```
-
