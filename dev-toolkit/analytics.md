@@ -12,7 +12,7 @@ Access to the analytics API requires an API token, which you can obtain using th
 ioctl jwt sign --with-arguments '{"exp":"1767024000","sub":"AnalyserAPI","scope":"Read"}' -s user
 ```
 
-See the [ioctl reference documentation](../reference/ioctl-cli-reference/#install) on how to install and use the tool.
+See the [ioctl reference documentation](../reference/ioctl-cli-reference/#install) on how to install the tool and hot to use it to [sign a message](https://docs.iotex.io/reference/ioctl-cli-reference/accounts#sign-a-message).
 
 After generating the token, you can use it to access the API and perform the necessary operations.&#x20;
 
