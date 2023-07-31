@@ -71,6 +71,7 @@
 * [Halo Grants](dapp-development/developer-grants.md)
 * [IoTeX Academy](smart-contracts/README.md)
   * [Deploy a token in Remix IDE](dapp-development/smart-contracts/deploy-using-remix.md)
+  * [See all articles](https://developers.iotex.io/academy)
 
 ## 🤖 MachineFi
 
@@ -98,10 +99,8 @@
 
 ## 🧰 Dev Toolkit
 
-* [ioTube](dev-toolkit/iotube-the-iotex-bridge.md)
-* [Analytics](dev-toolkit/analytics.md)
-* [MachineFi Portal](dev-toolkit/machinefi-portal.md)
-* [Developer Portal](dev-toolkit/developer-portal.md)
+* [ioTube Bridge](dev-toolkit/iotube-the-iotex-bridge.md)
+* [Chain Analytics API](dev-toolkit/analytics.md)
 * [Decentralized Identity](dev-toolkit/decentralized-identity/README.md)
   * [Overview](dev-toolkit/decentralized-identity/overview.md)
   * [Self-Managed Contract Interface](dev-toolkit/decentralized-identity/self-managed-contract-interface.md)
@@ -113,6 +112,7 @@
   * [Verifiable Credentials](dev-toolkit/decentralized-identity/verifiable-credentials.md)
   * [Security Considerations](dev-toolkit/decentralized-identity/security-considerations.md)
   * [References](dev-toolkit/decentralized-identity/references.md)
+* [Developer Portal](dev-toolkit/developer-portal.md)
 
 ## ☘ Halo Grants
 

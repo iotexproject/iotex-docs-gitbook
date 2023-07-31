@@ -21,8 +21,8 @@ W3bstream Home Page
 
 W3bstream's full documentation can be found at the link below **👇**
 
-{% content-ref url="http://localhost:5000/o/-MQ9LhchTp7_QJr-AYG0/s/JtkzqArNKZyB89yOzCXX/" %}
-[W3bstream Docs](http://localhost:5000/o/-MQ9LhchTp7\_QJr-AYG0/s/JtkzqArNKZyB89yOzCXX/)
+{% content-ref url="http://127.0.0.1:5000/o/-MQ9LhchTp7_QJr-AYG0/s/JtkzqArNKZyB89yOzCXX/" %}
+[W3bstream Docs](http://127.0.0.1:5000/o/-MQ9LhchTp7\_QJr-AYG0/s/JtkzqArNKZyB89yOzCXX/)
 {% endcontent-ref %}
 
 ## W3bstream's use cases <a href="#use-cases" id="use-cases"></a>

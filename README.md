@@ -9,7 +9,7 @@ coverY: 9.29439252336447
 
 [**MachineFi**](broken-reference) is the core methodology developed by IoTeX to financialize the utility and data stream coming from machines, incentivize their deployment, and enable composable and transparent ways of building innovative applications. More information about MachineFi can be found in the [**MachineFi Vision Paper**](https://cdn.iotex.io/machinefi/IoTeX%202.0.pdf).&#x20;
 
-The core component of every MachineFi application is [**W3bstream**](http://localhost:5000/o/-MQ9LhchTp7\_QJr-AYG0/s/JtkzqArNKZyB89yOzCXX/): An off-chain computing infrastructure serving as an open, chain-agnostic and decentralized protocol sitting in between blockchain and devices to convert real-world data streams from devices into verifiable, dApp-ready proofs.
+The core component of every MachineFi application is [**W3bstream**](http://127.0.0.1:5000/o/-MQ9LhchTp7\_QJr-AYG0/s/JtkzqArNKZyB89yOzCXX/): An off-chain computing infrastructure serving as an open, chain-agnostic and decentralized protocol sitting in between blockchain and devices to convert real-world data streams from devices into verifiable, dApp-ready proofs.
 
 ## Explore Dev Tools
 
