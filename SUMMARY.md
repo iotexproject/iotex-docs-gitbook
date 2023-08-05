@@ -75,11 +75,11 @@
 
 ## 🤖 MachineFi
 
-* [Intro to MachineFi](machinefi/intro-to-machinefi/README.md)
-  * [IoT Device Onboarding](machinefi/intro-to-machinefi/iot-device-onboarding.md)
-  * [Node Onboarding](machinefi/intro-to-machinefi/node-onboarding.md)
-  * [MachineFi dApp Launching](machinefi/intro-to-machinefi/machinefi-dapp-launching.md)
-* [W3bstream Network](machinefi/w3bstream.md)
+* [About MachineFI](machinefi/intro-to-machinefi.md)
+* [IoT Device Onboarding](machinefi/iot-device-onboarding.md)
+* [Layer-2 Nodes Onboarding](machinefi/node-onboarding.md)
+* [DApp Launch Process](machinefi/machinefi-dapp-launching.md)
+* [W3bstream (Layer-2 Infra)](https://docs.w3bstream.com/introduction/readme)
 * [Web3 Smart Devices](machinefi/web3-smart-devices/README.md)
   * [Pebble Tracker](machinefi/web3-smart-devices/pebble-tracker/README.md)
     * [Quick Start](machinefi/web3-smart-devices/pebble-tracker/quick-start.md)
