@@ -2,7 +2,7 @@
 
 The **IoTeX Project Grants** is comprehensive grant initiative specifically designed to support and accelerate the growth of established web3 and IoT companies within the IoTeX ecosystem. The Project Grants focus on two primary tiers: [**The Integration Tier**](the-integration-tier.md) and the [**DePIN Incubator**](the-depin-incubator.md), catering to projects with varying needs and objectives.
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-04-21 at 11.52.57 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-08-23 at 2.57.29 PM.png" alt=""><figcaption></figcaption></figure>
 
 The Integration Tier supports projects and tools that are being ported or integrated from other blockchain ecosystems into the IoTeX network. This includes, but is not limited to, DeFi platforms, wallets, blockchain indexing tools, and more. The DePIN Incubator is tailored for projects that either have an existing product and wish to integrate real-world data (DePIN) or have proven expertise and aim to build a DePIN solution from scratch.
 

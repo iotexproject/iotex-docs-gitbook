@@ -2,6 +2,24 @@
 
 The easiest way to deploy an XRC20 token on IoTeX is using Remix IDE in conjunction with Metamask. We will deploy the reference implementation from Openzeppelin of a [preset ERC20 token with fixed supply and burnable](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v4.2/contracts/token/ERC20/presets/ERC20PresetMinterPauser.sol).&#x20;
 
+### Hints for first timers 👇
+
+{% hint style="info" %}
+**If this is your first smart contract deployment**, and you're not really sure where to start from, or if you maybe find some of the following concepts unclear, these are some useful links to official resources: \
+\
+1\) [**Intro to Ethereum Smart Contracts**](https://ethereum.org/en/developers/docs/smart-contracts/)\
+2\) [**Intro to Smart Contracts Deployment**](https://ethereum.org/en/developers/docs/smart-contracts/deploying/) \
+3\) [**Intro to Development Frameworks**](https://ethereum.org/en/developers/docs/frameworks/)
+{% endhint %}
+
+{% hint style="info" %}
+Please note that in this section we'll make use of [**OpenZeppelin**](https://www.openzeppelin.com/defender), "a platform to develop, deploy and operate smart contract projects on Ethereum and every other EVM and eWASM-powered blockchain". OpenZeppelin also offers a whole set of community audited smart contracts. You can check out their **GitHub** repository [**here**](https://github.com/OpenZeppelin/openzeppelin-sdk).&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+Once **deployment is done**, you might want to think about registering your token and including it in the IoTeX Ecosystem tools such as the [block explorer](https://iotexscan.io) and the official [ioPay wallets](https://iotex.io/iopay). You can learn all about registering your token [**here**](../../launch-dapp/register-your-token-in-the-ecosystem.md).&#x20;
+{% endhint %}
+
 ## 1. Configure Metamask
 
 Make sure you configured Metamask for use with the IoTeX Blockchain and that the IoTeX network, whether its mainnet or testnet, is actually selected in Metamask:
