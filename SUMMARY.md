@@ -71,7 +71,7 @@
 * [Halo Grants](dapp-development/developer-grants.md)
 * [IoTeX Academy](smart-contracts/README.md)
   * [Deploy a token in Remix IDE](dapp-development/smart-contracts/deploy-using-remix.md)
-  * [See all articles](https://developers.iotex.io/academy)
+  * [Tutorials](https://developers.iotex.io/academy)
 
 ## 🤖 MachineFi
 
