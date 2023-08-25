@@ -55,7 +55,7 @@
     * [Interact with ioPay Desktop](native-development/reference-code/interact-with-iopay-desktop.md)
     * [Create a DID JWT](native-development/reference-code/create-a-did-jwt.md)
     * [Call any RPC method](native-development/reference-code/call-any-rpc-method.md)
-* [Hardware](dapp-development/arduino-and-more/README.md)
+* [IoT IoTeX Client](dapp-development/arduino-and-more/README.md)
   * [Arduino IDE](dapp-development/arduino-and-more/arduino-ide.md)
   * [Linux](dapp-development/arduino-and-more/linux.md)
   * [PlatformIO](dapp-development/arduino-and-more/platformio.md)
