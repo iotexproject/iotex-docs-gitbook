@@ -11,7 +11,7 @@ The full implementation of IIP-13 can be [found on GitHub here](https://github.c
 
 ### System Staking Contract Addresses
 
-The source code of the Staking Contract code can be [found on GitHub here](https://github.com/iotexproject/iip13-contracts/blob/main/src/SystemStaking.sol):thumbsup:
+The source code of the Staking Contract code can be [found on GitHub here](https://github.com/iotexproject/iip13-contracts/blob/main/src/SystemStaking.sol):
 
 {% embed url="https://github.com/iotexproject/iip13-contracts/blob/main/src/SystemStaking.sol" %}
 
