@@ -4,4 +4,4 @@ Staking on IoTeX L1 is implemented natively, which prevents direct interaction w
 
 The subsequent sections of this documentation provide comprehensive reference material to engage with staking buckets on IoTeX using these contracts and offer essential examples.
 
-For a deeper dive, please refer to IIP-13. [IIP-13](https://github.com/iotexproject/iips/blob/master/iip-13.md).
+For a deeper dive, please refer to [IIP-13](https://github.com/iotexproject/iips/blob/master/iip-13.md).
