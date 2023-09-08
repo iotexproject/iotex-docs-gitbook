@@ -43,6 +43,7 @@
   * [Submit to dApp Portals](the-iotex-stack/launch-dapp/submit-your-project-to-dapp-portals.md)
   * [Deploy a token in Remix IDE](the-iotex-stack/launch-dapp/deploy-using-remix.md)
   * [Dev Tools](the-iotex-stack/launch-dapp/dev-tools.md)
+* [Verifiable Compute (W3bstream)](the-iotex-stack/verifiable-compute-w3bstream.md)
 * [IoTeX Academy](the-iotex-stack/smart-contracts.md)
 * [IoTeX Nodes](the-iotex-stack/iotex-nodes/README.md)
   * [Mine IoTeX](the-iotex-stack/iotex-nodes/mine-iotex.md)
@@ -87,7 +88,6 @@
     * [PlatformIO](the-iotex-stack/reference/embedded-development/platformio.md)
     * [Examples](the-iotex-stack/reference/embedded-development/examples.md)
     * [Tutorials](the-iotex-stack/reference/embedded-development/tutorials.md)
-* [W3bstream](the-iotex-stack/w3bstream.md)
 
 ## Use Cases
 
