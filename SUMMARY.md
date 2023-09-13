@@ -97,6 +97,7 @@
 ## 🧰 Dev Toolkit
 
 * [Developer Portal](dev-toolkit/developer-portal.md)
+* [Account Abstraction](dev-toolkit/account-abstraction.md)
 * [ioTube Bridge](dev-toolkit/iotube-the-iotex-bridge.md)
 * [Chain Analytics API](dev-toolkit/analytics.md)
 * [Decentralized Identity](dev-toolkit/decentralized-identity/README.md)
