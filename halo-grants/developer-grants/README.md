@@ -1,6 +1,6 @@
 # Developer Grants
 
-Welcome to the IoTeX **Developer Grants**, a key component of the newly restructured Halo Grants Program. These grants are targeted at individual developers with diverse skill sets and backgrounds to explore, create, and innovate within the IoTeX ecosystem.
+Welcome to the IoTeX **Developer Grants**, a key component of the newly restructured Halo Grants Program. These grants are targeted at individual developers with diverse skill sets and backgrounds to explore, create, and innovate within the [IoTeX ecosystem](https://ecosystem.iotex.io/).
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-08-23 at 2.57.09 PM.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,6 +1,6 @@
 # DePIN Submission Ideas
 
-In this section, we aim to inspire and spark your creativity with a collection of intriguing DePIN project ideas. For builders who may be new to the world of Decentralized Private Infrastructure Networks or those seeking inspiration for their next groundbreaking project, we’ve curated a selection of innovative concepts that demonstrate the potential of DePIN within the IoTeX ecosystem. Let these ideas ignite your imagination and guide you towards developing unique solutions that can revolutionize the way we interact with both digital and physical worlds. Happy building!
+In this section, we aim to inspire and spark your creativity with a collection of intriguing [**DePIN**](https://iotex.io/blog/what-are-decentralized-physical-infrastructure-networks-depin/) project ideas. For builders who may be new to the world of Decentralized Private Infrastructure Networks or those seeking inspiration for their next groundbreaking project, we’ve curated a selection of innovative concepts that demonstrate the potential of [**DePIN**](https://iotex.io/blog/what-are-decentralized-physical-infrastructure-networks-depin/) within the [**IoTeX**](https://iotex.io/) ecosystem. Let these ideas ignite your imagination and guide you towards developing unique solutions that can revolutionize the way we interact with both digital and physical worlds. Happy building!
 
 <details>
 

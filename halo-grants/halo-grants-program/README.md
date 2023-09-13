@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2023-04-21 at 12.05.29 PM.png" alt=""><figcaption></figcaption></figure>
 
-Introducing the new **IoTeX Halo Grants Program**, managed by the IoTeX Foundation, dedicated to fostering the growth and development of the IoTeX ecosystem. The Halo Grants Program empowers developers to create innovative Dapps in the fields of **DeFi**, **NFT**, **Gaming**, **Infrastructure/Developer Tooling**, and most importantly, **DePIN** (Decentralized Physical Infrastructure Networks).
+Introducing the new **IoTeX Halo Grants Program**, managed by the [**IoTeX**](https://iotex.io/) Foundation, dedicated to fostering the growth and development of the IoTeX ecosystem. The Halo Grants Program empowers developers to create innovative Dapps in the fields of **DeFi**, **NFT**, **Gaming**, **Infrastructure/Developer Tooling**, and most importantly, **DePIN** (Decentralized Physical Infrastructure Networks).
 
 The revamped Halo Grants Program now features two main programs: **The Developer Grants** and **The Project Grants**. The Developer Grants, tailored for individual developers on a learning path, is divided into three tiers: **Learner**, **Explorer**, and **Builder**. Each tier caters to different developer backgrounds and experiences, ensuring that everyone can contribute to the growth and adoption of the IoTeX technology, ecosystem, and community.
 
