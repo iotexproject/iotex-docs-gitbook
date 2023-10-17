@@ -1,12 +1,5 @@
 # Liquid Staking Solutions
 
-{% hint style="info" %}
-🚧 **Work in Progress!**\
-This section is currently under construction. Please check back soon for updates. We appreciate your patience and enthusiasm for IoTeX!
-
-Feel free to explore the rest of the [Staking docs ->](./)
-{% endhint %}
-
 ## Overview
 
 Staking in the IoTeX blockchain is implemented natively, which prevents direct interaction with smart contracts. While IIP12 addressed the the possibility of accessing the full staking protocol from the Ethereum JSON API with a virtual contract, it is not a real EVM smart contract and thus is not visible and cannot be executed by other smart contracts.
