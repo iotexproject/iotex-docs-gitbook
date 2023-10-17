@@ -108,7 +108,7 @@ function candidates(uint32 offset, uint32 limit) external view returns (IStaking
 
 ### Changing the StakeLock status
 
-When a new staking bucket is created using the SystemStaking conatrct, the default state of teh StakeLock option is enabled. In this situation, the bucket is locked for the bucket's lock duration time, and will persist in this state without the lock duration to decrease. While enabling the StakeLock option guarantees increased rewards, in order the be able to unstake a bucket at a specific time, you must ensure that the StakeLock option has been disabled for the bucket ahead of time (exactly the number of days of the lock duration).&#x20;
+When a new staking bucket is created using the SystemStaking contract, the StakeLock option is enabled by default. In this state, the bucket remains locked for its designated lock duration, and this duration does not decrease over time. While the activated StakeLock option ensures higher rewards, if you plan to unstake a bucket at a specific time, you must deactivate the StakeLock option for that bucket well in advance, specifically the same number of days as the lock duration.
 
 ```solidity
 // Disables StakeLock for a bucket
