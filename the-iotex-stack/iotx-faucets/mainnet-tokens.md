@@ -1,5 +1,7 @@
 # Mainnet Tokens
 
+If you are an investors interested in purchasing the IoTeX (IOTX) token, in this document we aim to provide you with a clear and detailed overview of all available options for acquiring IOTX. Here, you'll find insights about each option, ensuring you can make an informed decision.
+
 ## Buy on Centralized Exchanges (CEXs)
 
 IoTeX (IOTX), the native token of the IoTeX Blockchain, is a cryptocurrency token that can be bought on various cryptocurrency exchanges. It be found on exchanges such as:
@@ -36,11 +38,14 @@ Visit the[ IoTeX Ecosystem](https://ecosystem.iotex.io/?tag=Exchange,Wallet) pag
 **You need the IOTX Native Token to Stake**
 
 Please be aware that for the purpose of staking, you will need the Native IOTX token (i.e., on the IoTeX Network). Any synthetic or mirrored versions of the IOTX token on different blockchains, including the IOTX ERC20 token on Ethereum, will not be suitable for this purpose. If you own these tokens, you will need to exchange them for the Native IOTX Token on the IoTeX Network to achieve the full benefits of using the IOTX token.
+
+[Learn more about Staking on IoTeX ->](../reference/ioctl-cli-reference/staking-and-voting.md)
 {% endhint %}
 
 {% hint style="info" %}
 **About the IOTX ERC20 Token**
 
-Most of the IOTX token supply is allocated to the IoTeX Blockchain in the form of the so-called IOTX Native token. A smaller portion still resides on the Ethereum blockchain as the IOTX ERC20 Token. This allocation dates back to when the IoTeX Blockchain was still in development. These tokens can be swapped for the IOTX Native token at any time using the ioTube Bridge.\
-&#x20;[Swap your ERX20 IOTX Tokens on ioTube ->](https://iotube.org)
+Most of the IOTX token supply is allocated to the IoTeX Blockchain in the form of the so-called IOTX Native token. A smaller portion still resides on the Ethereum blockchain as the IOTX ERC20 Token. This allocation dates back to when the IoTeX Blockchain was still in development. These tokens can be swapped for the IOTX Native token at any time using the ioTube Bridge.
+
+[Swap your ERX20 IOTX Tokens on ioTube ->](https://iotube.org)
 {% endhint %}
