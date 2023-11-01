@@ -13,7 +13,9 @@ Using `curl`:
 ```bash
 # install ioctl latest stable
 curl https://raw.githubusercontent.com/iotexproject/iotex-core/master/install-cli.sh | sh
+```
 
+```bash
 # install ioctl latest unstable build
 curl https://raw.githubusercontent.com/iotexproject/iotex-core/master/install-cli.sh | sh -s "unstable"
 ```
@@ -25,7 +27,9 @@ Using `brew`:
 ```bash
 # install ioctl latest stable
 brew install ioctl
+```
 
+```bash
 # install ioctl latest unstable build
 brew install ioctl-unstable
 ```
@@ -35,7 +39,9 @@ Using `curl`:
 ```bash
 # install ioctl latest stable
 curl https://raw.githubusercontent.com/iotexproject/iotex-core/master/install-cli.sh | sh
+```
 
+```bash
 # install ioctl latest unstable build
 curl https://raw.githubusercontent.com/iotexproject/iotex-core/master/install-cli.sh | sh -s "unstable"
 ```
