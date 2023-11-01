@@ -12,7 +12,9 @@ This guide is currently under development to ensure its accuracy and thoroughnes
 
 ## Why Should You Care About Staking? <a href="#why-should-you-care-about-staking" id="why-should-you-care-about-staking"></a>
 
-A core part of decentralized governance in the IoTeX Network is staking, where token holders deposit (“stake”) IOTX to facilitate network operations, consensus, and governance. By staking, token holders enhance the security of the IoTeX Network and earn IOTX rewards in return. IoTeX utilizes [Roll-DPoS consensus](https://res.cloudinary.com/dokc3pa1x/image/upload/v1559623484/Research%20Paper/Academic\_Paper\_Yellow\_Paper.pdf?ref=iotex.io) (Randomized Delegated Proof-of-Stake), where community-voted Delegates manage consensus on behalf of the IoTeX Network. Anyone can stake their IOTX and vote for one or more Delegates.
+A core part of decentralized governance in the IoTeX Network is staking, where token holders deposit (“stake”) IOTX to facilitate network operations, consensus, and governance. By staking, token holders enhance the security of the IoTeX Network and earn IOTX rewards in return. IoTeX utilizes [Roll-DPoS consensus](https://github.com/iotexproject/files/blob/main/publications/Academic\_Paper\_Yellow\_Paper.pdf) (Randomized Delegated Proof-of-Stake), where community-voted Delegates manage consensus on behalf of the IoTeX Network. Anyone can stake their IOTX and vote for one or more Delegates.
+
+[View the Roll-DPoS Consensus <mark style="color:yellow;">Yellow Paper</mark> ->](https://github.com/iotexproject/files/blob/main/publications/Academic\_Paper\_Yellow\_Paper.pdf)
 
 ## The IoTeX Staking Portal <a href="#what-e2-80-99s-new-with-the-iotex-staking-portal" id="what-e2-80-99s-new-with-the-iotex-staking-portal"></a>
 
@@ -22,18 +24,9 @@ ioPay 2.0 offers in-app staking for mobile users as well. The [ioPay User Guide]
 
 This guide will help you navigate the actions and choices available to you when you stake and unstake your IOTX. Thanks for being a vital part of the IoTeX community by being a staker.
 
-Before we get rolling, **check out** [**the latest IoTeX Staking Page**](https://stake.iotex.io/?ref=iotex.io) **here**. Specific information on the Delegates and the percentages they pay for staking can vary. This is where you’ll get that up-to-date information. Onwards!
+Before we get rolling, **check out** [**the latest IoTeX Staking Portal**](https://stake.iotex.io/?ref=iotex.io) **here**. Specific information on the Delegates and the percentages they pay for staking can vary. This is where you’ll get that up-to-date information. Onwards!
 
-## Where to buy IOTX <a href="#where-to-buy-iotx" id="where-to-buy-iotx"></a>
-
-#### To buy native IOTX: <a href="#to-buy-native-iotx" id="to-buy-native-iotx"></a>
-
-* With a debit/credit card directly on [mimo DEX](https://mimo.exchange/?ref=iotex.io#/creditcard) (you don't ever have to leave the ioPay app!)
-* Crypto.com
-* Kucoin
-* Bitmart
-* Binance (Note: US residents cannot buy IOTX on Binance.us)
-* (And more)
+## &#x20;<a href="#where-to-buy-iotx" id="where-to-buy-iotx"></a>
 
 Coinbase currently only offers the ERC20 version of IOTX.
 

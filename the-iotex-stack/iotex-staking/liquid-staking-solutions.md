@@ -32,8 +32,8 @@ In this section we explore in details how to interact with the SystemStaking con
 
 ### Setting up the Environment
 
-1. When developing your Liquid Staking contract, ensure you include the `IStakingSource` contract interface from the [`IIP13` repository](https://github.com/iotexproject/iip13-contracts).
-2. Ensure your client contract implements `IERC721Receiver`, as it will receive the NFT Bucket from the `SystemStaking` contract upon staking creation.
+1. When developing your Liquid Staking contract, ensure you include the [`ISystemStaking`](https://github.com/iotexproject/iip13-contracts/blob/main/src/ISystemStaking.sol) contract interface from the [`IIP13` repository](https://github.com/iotexproject/iip13-contracts).
+2. Ensure your client contract implements [`IERC721Receiver`](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/IERC721Receiver.sol), as it will receive the NFT Bucket from the `SystemStaking` contract upon staking creation.
 
 ```solidity
 import "./ISystemStaking.sol"; 
