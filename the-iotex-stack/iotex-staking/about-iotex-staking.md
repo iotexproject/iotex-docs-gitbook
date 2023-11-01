@@ -16,7 +16,7 @@ Information about estimated staking returns can be sourced from third-party serv
 ## The staking guide
 
 Staking in IoTeX offers great flexibility. Therefore, it's recommended that newcomers review the staking guide in this section. This will help you understand the various concepts and intricacies of staking within IoTeX.\
-[View the IoTeX Staking Guide ->](iotex-staking-guide/)
+[View the IoTeX Staking Guide ->](iotex-staking-guide.md)
 
 ## Becoming a Delegate
 

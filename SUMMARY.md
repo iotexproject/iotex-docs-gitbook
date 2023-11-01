@@ -33,7 +33,7 @@
   * [Chainlink relayer](the-iotex-stack/web3-development/chainlink-relayer.md)
 * [IoTeX Staking](the-iotex-stack/iotex-staking/README.md)
   * [About IoTeX Staking](the-iotex-stack/iotex-staking/about-iotex-staking.md)
-  * [IoTeX Staking Guide](the-iotex-stack/iotex-staking/iotex-staking-guide/README.md)
+  * [IoTeX Staking Guide](the-iotex-stack/iotex-staking/iotex-staking-guide.md)
     * [Native Staking](the-iotex-stack/iotex-staking/iotex-staking-guide/native-staking.md)
     * [Staking as NFT](the-iotex-stack/iotex-staking/iotex-staking-guide/staking-as-nft.md)
   * [IoTeX Staking Integration](the-iotex-stack/iotex-staking/iotex-staking-integration.md)

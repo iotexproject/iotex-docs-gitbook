@@ -4,7 +4,7 @@ This section explores the concept of staking in IoTeX and how it works in detail
 
 [About IoTeX Staking ->](about-iotex-staking.md)
 
-[IoTeX Staking Guide ->](iotex-staking-guide/)
+[IoTeX Staking Guide ->](iotex-staking-guide.md)
 
 [Integrate IoTeX Staking in Staking-as-a-Service Solutions ->](iotex-staking-integration.md)
 
