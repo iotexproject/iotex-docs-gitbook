@@ -43,7 +43,3 @@ In order to submit a successful proposal for this grant, you'll have to adhere t
 {% hint style="info" %}
 Keep in mind that you'll have to **provide a link to your work**, so make sure you're happy with what you've done before moving on with the application. You can always reach out to our [**Discord Server**](https://discord.gg/iotex) with any question or for any support.
 {% endhint %}
-
-Once you're good to go, have learned a lot of have finally crafted a nice piece of content you're proud to share with the rest of the community, you can start filling out the form below and complete your application 👇
-
-{% embed url="https://form.typeform.com/to/GALonxd4" %}

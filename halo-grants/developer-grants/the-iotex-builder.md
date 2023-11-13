@@ -31,16 +31,4 @@ Join the ranks of the most skilled and ambitious developers in the IoTeX communi
 
 </details>
 
-{% hint style="info" %}
-Keep in mind that you'll have to **provide a link to your work**, so make sure you're happy with what you've done before moving on with the application. You can always reach out to our [**Discord Server**](https://discord.gg/iotex) with any question or for any support.
-{% endhint %}
 
-Is your PoC ready to be shared with the world? 🎉
-
-Once you're proud of your work, and your repo is looking great, it's time for you to fill out the form below and get your long awaited **IoTeX Builder SBT.**
-
-{% hint style="info" %}
-**⚠️ NOTE**: You'll have to provide a link to your project, so make sure you're happy with what you've built before moving on with the application.
-{% endhint %}
-
-{% embed url="https://form.typeform.com/to/we1ozDcP" %}
