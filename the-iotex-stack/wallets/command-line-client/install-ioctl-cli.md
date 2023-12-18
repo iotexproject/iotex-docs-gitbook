@@ -63,3 +63,7 @@ ioctl config set endpoint api.mainnet.iotex.one:443
 # Point ioctl to the IoTeX Testnet
 ioctl config set endpoint api.testnet.iotex.one:443
 ```
+
+{% content-ref url="../../reference/ioctl-cli-reference/" %}
+[ioctl-cli-reference](../../reference/ioctl-cli-reference/)
+{% endcontent-ref %}

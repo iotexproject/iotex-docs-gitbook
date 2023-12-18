@@ -4,13 +4,13 @@
 
 Install Latest Release Build
 
-```
+```bash
 curl https://raw.githubusercontent.com/iotexproject/iotex-core/master/install-cli.sh | sh
 ```
 
 install Latest Unstable Build
 
-```
+```bash
 curl https://raw.githubusercontent.com/iotexproject/iotex-core/master/install-cli.sh | sh -s "unstable"
 ```
 
