@@ -80,6 +80,7 @@
       * [Antenna Java](the-iotex-stack/reference/native-development/antenna-installation/antenna-java.md)
       * [Antenna Embedded](the-iotex-stack/reference/native-development/antenna-installation/antenna-embedded.md)
     * [Example code](the-iotex-stack/reference/native-development/reference-code/README.md)
+      * [Get Suggested Gas Price](the-iotex-stack/reference/native-development/reference-code/get-suggested-gas-price.md)
       * [Create an account](the-iotex-stack/reference/native-development/reference-code/create-an-account.md)
       * [Make Token Transfers](the-iotex-stack/reference/native-development/reference-code/make-token-transfers.md)
       * [XRC20 Tokens](the-iotex-stack/reference/native-development/reference-code/xrc20-tokens.md)
