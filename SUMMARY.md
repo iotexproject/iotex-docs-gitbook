@@ -81,7 +81,7 @@
       * [Antenna Embedded](the-iotex-stack/reference/native-development/antenna-installation/antenna-embedded.md)
     * [Example code](the-iotex-stack/reference/native-development/reference-code/README.md)
       * [Create an account](the-iotex-stack/reference/native-development/reference-code/create-an-account.md)
-      * [Get Suggested Gas Price](the-iotex-stack/reference/native-development/reference-code/get-suggested-gas-price.md)
+      * [Estimate Gas Price](the-iotex-stack/reference/native-development/reference-code/estimate-gas-price.md)
       * [Make Token Transfers](the-iotex-stack/reference/native-development/reference-code/make-token-transfers.md)
       * [XRC20 Tokens](the-iotex-stack/reference/native-development/reference-code/xrc20-tokens.md)
       * [Interact with smart contracts](the-iotex-stack/reference/native-development/reference-code/interact-with-smart-contracts.md)
