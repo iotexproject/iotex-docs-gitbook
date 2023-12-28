@@ -9,7 +9,7 @@ import Antenna from "iotex-antenna";
 import { toRau } from "iotex-antenna/lib/account/utils";
 
 (async () => {
-  const antenna = new Antenna("http://api.testnet.iotex.one:80");
+  const antenna = new Antenna("https://api.testnet.iotex.one");
   const unlockedWallet = await antenna.iotx.accounts.privateKeyToAccount(
     "73c7b4a62bf165dccf8ebdea8278db811efd5b8638e2ed9683d2d94889450426"
   );
@@ -42,7 +42,7 @@ import (
 )
 
 func main() {
-	conn, err := iotex.NewDefaultGRPCConn("api.testnet.iotex.one:80")
+	conn, err := iotex.NewDefaultGRPCConn("api.testnet.iotex.one")
 	if err != nil {
 		log.Fatalf("connection error : %v", err)
 	}
@@ -124,4 +124,3 @@ action, err := wallet.Iotx.GetActions(&iotexapi.GetActionsRequest{
 ```
 {% endtab %}
 {% endtabs %}
-

@@ -10,7 +10,7 @@ The `rpc-method` package allows you to make direct gRPC calls to the IoTeX block
 import Antenna from "iotex-antenna";
 
 (async () => {
-  const antenna = new Antenna("http://api.testnet.iotex.one:80");
+  const antenna = new Antenna("https://api.testnet.iotex.one");
 
   const account = await antenna.iotx.getAccount({
     address: "io1cl6rl2ev5dfa988qmgzg2x4hfazmp9vn2g66ng"
@@ -24,10 +24,12 @@ import Antenna from "iotex-antenna";
   });
 })();
 ```
+
+
 {% endtab %}
 
 {% tab title="Golang" %}
-```text
+```
 package main
 
 import (
@@ -39,7 +41,7 @@ import (
 )
 
 func main() {
-	wallet, err := antenna.NewAntenna("api.testnet.iotex.one:80")
+	wallet, err := antenna.NewAntenna("api.testnet.iotex.one")
 	if err != nil {
 		log.Fatalf("create antenna error: %v", err)
 	}
@@ -64,6 +66,8 @@ func main() {
 	})
 }
 ```
+
+
 {% endtab %}
 {% endtabs %}
 
@@ -72,10 +76,10 @@ func main() {
 {% tabs %}
 {% tab title="Javascript" %}
 ```javascript
-import RpcMethod from "iotex-antenna/lib/rpc-method";
+simport RpcMethod from "iotex-antenna/lib/rpc-method";
 
 (async () => {
-  const provider = new RpcMethod("http://api.testnet.iotex.one:80");
+  const provider = new RpcMethod("https://api.testnet.iotex.one");
 
   const account = await provider.getAccount({
     address: "io1cl6rl2ev5dfa988qmgzg2x4hfazmp9vn2g66ng"
@@ -89,6 +93,8 @@ import RpcMethod from "iotex-antenna/lib/rpc-method";
   });
 })();
 ```
+
+
 {% endtab %}
 
 {% tab title="Golang" %}
@@ -104,7 +110,7 @@ import (
 )
 
 func main() {
-	provider, err := rpcmethod.NewRPCMethod("api.testnet.iotex.one:80")
+	provider, err := rpcmethod.NewRPCMethod("api.testnet.iotex.one")
 	if err != nil {
 		log.Fatalf("create antenna error: %v", err)
 	}
@@ -129,6 +135,7 @@ func main() {
 	})
 }
 ```
+
+
 {% endtab %}
 {% endtabs %}
-

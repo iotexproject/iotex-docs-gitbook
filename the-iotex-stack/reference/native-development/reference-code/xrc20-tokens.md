@@ -10,7 +10,7 @@ import BigNumber from "bignumber.js";
 import { XRC20 } from "iotex-antenna/lib/token/xrc20";
 
 (async () => {
-  const antenna = new Antenna("http://api.testnet.iotex.one:80");
+  const antenna = new Antenna("https://api.testnet.iotex.one");
 
   // init accounts
   const account1 = antenna.iotx.accounts.privateKeyToAccount("privateKey1");
@@ -57,6 +57,7 @@ import { XRC20 } from "iotex-antenna/lib/token/xrc20";
   );
 })();
 ```
+
+
 {% endtab %}
 {% endtabs %}
-

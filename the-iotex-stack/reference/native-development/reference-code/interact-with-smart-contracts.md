@@ -54,7 +54,7 @@ import Antenna from "iotex-antenna";
 import { toRau } from "iotex-antenna/lib/account/utils";
 
 (async () => {
-  const antenna = new Antenna("http://api.testnet.iotex.one:80");
+  const antenna = new Antenna("https://api.testnet.iotex.one");
 
   const bytecode =
     "608060405234801561001057600080fd5b5060df8061001f6000396000f3006080604052600436106049576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff16806360fe47b114604e5780636d4ce63c146078575b600080fd5b348015605957600080fd5b5060766004803603810190808035906020019092919050505060a0565b005b348015608357600080fd5b50608a60aa565b6040518082815260200191505060405180910390f35b8060008190555050565b600080549050905600a165627a7a7230582043be766a6a271867521090c3e12130ea8891a8f59d4833bc205a3e2e2c70b4730029";
@@ -125,7 +125,7 @@ import (
 )
 
 func main() {
-	conn, err := iotex.NewDefaultGRPCConn("api.testnet.iotex.one:80")
+	conn, err := iotex.NewDefaultGRPCConn("api.testnet.iotex.one")
 	if err != nil {
 		log.Fatalf("connection error : %v", err)
 	}

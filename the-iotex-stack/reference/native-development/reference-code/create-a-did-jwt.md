@@ -15,7 +15,7 @@ import Antenna from "iotex-antenna";
 import { sign, verify } from "iotex-antenna/lib/jwt/jwt";
 
 (async () => {
-  const antenna = new Antenna("http://api.testnet.iotex.one:80");
+  const antenna = new Antenna("https://api.testnet.iotex.one");
 
   // recover the whole wallet from a single private key
   const unlockedWallet = antenna.iotx.accounts.privateKeyToAccount(

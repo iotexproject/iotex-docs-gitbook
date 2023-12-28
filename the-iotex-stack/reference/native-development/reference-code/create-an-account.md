@@ -6,7 +6,7 @@
 import Antenna from "iotex-antenna";
 
 (async () => {
-  const antenna = new Antenna("http://api.testnet.iotex.one:80");
+  const antenna = new Antenna("https://api.testnet.iotex.one");
 
   // create a new wallet which contains a public key, a private key, and an address.
   const wallet = antenna.iotx.accounts.create();
@@ -22,6 +22,8 @@ import Antenna from "iotex-antenna";
   });
 })();package main
 ```
+
+
 {% endtab %}
 
 {% tab title="Go Lang" %}
@@ -52,6 +54,8 @@ func main() {
 	fmt.Println(acc.Address)
 }
 ```
+
+
 {% endtab %}
 
 {% tab title="Swift" %}
@@ -76,6 +80,4 @@ IOTX iotx = new IOTX("api.testnet.iotex.one:80");
 ```
 {% endtab %}
 {% endtabs %}
-
-
 
