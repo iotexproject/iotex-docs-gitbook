@@ -1,47 +1,15 @@
 ---
-description: A full-stack platform to build decentralized infrastructure networks (DePIN)
+cover: .gitbook/assets/Group 1867.png
+coverY: 9.29439252336447
 ---
 
-# 👋 Welcome to IoTeX
+# 👋 Welcome to the IoTeX Docs
 
-IoTeX stands at the forefront of blockchain innovation, offering a robust and developer-friendly platform designed to support the development of **Decentralized Physical Infrastructure Networks (**_**DePIN**_**).**&#x20;
+[**IoTeX**](https://iotex.io/) is a comprehensive blockchain-based platform that offers full compatibility with [**Ethereum**](https://ethereum.org/en/) and other leading **EVM chains**, thanks to its decentralized [**bridge**](dev-toolkit/iotube-the-iotex-bridge.md). Further, through [**W3bstream**](https://w3bstream.com/), it empowers dApps to conduct verifiable processing using **zero-knowledge proofs**, bridging the gap between **off-chain data sources** and blockchain applications.
 
-Thanks to its efficient Layer 1 **blockchain** and the **verifiable computation** infrastructure powered by Zero Knowledge, IoTeX empowers you to build DePIN projects that are not only fully decentralized but also prioritise scalability, security, and trust.
+This documentation is designed for those looking to build with the IoTeX platform, covering everything from deploying basic smart contracts to developing more complex dapps that utilize off-chain data.
 
-<figure><img src=".gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+For beginners, we suggest starting with the "[_Basic Concepts_](the-iotex-stack/basic-concepts/)" section. Otherwise, navigate using the cards below to explore the primary topics:
 
-If you're familiar with **Ethereum**, you'll appreciate IoTeX’s full compatibility with the Ethereum Virtual Machine (EVM) and its RPC API, enabling you to seamlessly use your favorite Ethereum tools either to interact with IoTeX or to build on it.
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Deploy a Smart Contract</strong></td><td><a href="https://developers.iotex.io/posts/Deploy-a-smart-contract-using-Hardhat">https://developers.iotex.io/posts/Deploy-a-smart-contract-using-Hardhat</a></td></tr><tr><td align="center"><strong>Get Test Tokens</strong></td><td><a href="the-iotex-stack/iotx-faucets/testnet-tokens.md">testnet-tokens.md</a></td></tr><tr><td align="center"><strong>Build a DePIN Project</strong></td><td><a href="https://developers.iotex.io/posts/Deploy-DePIN-Projects-with-W3bstream">https://developers.iotex.io/posts/Deploy-DePIN-Projects-with-W3bstream</a></td></tr><tr><td align="center"><strong>Run an IoTeX Node</strong></td><td><a href="the-iotex-stack/iotex-nodes/">iotex-nodes</a></td></tr><tr><td align="center"><strong>Developers Portal</strong></td><td><a href="https://developers.iotex.io/">https://developers.iotex.io/</a></td></tr><tr><td align="center"><strong>IoTeX Academy</strong></td><td><a href="https://developers.iotex.io/academy/all">https://developers.iotex.io/academy/all</a></td></tr></tbody></table>
 
-{% hint style="info" %}
-**Don't know what blockchain is?**
-
-If you're unfamiliar with the foundational concepts of **blockchain** and Ethereum, we recommend starting with the official [**Intro to Ethereum**](https://ethereum.org/en/developers/docs/intro-to-ethereum/) [**→**](main-doc/building-on-iotex/depin-development.md)
-
-**Unfamiliar with DePIN?**
-
-For those new to the transformative world of **DePIN applications**, explore these in-depth DePIN overview articles on our blog to get started:
-
-📝 [What are Decentralized Physical Infrastructure Networks (DePIN)?](https://iotex.io/blog/what-are-decentralized-physical-infrastructure-networks-depin/)
-
-📝 [Guest Post: On Decentralized Physical Infrastructure Networks](https://iotex.io/blog/on-decentralized-physical-infrastructure-networks/)
-{% endhint %}
-
-***
-
-## **What's Next? Dive Into IoTeX**
-
-**Start Using IoTeX:** For those eager to navigate through the IoTeX ecosystem, dive into a comprehensive guide covering IoTeX tokenomics, acquiring IOTX tokens, configuring and funding a wallet, exploring popular dApps, and more.
-
-[**Get Started →**](broken-reference)
-
-**Embark on Web3 & DePIN Development:** Developers aiming to deploy their dApps on the IoTeX blockchain will find all the information and step-by-step guides to get up to speed with dApps development on IoTeX.
-
-[**Start Developing →**](main-doc/building-on-iotex/getting-started.md)
-
-**Build Your DePIN Project:** For DePIN builders, leverage the immense potential of Zero Knowledge proofs provided by IoTeX to bring decentralized physical infrastructure network (DePIN) projects to life, and explore the examples designed to speed up your build.&#x20;
-
-[**Begin Building DePIN →**](main-doc/building-on-iotex/depin-development.md)
-
-***
-
-_Happy exploring, and welcome to the world of DePIN, with IoTeX!_
