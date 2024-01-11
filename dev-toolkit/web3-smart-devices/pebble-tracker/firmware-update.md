@@ -39,20 +39,22 @@ Please make sure you download the file ending in `.hex`
 
 #### 4. Install and run Pebble USB Tools
 
+Pebble USB Tools is V3
+
 {% tabs %}
 {% tab title="macOS" %}
 1. Download and install the latest [VCP Drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) for macOS
-2. Download, unzip and run the executable file: [`PebbleUSBTool`](https://drive.google.com/drive/folders/1cQsBcBLBQolIwTY\_41n5lSzmtSZPH83e?usp=share\_link)
+2. Download, unzip and run the executable file: [`PebbleUSBTool`](https://drive.google.com/file/d/1ITgxkicc5WcSFcB0Q5i42JHcPau31ZpX/view?usp=share\_link)
 {% endtab %}
 
 {% tab title="Windows" %}
 1. Download and install the latest [VCP Driver](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) for Windows
 2. Download and install the latest [J-link software](https://www.segger.com/downloads/jlink/) for Windows
-3. Unzip and run the executable file: [`PebbleUSBTools.exe`](https://drive.google.com/file/d/1e5bcFnkK9oFWSLqikJicYKMcyYfUKyAg/view?usp=share\_link)
+3. Unzip and run the executable file: [`PebbleUSBTools.exe`](https://drive.google.com/file/d/1Sjvz7v1rP1iHvdpBiKCUmYMPhsCp8HGW/view?usp=share\_link)
 {% endtab %}
 
 {% tab title="Ubuntu" %}
-1. Download and unzip [PebbleUSBTools](https://drive.google.com/file/d/1ACW8KLiGJfB7q5t2Kp1YAolxr4oIeml8/view?usp=share\_link)
+1. Download and unzip [PebbleUSBTools](https://drive.google.com/file/d/1TfuAfpNCKNKDWboF9NbrGlEEeWgp1MAW/view?usp=share\_link)
 2. Enter the `PebbleUSBTool` folder
 3. Install `pebble-udev_1.0.1-all.deb`
 4. `chmod +777 PebbleUSBTools`
