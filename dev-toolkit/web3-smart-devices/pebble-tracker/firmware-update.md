@@ -20,7 +20,7 @@ If you want to update the firmware over the air, you will need a [working IoT SI
 12. Wait for the Pebble tracker to detect the request and start downloading the firmware
 
 {% hint style="success" %}
-\--> ✳️ If you own multiple devices, you can identify your devices from the “**Devices**” tab on the MachineFi portal by matching the IMEI number with the one printed on the Pebble box, and the serial number printed on the box with the one printed on the back of the device
+\-> ✳️ If you own multiple devices, you can identify your devices from the “**Devices**” tab on the MachineFi portal by matching the IMEI number with the one printed on the Pebble box, and the serial number printed on the box with the one printed on the back of the device
 {% endhint %}
 
 The download and installation of the firmware may require some time. In some cases, the download can fail due to a network error: this is usually caused by a low cellular signal in your area, especially if your SIM card connects using the NB-IoT band. In this case, you can try again, or just try the offline firmware update method detailed below.
@@ -42,17 +42,17 @@ Please make sure you download the file ending in `.hex`
 {% tabs %}
 {% tab title="macOS" %}
 1. Download and install the latest [VCP Drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) for macOS
-2. Download, unzip and run the executable file: [`PebbleUSBTool`](https://drive.google.com/file/d/1p5aQajwehvYWe1NWelWFaJCl45mMmeqJ/view?usp=sharing)
+2. Download, unzip and run the executable file: [`PebbleUSBTool`](https://drive.google.com/drive/folders/1cQsBcBLBQolIwTY\_41n5lSzmtSZPH83e?usp=share\_link)
 {% endtab %}
 
 {% tab title="Windows" %}
 1. Download and install the latest [VCP Driver](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) for Windows
 2. Download and install the latest [J-link software](https://www.segger.com/downloads/jlink/) for Windows
-3. Unzip and run the executable file: [`PebbleUSBTools.exe`](https://drive.google.com/file/d/1exM9L\_21qNQYAc92MdgKeXYK5ZHX3v3L/view?usp=sharing)
+3. Unzip and run the executable file: [`PebbleUSBTools.exe`](https://drive.google.com/file/d/1e5bcFnkK9oFWSLqikJicYKMcyYfUKyAg/view?usp=share\_link)
 {% endtab %}
 
 {% tab title="Ubuntu" %}
-1. Download and unzip [PebbleUSBTools](https://drive.google.com/file/d/1Ulcr7B6fYI5FH\_HJn71nHgDD7Yer6evR/view?usp=sharing)
+1. Download and unzip [PebbleUSBTools](https://drive.google.com/file/d/1ACW8KLiGJfB7q5t2Kp1YAolxr4oIeml8/view?usp=share\_link)
 2. Enter the `PebbleUSBTool` folder
 3. Install `pebble-udev_1.0.1-all.deb`
 4. `chmod +777 PebbleUSBTools`
