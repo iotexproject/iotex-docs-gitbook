@@ -66,9 +66,13 @@ This determines the number of IOTX you wish to stake/vote. You can add IOTX to a
 
 ### Set the Staking Duration <a href="#staking-duration" id="staking-duration"></a>
 
-This is the amount of time you wish to stake your tokens (between 0-1050 days). The longer you stake, the more bonus votes/rewards you get. Your stake duration is essentially a timer countdown to when you will be able to unstake your IOTX. When the duration hits 0, you can then choose to unstake your deposit.
+This is the amount of time you wish to lock your tokens (between 0-1050 days). The longer you lock your deposit, the more bonus votes (and therefore rewards) you get. Your stake duration essentially serves as a countdown timer until you can unstake your IOTX. When the remaining lock time hits 0, you can then choose to unstake your deposit. Total votes when staking IOTX can be calculated with the formula below:
 
-**Note:** Once the stake duration has expired, **the unstaking process takes an additional 3 days.** After this you may withdraw your tokens to your wallet.
+$$
+votes = deposited\_iotx + log_{1.2}(lock\_days)
+$$
+
+**Note:** Note: Once the stake duration has expired and you perform the unstake action, **the unstaking process takes an additional 3 days**. Following this, you can perform the "withdraw" action to get your tokens to your wallet.
 
 ### Enable Stake Lock (former "Auto-stake") <a href="#stake-lock-auto-stake" id="stake-lock-auto-stake"></a>
 

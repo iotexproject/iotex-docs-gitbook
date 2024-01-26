@@ -6,12 +6,13 @@ A core component of decentralized governance in the IoTeX Network is staking. In
 
 ## Delegates and Consensus
 
-IoTeX utilizes a consensus mechanism known as [Roll-DPoS](https://res.cloudinary.com/dokc3pa1x/image/upload/v1559623484/Research%20Paper/Academic\_Paper\_Yellow\_Paper.pdf). In this system, community-voted Delegates manage consensus on behalf of the IoTeX Network. Anyone can “stake” their IOTX and cast a "vote" for one or more Delegates. A comprehensive list of IoTeX Delegates is available on the [Staking Portal](http://member.iotex.io/). Here, youu can also stake your tokens, choose delegates to support, and manage your ongoing staking deposits.
+IoTeX utilizes a consensus mechanism known as [Roll-DPoS](https://res.cloudinary.com/dokc3pa1x/image/upload/v1559623484/Research%20Paper/Academic\_Paper\_Yellow\_Paper.pdf). In this system, community-voted Delegates manage consensus on behalf of the IoTeX Network. Anyone can “stake” their IOTX and cast a "vote" for one or more Delegates. A comprehensive list of IoTeX Delegates is available on the [Staking Portal](http://member.iotex.io/). Here, you can also stake your tokens, and choose delegates to support and manage your ongoing staking deposits.
 
 ## Estimated returns
 
-Information about estimated staking returns can be sourced from third-party services.\
-[Visit Staking Rewards.com ->](https://www.stakingrewards.com/asset/iotex)&#x20;
+With IoTeX, the staking interest rate is approximately 6% APR, depending on the total IOTX staked in the network and the chosen staking configuration. When staking, the return can be enhanced by configuring various lock settings.
+
+[Learn more about configuring your staking ->](iotex-staking-guide.md#staking-duration)
 
 ## The staking guide
 
