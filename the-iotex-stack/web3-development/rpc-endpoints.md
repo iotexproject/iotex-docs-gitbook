@@ -16,7 +16,7 @@ Checkout the "[Run as a Gateway](https://delegates.iotex.io/get-started/node-con
 
 **Testnet \[Chain ID `4690`]**
 
-<table><thead><tr><th width="362.5471637775761">Endpoint</th><th width="120">Type</th><th width="127">Text</th><th>More</th></tr></thead><tbody><tr><td>https://babel-api.testnet.iotex.io</td><td>HTTP</td><td>IoTeX Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr><tr><td>wss://babel-api.testnet.iotex.io/ws</td><td>WSS</td><td>IoTeX Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr></tbody></table>
+<table><thead><tr><th width="362.5471637775761">Endpoint</th><th width="120">Type</th><th width="127">Text</th><th>More</th></tr></thead><tbody><tr><td>https://babel-api.testnet.iotex.io</td><td>HTTP</td><td>IoTeX Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr><tr><td>wss://babel-api.testnet.iotex.io/ws</td><td>WSS</td><td>IoTeX Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr><tr><td> https://babel-api.testnet.iotex.one</td><td>HTTP</td><td>IoTeX Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr><tr><td> https://babel-api.testnet.iotex.one/wss</td><td>WSS</td><td>IoTeX Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr></tbody></table>
 
 **Example**
 

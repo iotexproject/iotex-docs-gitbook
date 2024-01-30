@@ -56,7 +56,7 @@
     * [Rosetta API](the-iotex-stack/iotex-nodes/run-a-gateway-rosetta-api/rosetta-api.md)
   * [Fastblocks (Node as a Service)](the-iotex-stack/iotex-nodes/fastblocks.md)
 * [Reference](the-iotex-stack/reference/README.md)
-  * [Ethereum API Compatibility](the-iotex-stack/reference/babel-web3-api.md)
+  * [Ethereum API Compatibility](https://docs.iotex.io/the-iotex-stack/web3-development/rpc-endpoints)
   * [iotex-core - gRPC API](the-iotex-stack/reference/node-core-api-grpc.md)
   * [ioctl cli - Reference](the-iotex-stack/reference/ioctl-cli-reference/README.md)
     * [Accounts](the-iotex-stack/reference/ioctl-cli-reference/accounts.md)
