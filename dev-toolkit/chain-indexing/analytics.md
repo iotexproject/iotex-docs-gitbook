@@ -1,4 +1,4 @@
-# Chain Analytics API
+# IoTeX Analytics
 
 _IoTeX Analytics_ is a service built upon IoTeX core API which extracts data from IoTeX blockchain and indexes them for applications to use via API calls or a GraphQL web interface.
 
@@ -12,7 +12,7 @@ Access to the analytics API requires an API token, which you can obtain using th
 ioctl jwt sign --with-arguments '{"exp":"1767024000","sub":"AnalyserAPI","scope":"Read"}' -s user
 ```
 
-See the [ioctl reference documentation](../the-iotex-stack/reference/ioctl-cli-reference/#install) on how to install the tool and hot to use it to [issue a JWT token](../the-iotex-stack/reference/ioctl-cli-reference/jwt-tokens.md#use-ioctl-to-issue-jwt).
+See the [ioctl reference documentation](../../the-iotex-stack/reference/ioctl-cli-reference/#install) on how to install the tool and hot to use it to [issue a JWT token](../../the-iotex-stack/reference/ioctl-cli-reference/jwt-tokens.md#use-ioctl-to-issue-jwt).
 
 After generating the token, you can use it to access the API and perform the necessary operations.&#x20;
 
