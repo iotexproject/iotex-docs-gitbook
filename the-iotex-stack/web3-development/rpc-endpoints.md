@@ -10,11 +10,11 @@ Below, you find a list of official and third-party IoTeX gateways that [provide 
 Checkout the "[Run as a Gateway](https://delegates.iotex.io/get-started/node-configuration/run-the-node#run-as-a-gateway)" section of the iotex [full-node documentation](https://delegates.iotex.io) to learn how to run a full node as a network RPC endpoint.
 {% endhint %}
 
-#### Mainnet \[Chain ID `4689`]
+### Mainnet \[Chain ID 4689]
 
 <table><thead><tr><th width="362.4995649735719">Endpoint</th><th width="118">Type</th><th width="129">Provider</th><th>More</th></tr></thead><tbody><tr><td>https://babel-api.mainnet.iotex.io</td><td>HTTP</td><td>IoTeX<br>Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr><tr><td>wss://babel-api.mainnet.iotex.io/ws</td><td>WSS</td><td>IoTeX<br>Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr><tr><td>https://babel-api.mainnet.iotex.one</td><td>HTTP</td><td>IoTeX Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr><tr><td>https://babel-api.fastblocks.io</td><td>HTTP</td><td>IoTeX Foundation</td><td><a href="https://fastblocks.io/">fastblock.io</a></td></tr><tr><td>https://iotexrpc.com</td><td>HTTP</td><td>Ankr</td><td><a href="https://iotexrpc.com">iotexrpc.com</a></td></tr><tr><td>https://rpc.ankr.com/iotex</td><td>HTTP</td><td>Ankr</td><td><a href="https://ankr.com">ankr.com</a></td></tr><tr><td>https://iotex-network.rpc.thirdweb.com</td><td>HTTP</td><td>Thirdweb</td><td><a href="https://thirdweb.com/iotex-network">Thirdweb</a></td></tr></tbody></table>
 
-**Testnet \[Chain ID `4690`]**
+### Testnet \[Chain ID 4690]
 
 <table><thead><tr><th width="362.5471637775761">Endpoint</th><th width="120">Type</th><th width="127">Text</th><th>More</th></tr></thead><tbody><tr><td>https://babel-api.testnet.iotex.io</td><td>HTTP</td><td>IoTeX Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr><tr><td>wss://babel-api.testnet.iotex.io/ws</td><td>WSS</td><td>IoTeX Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr><tr><td> https://babel-api.testnet.iotex.one</td><td>HTTP</td><td>IoTeX Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr><tr><td> https://babel-api.testnet.iotex.one/wss</td><td>WSS</td><td>IoTeX Foundation</td><td><a href="https://iotex.io">iotex.io</a></td></tr></tbody></table>
 
