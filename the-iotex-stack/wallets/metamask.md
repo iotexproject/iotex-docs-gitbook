@@ -26,13 +26,13 @@ In the Metamask browser extension, open the "**Networks**" drop-down menu at the
 
 Input the respective network values for IoTeX Mainnet or IoTeX Testnet:
 
-| Parameter          | Mainnet                                                                           | Testnet                                                      |
-| ------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| **`Network Name`** | _"IoTeX Mainnet"_                                                                 | _"IoTeX Testnet"_                                            |
-| **`RPC URL`**      | See [RPC Endpoints »](../web3-development/rpc-endpoints.md#mainnet-chain-id-4689) | See  [RPC Endpoints »](../web3-development/rpc-endpoints.md) |
-| **`Chain ID`**     | 4689                                                                              | 4690                                                         |
-| **`Symbol`**       | IOTX                                                                              | IOTX                                                         |
-| **`Explorer URL`** | [https://iotexscan.io](https://iotexscan.io)                                      | [https://testnet.iotexscan.io](https://testnet.iotexscan.io) |
+| Parameter          | Mainnet                                                                               | Testnet                                                                                |
+| ------------------ | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **`Network Name`** | _"IoTeX Mainnet"_                                                                     | _"IoTeX Testnet"_                                                                      |
+| **`RPC URL`**      | See [Mainnet Endpoints »](../web3-development/rpc-endpoints.md#mainnet-chain-id-4689) | See  [Testnet Endpoints »](../web3-development/rpc-endpoints.md#testnet-chain-id-4690) |
+| **`Chain ID`**     | 4689                                                                                  | 4690                                                                                   |
+| **`Symbol`**       | IOTX                                                                                  | IOTX                                                                                   |
+| **`Explorer URL`** | [https://iotexscan.io](https://iotexscan.io)                                          | [https://testnet.iotexscan.io](https://testnet.iotexscan.io)                           |
 
 ![](<../../.gitbook/assets/image (51).png>)
 
