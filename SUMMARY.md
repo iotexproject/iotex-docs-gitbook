@@ -137,7 +137,7 @@
         * [Application firmware](dev-toolkit/web3-smart-devices/pebble-tracker/firmware-development/flashing-the-firmware/application-firmware.md)
         * [Bootloader firmware](dev-toolkit/web3-smart-devices/pebble-tracker/firmware-development/flashing-the-firmware/bootloader-firmware.md)
 
-## ☘ Halo Grants
+## ☘️ Halo Grants
 
 * [Summary](halo-grants/summary.md)
 * [Intro & Benefits](halo-grants/halo-grants-program/README.md)

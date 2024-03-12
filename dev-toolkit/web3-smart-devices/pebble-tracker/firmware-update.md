@@ -35,7 +35,7 @@ You can perform a firmware upgrade of your Pebble Tracker offline by following t
 
 Please make sure you download the file ending in `.hex`
 
-{% embed url="https://github.com/iotexproject/pebble-apps/releases/tag/v1.0.13-riverrock" %}
+{% embed url="https://github.com/iotexproject/pebble-apps/releases" %}
 
 #### 4. Install and run Pebble USB Tools
 
