@@ -103,6 +103,7 @@
 ## 🧰 Dev Toolkit
 
 * [Developer Portal](dev-toolkit/developer-portal.md)
+* [Contract Verification](dev-toolkit/contract-verification.md)
 * [Account Abstraction](dev-toolkit/account-abstraction.md)
 * [ioTube Bridge](dev-toolkit/iotube-the-iotex-bridge.md)
 * [Chain Indexing](dev-toolkit/chain-indexing/README.md)
