@@ -7,7 +7,7 @@ There are two options for you to update the firmware of your Pebble Tracker: OTA
 If you want to update the firmware over the air, you will need a [working IoT SIM card](quick-start.md#finding-a-sim-card) installed in your Pebble Tracker with enough credit available to download the firmware file. Follow the steps below to start the OTA firmware update:
 
 1. Make sure your SIM card is correctly installed in the SIM card slot of the device
-2. Power off your Pebble Tracker by pressing the `Power/Confirm` button and keeping it pressed until the status led flashes green
+2. Power off your Pebble Tracker by pressing the `Power/Confirm` button and keeping it pressed until the status LED flashes green
 3. Press and keep pressing the `Up Arrow` button, then press and release the `Power/Confirm` button (while keeping the Up Arrow still pressed).&#x20;
 4. Release the up arrow once the device is powered on and you see the message “_<mark style="color:purple;">OTA Firmware Update. Connecting...</mark>_” message on the display
 5. Wait for the device to connect to the cellular network and the message “_<mark style="color:purple;">Please choose an app from the portal</mark>_” is displayed
@@ -27,7 +27,7 @@ The download and installation of the firmware may require some time. In some cas
 
 ### Offline Firmware Upgrade
 
-Use this method if you don’t have a SIM card yet, or the IoT cellular connection is not strong enough in your area, or just you don’t want to consume data from your IoT data plan.&#x20;
+Use this method if you don’t have a SIM card yet, the IoT cellular connection is not strong enough in your area, or you don’t want to consume data from your IoT data plan.&#x20;
 
 You can perform a firmware upgrade of your Pebble Tracker offline by following the steps below:
 
@@ -44,7 +44,7 @@ Pebble USB Tools is V3
 {% tabs %}
 {% tab title="macOS" %}
 1. Download and install the latest [VCP Drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) for macOS
-2. Download, unzip and run the executable file: [`PebbleUSBTool`](https://drive.google.com/file/d/1ITgxkicc5WcSFcB0Q5i42JHcPau31ZpX/view?usp=share\_link)
+2. Download, unzip, and run the executable file: [`PebbleUSBTool`](https://drive.google.com/file/d/1ITgxkicc5WcSFcB0Q5i42JHcPau31ZpX/view?usp=share\_link)
 {% endtab %}
 
 {% tab title="Windows" %}
