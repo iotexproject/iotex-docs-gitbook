@@ -2,11 +2,11 @@
 
 Smart contract audits are the first line of defense to safeguard your funds and those of your Dapp users.
 
-Different audit firms are available on the market:
+While there are many valid audit firms available on the market, IoTeX builders have special perks with some of our ecosystem partners, such as:&#x20;
 
-{% embed url="https://shield.certik.foundation/shield-services" %}
+{% embed url="https://www.secure3.io/" %}
 
-{% embed url="https://www.slowmist.com/en/service-smart-contract-security-audit.html" %}
+{% embed url="https://solidityscan.com/" %}
 
 {% embed url="https://chainshield.io/" %}
 
