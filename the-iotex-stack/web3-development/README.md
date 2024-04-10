@@ -10,7 +10,7 @@ description: Web3 Development and Solidity support
 
 The [**IoTeX**](https://iotex.io/) Blockchain implements a full-featured **Ethereum Virtual Machine (EVM)**, allowing you to use **Solidity** as a programming language to create smart contracts on IoTeX or port any existing Ethereum smart contract to IoTeX without changes to the source code.
 
-EVM versions keep evolving over time: the currently supported EVM version in **London**, which allows you to build Dapps using the latest Solidity compiler version v**0.8.14**.&#x20;
+EVM versions keep evolving over time: the currently supported EVM version in **Shanghai**, which allows you to build Dapps using the latest Solidity compiler version v**0.8.20**.&#x20;
 
 
 
