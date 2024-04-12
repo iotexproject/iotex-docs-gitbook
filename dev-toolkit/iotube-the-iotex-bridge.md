@@ -1,6 +1,6 @@
 # ioTube Bridge
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 [ioTube](https://iotube.org) is a cross-chain bridge designed to be **decentralized**, **multi-chain**, and **multi-asset**.
 
