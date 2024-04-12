@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # iotex-core - gRPC API
 
 When running in "Gateway" mode, an IoTeX node exposes both the IoTeX native API and the Ethereum JSON API. The IoTeX native API is based on the gRPC protocol. In this document, we list the official IoTeX public gateway nodes exposing the gRPC API and the API calls reference.
