@@ -127,6 +127,7 @@
     * [Firmware update](dev-toolkit/web3-smart-devices/pebble-tracker/firmware-update.md)
     * [Network selection](dev-toolkit/web3-smart-devices/pebble-tracker/network-selection.md)
     * [Data Endpoints](dev-toolkit/web3-smart-devices/pebble-tracker/endpoints.md)
+    * [Configure your Pebble](dev-toolkit/web3-smart-devices/pebble-tracker/configure-your-pebble.md)
     * [Firmware Development](dev-toolkit/web3-smart-devices/pebble-tracker/firmware-development/README.md)
       * [Technical Specification](dev-toolkit/web3-smart-devices/pebble-tracker/firmware-development/technical-specification.md)
       * [Hardware Setup](dev-toolkit/web3-smart-devices/pebble-tracker/firmware-development/hardware-setup.md)
