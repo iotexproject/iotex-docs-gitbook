@@ -25,7 +25,7 @@ Download Pebble Configuration Tool
 
 Make sure you move the `config.pbi` file into the application's directory at `PebbleConfigTool_MacOS.app/Contents/MacOS` before you launch the tool.
 
-## **For Developers**
+### **For Developers**
 
 **Custom Configuration for Projects:**
 
