@@ -1,8 +1,46 @@
 # IOTX Token
 
-<table><thead><tr><th width="161">Blockchain</th><th width="131">Symbol</th><th>Contract Address</th></tr></thead><tbody><tr><td>Ethereum</td><td><code>IOTX</code></td><td><code>0x6fb3e0a217407efff7ca062d46c26e5d60a14d69</code></td></tr></tbody></table>
+## Overview <a href="#overview" id="overview"></a>
 
-####
+The IOTX token, commonly known as "_iotex_," serves as the native cryptocurrency of the IoTeX blockchain, playing a role similar to Ether (ETH) in Ethereum. It underpins a marketplace for computational power, ensuring that nodes who run the blockchain are financially motivated to validate and process transactions, as well as to supply the computational power required to execute smart contracts across the network. This mechanism is vital for maintaining the network's operation and efficiency.
+
+[-> Read more about IOTX token in this blog article](https://iotex.io/blog/iot-investments-for-the-future/)
+
+## Tokenomics <a href="#tokenomics" id="tokenomics"></a>
+
+| Info               | Value                       |
+| ------------------ | --------------------------- |
+| Max Supply         | 10 Billions IOTX            |
+| Total Supply       | 9,441,378,959 IOTX          |
+| Circulating Supply | All IOTX are in circulation |
+
+[-> Check out IOTX on CoinMarketCap](https://coinmarketcap.com/currencies/iotex/)
+
+[-> Check out IOTX on CoinGecko](https://www.coingecko.com/en/coins/iotex)
+
+## Transaction fees <a href="#transaction-fees" id="transaction-fees"></a>
+
+In the IoTeX network, anyone initiating a transaction must pay a fee in IOTX, similar to Ethereum's transaction fee structure. This fee compensates the network nodes responsible for validating, executing, and recording the transaction on the blockchain. The size of the fee corresponds to the computational effort required for the transaction, helping to prevent network abuse by discouraging excessively demanding computational tasks without appropriate compensation.
+
+## IOTX Token utility <a href="#iotx-token-utility" id="iotx-token-utility"></a>
+
+IOTX serves multiple crucial roles in maintaining the crypto-economic security of the IoTeX network:
+
+**Rewards:** IOTX is used to reward nodes who successfully propose new blocks and identify fraudulent activities within the network.
+
+**Staking by Validators:** Validator nodes stake IOTX as a form of commitment and collateral, helping to safeguard the network against dishonest behaviors.
+
+**Delegate Election:** IOTX is crucial for staking by token holders, who use it to vote for delegates. This process is vital for maintaining decentralized governance and overall network security.
+
+**Burn-Drop Mechanism:** In a unique deflationary tactic specific to the IoT environment, IOTX implements the "Burn-Drop" scheme. Whenever a new IoT device is registered on the IoTeX blockchain, a specified number of tokens are burned, and a corresponding amount is airdropped to stakers, simultaneously reducing the total supply and rewarding active participants.
+
+## Instances of the IOTX token <a href="#instances-of-the-iotx-token" id="instances-of-the-iotx-token"></a>
+
+### IOTX ERC20 <a href="#iotx-erc20" id="iotx-erc20"></a>
+
+IOTX ERC20 token is the original form of the IOTX token that was issued on the Ethereum blockchain during the initial development phase of the IoTeX blockchain protocol. Prior to the launch of the IoTeX blockchain in 2019, IOTX was primarily an Etherum ERC20 token to facilitate early distribution and community engagement.
+
+<table><thead><tr><th width="161">Blockchain</th><th width="131">Symbol</th><th>Contract Address</th></tr></thead><tbody><tr><td>Ethereum</td><td><code>IOTX</code></td><td><code>0x6fb3e0a217407efff7ca062d46c26e5d60a14d69</code></td></tr></tbody></table>
 
 <details>
 
