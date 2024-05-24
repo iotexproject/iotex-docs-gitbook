@@ -23,12 +23,15 @@ The IOTX token, commonly known as "_iotex_," serves as the native cryptocurrency
 In the IoTeX network, anyone initiating a transaction must pay a fee in $IOTX, similar to Ethereum's transaction fee structure. These transaction fees, known as "_gas_", along with donations, for example, go into a **Reward Pool** which also includes all Roll DPoS rewards such as block rewards, epoch bonus, and so on.
 
 {% hint style="info" %}
-Feel free to refer to [this community conversation](https://community.iotex.io/t/hi-where-does-the-revenue-gas-from-the-iotex-protocol-go/11944) in the **IoTeX Community Forum** if you'd like to learn more.&#x20;
+💡 Did you know? \
+Currently 12% of the total $IOTX supply has been deposited into the Reward Pool.
 {% endhint %}
 
 This Reward Pool is used to compensate the network nodes responsible for validating, executing, and recording the transaction on the blockchain. The size of the fee corresponds to the computational effort required for the transaction, helping to prevent network abuse by discouraging excessively demanding computational tasks without appropriate compensation.
 
-
+{% hint style="info" %}
+Feel free to refer to [this community conversation](https://community.iotex.io/t/hi-where-does-the-revenue-gas-from-the-iotex-protocol-go/11944) in the **IoTeX Community Forum** if you'd like to learn more.&#x20;
+{% endhint %}
 
 ## IOTX Token utility <a href="#iotx-token-utility" id="iotx-token-utility"></a>
 
