@@ -11,7 +11,7 @@
   * [Blockchain Actions](the-iotex-stack/basic-concepts/blockchain-actions.md)
   * [Address Conversion](the-iotex-stack/basic-concepts/address-conversion.md)
   * [Blockchain Nodes](the-iotex-stack/basic-concepts/blockchain-nodes.md)
-  * [IOTX Token](the-iotex-stack/basic-concepts/iotx-token.md)
+  * [$IOTX Token](the-iotex-stack/basic-concepts/iotx-token.md)
 * [Wallets](the-iotex-stack/wallets/README.md)
   * [ioPay Official](the-iotex-stack/wallets/iopay-official/README.md)
     * [IoTeX Wallet HD Derivation Path](the-iotex-stack/wallets/iopay-official/iotex-wallet-hd-derivation-path.md)
