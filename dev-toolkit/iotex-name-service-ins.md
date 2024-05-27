@@ -1,2 +1,0 @@
-# IoTeX Name Service (INS)
-

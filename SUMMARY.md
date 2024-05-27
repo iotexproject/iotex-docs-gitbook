@@ -122,7 +122,6 @@
   * [Verifiable Credentials](dev-toolkit/decentralized-identity/verifiable-credentials.md)
   * [Security Considerations](dev-toolkit/decentralized-identity/security-considerations.md)
   * [References](dev-toolkit/decentralized-identity/references.md)
-* [IoTeX Name Service (INS)](dev-toolkit/iotex-name-service-ins.md)
 * [Web3 Smart Devices](dev-toolkit/web3-smart-devices/README.md)
   * [Pebble Tracker](dev-toolkit/web3-smart-devices/pebble-tracker/README.md)
     * [Quick Start](dev-toolkit/web3-smart-devices/pebble-tracker/quick-start.md)
