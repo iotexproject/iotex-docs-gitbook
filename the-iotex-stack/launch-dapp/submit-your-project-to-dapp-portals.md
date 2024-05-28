@@ -2,14 +2,6 @@
 
 Once your project is launched, please submit it to all partners' portals below to make sure IoTeX community is informed about your project.
 
-## DappRadar
-
-{% embed url="https://dappradar.com/rankings/protocol/iotex" %}
-
-DappRadar provides information and insights about all the existing IoTeX dapps.
-
-**Submit** [https://dappradar.com/dashboard/submit-dapp](https://dappradar.com/dashboard/submit-dapp)
-
 ## VFat
 
 {% embed url="https://vfat.tools/iotex" %}
@@ -41,14 +33,6 @@ Submit [https://github.com/DefiLlama/DefiLlama-Adapters/](https://github.com/Def
 **Get your smart contract reviewed and listed on rugdoc!**
 
 Submit by joining their telegram channel [https://t.me/rugdocchat](https://t.me/rugdocchat) and sending the command _`*request`_ to get started.
-
-## iotexdefi.com
-
-{% embed url="https://iotexdefi.com" %}
-
-A collection of DeFi projects on IoTeX and quick links to configure Metamask, ioPay, etc.
-
-**Submit**: [https://github.com/iotexdefi/iotexdefi](https://github.com/iotexdefi/iotexdefi)
 
 ## iotexprojects.com
 

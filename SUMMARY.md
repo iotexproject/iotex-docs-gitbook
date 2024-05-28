@@ -27,7 +27,6 @@
   * [RPC Endpoints](the-iotex-stack/web3-development/rpc-endpoints.md)
   * [Web3.js](the-iotex-stack/web3-development/web3.js.md)
   * [Remix](the-iotex-stack/web3-development/remix.md)
-  * [Truffle](the-iotex-stack/web3-development/truffle.md)
   * [Hardhat](the-iotex-stack/web3-development/hardhat.md)
   * [Subgraph](the-iotex-stack/web3-development/subgraph.md)
   * [Off-chain Price-feeds](the-iotex-stack/web3-development/off-chain-price-feeds/README.md)
