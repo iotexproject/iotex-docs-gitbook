@@ -28,7 +28,7 @@
   * [Web3.js](the-iotex-stack/web3-development/web3.js.md)
   * [Remix](the-iotex-stack/web3-development/remix.md)
   * [Hardhat](the-iotex-stack/web3-development/hardhat.md)
-  * [The Graph](the-iotex-stack/web3-development/subgraph.md)
+  * [The Graph](the-iotex-stack/web3-development/thegraph.md)
   * [Off-chain Price-feeds](the-iotex-stack/web3-development/off-chain-price-feeds/README.md)
     * [Chainlink relayer](the-iotex-stack/web3-development/off-chain-price-feeds/chainlink-relayer.md)
     * [SupraOracles](the-iotex-stack/web3-development/off-chain-price-feeds/supraoracles.md)
