@@ -41,11 +41,3 @@ Below you'll also find a list of requirements and expectations we have of our ap
   Utilize the resources provided, engage with fellow IoTeX developers, and continuously improve your skills and understanding of the platform.
 
 </details>
-
-{% hint style="info" %}
-Remember, if anything is unclear, or if you even have any question or need support, you can always find us on our [**Discord server**](https://discord.gg/iotex)
-{% endhint %}
-
-When you're ready to embark on this journey, use the form below to apply for this grant and schedule the short interview with one of out team members:&#x20;
-
-{% embed url="https://form.typeform.com/to/KEl0njRl" %}
