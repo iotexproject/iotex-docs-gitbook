@@ -42,9 +42,9 @@ You can copy this directly from your subgraph page to include your specific subg
 graph init --studio <SUBGRAPH_SLUG>
 ```
 
-You’ll be prompted to provide some info on your subgraph like this:
+You’ll be prompted to provide some info on your subgraph, make sure you select **`ethereum`** as the protocol, and **`iotex`** as the network:
 
-![cli sample](https://lh7-us.googleusercontent.com/docsz/AD\_4nXdTAUsUb5vbs3GtCrhKhuXM1xYoqqooYTxw6lfJfYtLJNP8GKVOhTPmjxlM1b6Qpx-pXNVOzRuc8BL12wZXqy4MIj8ja0tp15znfuJD\_Mg84SSNj3JpQ4d31lNTxPYnpba4UOzZx8pmgOIsbI7vCz70v9gC?key=fnI6SyFgXU9SZRNX5C5vPQ)
+<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption><p>CLI execution example</p></figcaption></figure>
 
 Simply have your contract verified on the block explorer and the CLI will automatically obtain the ABI and set up your subgraph. The default settings will generate an entity for each event.
 
