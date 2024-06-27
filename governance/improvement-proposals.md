@@ -2,11 +2,15 @@
 
 ## What are IoTeX Improvement Proposals
 
-An _<mark style="color:purple;">IoTeX Improvement Proposal</mark>_ (or "_IIP"_) is a design document providing information to the IoTeX community, or describing a new feature for [**IoTeX**](https://iotex.io/), its processes, or its environment.&#x20;
+An **IoTeX Improvement Proposal** (or "IIP") is a design document providing information to the IoTeX community, or describing a new feature for [**IoTeX**](https://iotex.io/), its processes, or its environment.&#x20;
 
 IIPs are intended to be the primary mechanisms for proposing new features, collecting community input on an issue, and documenting the design decisions that have been implemented in the IoTeX ecosystem.
 
 Because IIPs are maintained as text files in a versioned repository, their revision history also represents the historical record of the feature proposal itself.
+
+**See all IoTeX Improvement Proposals on GitHub:**
+
+{% embed url="https://github.com/iotexproject/iips" %}
 
 ## Submitting an IIP
 
